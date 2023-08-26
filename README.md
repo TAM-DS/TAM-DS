@@ -1,16 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tracy Manning
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is tracy manning
 =====================================================================================================================================
 
-Data Scientist with Programming Skills
---------------------------------------
+Data Scientist
+--------------
 
-Embarking on a journey fueled by data and innovation, I am a multifaceted data scientist seamlessly weaving together the art of programming, the power of predictive analysis, and a keen business acumen. With a palette of AI and ML, I craft intelligent solutions illuminating patterns within data, revealing insights that steer businesses toward success with unwavering precision.
+Embarking on a journey fueled by data and innovation, I am a multifaceted data scientist seamlessly weaving together the art of programming, the power of predictive analytics, and a keen business acumen. With a palette of AI and ML, I craft intelligent solutions that illuminate patterns within data, revealing insights that steer businesses toward success.
 
-* 🌍  I'm based in Austin, Texas
-* ✉️  You can contact me at [tmanning@post.harvard.edu manning.tracy@gmail.com](mailto:tmanning@post.harvard.edu manning.tracy@gmail.com )
-* 🧠  I'm learning Generative AI
-* 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  My secret weapons include: Python, SQL, Power BI, Python+Excel, NumPy, Matplotlib, Pandas, TensorFlow, Snowflake, Data Bricks, Google and Azure Cloud Architecture.
+* 🌍  I'm based in Texas
+* ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com)
+* 🤝  I'm open to collaborating on Interesting projects.
+* ⚡  My secret weapons include: Python + Excel, Power BI, SQL, TensorFlow, and Docker.
 
 
 
@@ -22,11 +21,8 @@ Embarking on a journey fueled by data and innovation, I am a multifaceted data s
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TAM-DS"><img src="https://github-readme-stats.vercel.app/api?username=TAM-DS&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="TAM-DS's GitHub stats" /></a>
+<a href="http://www.github.com/TAM-DS"><img src="https://github-readme-stats.vercel.app/api?username=TAM-DS&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TAM-DS's GitHub stats" /></a>
 
-<a href="http://www.github.com/TAM-DS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TAM-DS&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/TAM-DS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TAM-DS&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/TAM-DS"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TAM-DS&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/TAM-DS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAM-DS&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="http://www.github.com/TAM-DS"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TAM-DS&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
