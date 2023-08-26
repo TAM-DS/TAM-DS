@@ -9,7 +9,7 @@ Embarking on a journey fueled by data and innovation, I am a multifaceted data s
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects.
-* ⚡  My secret weapons include: Python + Excel, Power BI, SQL, TensorFlow, and Docker.
+* ⚡  My secret weapons include: Python + Excel, Power BI, SQL, TensorFlow, Docker, Google and Azure Cloud Architecture, Data Bricks and SnowFlake.
 
 
 
