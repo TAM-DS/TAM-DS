@@ -11,9 +11,6 @@ Embarking on a journey fueled by data and innovation, I am a multifaceted data s
 * 🤝  I'm open to collaborating on Interesting projects.
 * ⚡  My secret weapons include: Python + Excel, Power BI, SQL, TensorFlow, Docker, Google and Azure Cloud Architecture, Data Bricks and SnowFlake.
 
-<h1 align="center">Hi 👋, I'm Tracy Anne Griffin Manning</h1>
-<h3 align="center">I am a Data Scientist with programming skills.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tam-ds&label=Profile%20views&color=0e75b6&style=flat" alt="tam-ds" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tam-ds" alt="tam-ds" /></a> </p>
