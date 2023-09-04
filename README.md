@@ -21,10 +21,10 @@ Let's connect if you're looking for a dynamic professional who can transform dat
 
 Let's shape the future through data-driven excellence. Connect with me to start a conversation today! 🔗
 
-* 🌍  I'm based in Austin, Texas
+* 🌍  I'm based in San Antonio and Austin, Texas
 * ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com)[tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
 * 🤝  I'm open to collaborating on Interesting projects.
-* ⚡  My secret weapons include Python + Excel, Power BI, SQL, TensorFlow, Docker, Google and Azure Cloud Architecture, Data Bricks, and Snowflake.
+* ⚡  My secret weapons include Python + Excel, Power BI, SQL, TensorFlow, Docker, Google Cloud Architecture, Azure Data Bricks, PySpark, and Snowflake.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tam-ds&label=Profile%20views&color=0e75b6&style=flat" alt="tam-ds" /> </p>
 
