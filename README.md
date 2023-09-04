@@ -1,21 +1,36 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tracy Manning
 =====================================================================================================================================
 
-Data Scientist
+🚀 Data & Cloud Architect | Power BI Expert | TensorFlow Enthusiast | Senior Python Developer | Predictive Analytics Pro 📊
 --------------
+Welcome to my GitHub profile! I'm a passionate and seasoned Data Architect and Cloud Architect with a strong focus on leveraging data to drive actionable insights and solve complex business challenges. With expertise in a wide array of fields, I'm your go-to professional for all things data-driven. Here's a glimpse into my world:
 
-Embarking on a journey fueled by data and innovation, I am a multifaceted data scientist seamlessly weaving together the art of programming, the power of predictive analytics, and a keen business acumen. With a palette of AI and ML, I craft intelligent solutions that illuminate patterns within data, revealing insights that steer businesses toward success.
+💡 Data & Cloud Architecture: My career has been dedicated to designing scalable, efficient, and secure data solutions that empower organizations to make data-driven decisions. From optimizing data pipelines to architecting cloud infrastructure, I've got it covered.
+
+📈 Power BI Expertise: I'm a Power BI guru, transforming raw data into beautiful and interactive visualizations that tell compelling stories. Let me help you turn your data into a strategic asset.
+
+🤖 TensorFlow Enthusiast: My passion for machine learning and deep learning knows no bounds. TensorFlow is my playground, where I build intelligent models to solve real-world problems and extract valuable insights.
+
+🐍 Senior Python Developer: With years of experience, I'm fluent in Python, crafting robust and efficient code for data analysis and machine learning. I love pushing the boundaries of what's possible with Python.
+
+📊 Predictive Analytics Pro: I excel in predictive analysis, utilizing econometrics, statistics, and linear algebra to forecast future trends and make informed decisions. Let's unlock the power of data together.
+
+🧩 Problem Solver: Complex problems don't intimidate me; they excite me. I thrive on finding innovative solutions that drive business success.
+
+If you're looking for a dynamic professional who can transform data into actionable insights, architect scalable data solutions, and bring machine learning to your projects, let's connect! I'm always eager to collaborate with like-minded individuals and organizations to make an impact.
+
+Let's shape the future through data-driven excellence. Connect with me to start a conversation today! 🔗
 
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects.
-* ⚡  My secret weapons include: Python + Excel, Power BI, SQL, TensorFlow, Docker, Google and Azure Cloud Architecture, Data Bricks and SnowFlake.
+* ⚡  My secret weapons include Python + Excel, Power BI, SQL, TensorFlow, Docker, Google and Azure Cloud Architecture, Data Bricks, and SnowFlake.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tam-ds&label=Profile%20views&color=0e75b6&style=flat" alt="tam-ds" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tam-ds" alt="tam-ds" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning recomender project for a small food market**
+- 🔭 I’m currently working on a **Machine Learning recommender project for a small food market**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/tracy-anne-griffin-manning](www.linkedin.com/in/tracy-anne-griffin-manning)
 
