@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tracy Manning
 =====================================================================================================================================
 
-🚀 Data & Cloud Architect | Power BI Expert | TensorFlow Enthusiast | Senior Python Developer | Predictive Analytics Pro 📊
+🚀 Data & Cloud Architect 
 --------------
 Welcome to my GitHub profile! I'm a passionate and seasoned Data Architect and Cloud Architect with a strong focus on leveraging data to drive actionable insights and solve complex business challenges. With expertise in a wide array of fields, I'm your go-to professional for all things data-driven. Here's a glimpse into my world:
 
-💡 Data & Cloud Architecture: My career has been dedicated to designing scalable, efficient, and secure data solutions that empower organizations to make data-driven decisions. From optimizing data pipelines to architecting cloud infrastructure, I've got it covered.
+💡 Data & Cloud Architecture: My career has been dedicated to designing scalable, efficient, and secure data solutions that empower organizations to make data-driven decisions. I've got it covered from optimizing data pipelines to architecting cloud infrastructure.
 
 📈 Power BI Expertise: I'm a Power BI guru, transforming raw data into beautiful and interactive visualizations that tell compelling stories. Let me help you turn your data into a strategic asset.
 
-🤖 TensorFlow Enthusiast: My passion for machine learning and deep learning knows no bounds. TensorFlow is my playground, where I build intelligent models to solve real-world problems and extract valuable insights.
+🤖 TensorFlow Expert: My passion for machine learning and deep learning knows no bounds. TensorFlow is my playground, where I build intelligent models to solve real-world problems and extract valuable insights.
 
 🐍 Senior Python Developer: With years of experience, I'm fluent in Python, crafting robust and efficient code for data analysis and machine learning. I love pushing the boundaries of what's possible with Python.
 
@@ -17,14 +17,14 @@ Welcome to my GitHub profile! I'm a passionate and seasoned Data Architect and C
 
 🧩 Problem Solver: Complex problems don't intimidate me; they excite me. I thrive on finding innovative solutions that drive business success.
 
-If you're looking for a dynamic professional who can transform data into actionable insights, architect scalable data solutions, and bring machine learning to your projects, let's connect! I'm always eager to collaborate with like-minded individuals and organizations to make an impact.
+Let's connect if you're looking for a dynamic professional who can transform data into actionable insights, architect scalable data solutions, and bring machine learning to your projects! I'm always eager to collaborate with like-minded individuals and organizations to make an impact.
 
 Let's shape the future through data-driven excellence. Connect with me to start a conversation today! 🔗
 
-* 🌍  I'm based in Texas
-* ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com)
+* 🌍  I'm based in Austin, Texas
+* ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com)[tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
 * 🤝  I'm open to collaborating on Interesting projects.
-* ⚡  My secret weapons include Python + Excel, Power BI, SQL, TensorFlow, Docker, Google and Azure Cloud Architecture, Data Bricks, and SnowFlake.
+* ⚡  My secret weapons include Python + Excel, Power BI, SQL, TensorFlow, Docker, Google and Azure Cloud Architecture, Data Bricks, and Snowflake.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tam-ds&label=Profile%20views&color=0e75b6&style=flat" alt="tam-ds" /> </p>
 
@@ -34,9 +34,8 @@ Let's shape the future through data-driven excellence. Connect with me to start 
 
 - 📝 I regularly write articles on [www.linkedin.com/in/tracy-anne-griffin-manning](www.linkedin.com/in/tracy-anne-griffin-manning)
 
-- 💬 Ask me about **Python, TensorFlow, Google Colabatory**
+- 💬 Ask me about **Python, Python+Excel, TensorFlow, Google Colabatory**
 
-- 📫 How to reach me **manning.tracy@gmail.com tmanning@post.harvard.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
