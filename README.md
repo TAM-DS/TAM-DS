@@ -15,6 +15,12 @@ Welcome to my GitHub profile! I'm a passionate and seasoned Data Architect and C
 
 📊 Predictive Analytics Pro: I excel in predictive analysis, utilizing econometrics, statistics, and linear algebra to forecast future trends and make informed decisions. Let's unlock the power of data together.
 
+💰 Financial Analysis: I specialize in financial data analysis, providing actionable recommendations for improved financial performance.
+
+📈 Econometrics | 📊 Statistics: My expertise in econometrics and statistics enables me to extract valuable insights from complex datasets.
+
+➗ Linear Algebra: I excel in solving intricate linear algebra problems, essential for machine learning and data modeling.
+
 🧩 Problem Solver: Complex problems don't intimidate me; they excite me. I thrive on finding innovative solutions that drive business success.
 
 Let's connect if you're looking for a dynamic professional who can transform data into actionable insights, architect scalable data solutions, and bring machine learning to your projects! I'm always eager to collaborate with like-minded individuals and organizations to make an impact.
