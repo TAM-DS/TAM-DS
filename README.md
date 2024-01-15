@@ -5,23 +5,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------
 Welcome to my GitHub profile! I'm a passionate and seasoned Data Architect and Cloud Architect with a strong focus on leveraging data to drive actionable insights and solve complex business challenges. With expertise in a wide array of fields, I'm your go-to professional for all things data-driven. Here's a glimpse into my world:
 
-💡 Data & Cloud Architecture: My career has been dedicated to designing scalable, efficient, and secure data solutions that empower organizations to make data-driven decisions. I've got it covered from optimizing data pipelines to architecting cloud infrastructure.
-
-📈 Power BI Expertise: I'm a Power BI guru, transforming raw data into beautiful and interactive visualizations that tell compelling stories. Let me help you turn your data into a strategic asset.
-
-🤖 TensorFlow Expert: My passion for machine learning and deep learning knows no bounds. TensorFlow is my playground, where I build intelligent models to solve real-world problems and extract valuable insights.
-
-🐍 Senior Python Developer: With years of experience, I'm fluent in Python, crafting robust and efficient code for data analysis and machine learning. I love pushing the boundaries of what's possible with Python.
-
-📊 Predictive Analytics Pro: I excel in predictive analysis, utilizing econometrics, statistics, and linear algebra to forecast future trends and make informed decisions. Let's unlock the power of data together.
-
-💰 Financial Analysis: I specialize in financial data analysis, providing actionable recommendations for improved financial performance.
-
-📈 Econometrics | 📊 Statistics: My expertise in econometrics and statistics enables me to extract valuable insights from complex datasets.
-
-➗ Linear Algebra: I excel in solving intricate linear algebra problems, essential for machine learning and data modeling.
-
 🧩 Problem Solver: Complex problems don't intimidate me; they excite me. I thrive on finding innovative solutions that drive business success.
+
+💡 Data & Cloud Architecture: Over the past six years, I have worked with both AWS and GCP and recently DataBricks to design scalable, efficient, and secure data solutions that empower organizations to make data-driven decisions. I've got it covered, from optimizing data pipelines to architecting cloud infrastructure.
+
+📈 Power BI Expertise: I use Power BI to transform raw data into beautiful and interactive visualizations that tell compelling stories. Let me help you turn your data into a strategic asset.
+
+🤖 TensorFlow: My passion for machine learning and deep learning knows no bounds. TensorFlow is my playground, where I build intelligent models to solve real-world problems and extract valuable insights.
+
+🐍 Senior Python Developer: With eight years of experience, I'm constantly learning the Libraries available in Python, crafting robust and efficient code for data analysis and machine learning. I love pushing the boundaries of what's possible with Python.
 
 Let's connect if you're looking for a dynamic professional who can transform data into actionable insights, architect scalable data solutions, and bring machine learning to your projects! I'm always eager to collaborate with like-minded individuals and organizations to make an impact.
 
