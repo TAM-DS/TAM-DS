@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tracy Anne Griffin Manning
 =====================================================================================================================================
 
-🚀 Data & Cloud Architect 
+🚀 AI Solutions Architect 
 --------------
 Welcome to my GitHub profile! I'm a passionate and seasoned Data Architect and Cloud Architect with a strong focus on leveraging data to drive actionable insights and solve complex business challenges. With expertise in a wide array of fields, I'm your go-to professional for all things data-driven. Here's a glimpse into my world:
 
