@@ -12,7 +12,7 @@
 
 I'm a passionate and seasoned Data Architect and Cloud Architect with a strong focus on leveraging data to drive actionable insights and solve complex business challenges. With expertise in a wide array of fields, I'm your go-to professional for all things data-driven. Here's a glimpse into my world:
 
- Problem Solver: Complex problems don't intimidate me; they excite me. I thrive on finding innovative solutions that drive business success.
+🧩 Problem Solver: Complex problems don't intimidate me; they excite me. I thrive on finding innovative solutions that drive business success.
 
 <img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Data & Cloud Architecture: Over the past six years, I have worked with both AWS and GCP and recently DataBricks to design scalable, efficient, and secure data solutions that empower organizations to make data-driven decisions. I've got it covered, from optimizing data pipelines to architecting cloud infrastructure.
 
@@ -27,7 +27,7 @@ Let's connect if you're looking for a dynamic professional who can transform dat
 ### Let's shape the future through data-driven excellence. Connect with me to start a conversation today! 🔗
 
 - 🌍  I'm based in San Antonio and Austin, Texas
-- ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com)[tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
+- ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com) [tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
 - 🤝  I'm open to collaborating on Interesting projects.
 - ⚡  My secret weapons include **Python + Excel**, **Power BI**, **SQL**, **TensorFlow**, **Docker**, **Google Cloud Architecture**, **Azure Data Bricks**, **PySpark**, and **Snowflake**.
 
@@ -58,8 +58,8 @@ Let's connect if you're looking for a dynamic professional who can transform dat
 <br>
 
 <p align="center">
-        <a href="https://github.com/tam-ds">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tam-ds&theme=dracula" height="192px" width="49.5%">
+        <a href="https://github.com/TAM-DS">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TAM-DS&theme=dracula" height="192px" width="49.5%">
         </a>
 </p><br/><br/>
 
