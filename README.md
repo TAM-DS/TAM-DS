@@ -21,24 +21,38 @@ FinOps & AI-Driven Budgeting
 Python Development (8+ years)
 Data Architecture & Power BI
 
-<img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Data & Cloud Architecture: Over the past six years, I have worked with GCP and recently DataBricks to design scalable, efficient, and secure data solutions that empower organizations to make data-driven decisions. I've covered everything, from optimizing data pipelines to architecting cloud infrastructure.
+<img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> 🔬 Featured Projects
+Enterprise AI Solutions
 
-<img align="center" width="20" src="./com-crop-unscreen.gif" /> Power BI Expertise: I use Power BI to transform raw data into beautiful and interactive visualizations that tell compelling stories. Let me help you turn your data into a strategic asset.
+AI Knowledge Worker - RAG-powered system for company-wide expertise
+Smart Meeting Assistant - Speech-to-text pipeline generating minutes and action items
+Intelligent Brochure Generator - Web-scraping AI for automated content creation
+Multi-modal Customer Support - Airline service agent with UI and function-calling
 
-<img align="center" width="20" src="https://gist.githubusercontent.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac/raw/1bb6af139c1c06c85a2b8a2f5858275a73cf75ac/robotics.gif" /> TensorFlow: My passion for machine learning and deep learning knows no bounds. TensorFlow is my playground, where I build intelligent models to solve real-world problems and extract valuable insights.
+<img align="center" width="20" src="./com-crop-unscreen.gif" /> Deep Learning Research
 
-<img align="center" width="20" src="https://i.pinimg.com/originals/71/21/b1/7121b1ac9f9013b8fa01bdb69175f02f.gif" /> Senior Python Developer: With eight years of experience, I'm constantly learning the Libraries available in Python, crafting robust and efficient code for data analysis and machine learning. I love pushing the boundaries of what's possible with Python.
+Customer Churn Prediction - Neural networks for retention analysis
+Market Forecasting - RNN-based stock price prediction
+Fraud Detection - Self-organizing maps for anomaly detection
+Recommendation Engine - Boltzmann machines for personalized suggestions
 
-Let's connect if you're looking for a dynamic professional who can transform data into actionable insights, architect scalable data solutions, and bring machine learning to your projects! I'm always eager to collaborate with like-minded individuals and organizations to make an impact.
+<img align="center" width="20" src="https://gist.githubusercontent.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac/raw/1bb6af139c1c06c85a2b8a2f5858275a73cf75ac/robotics.gif" /> Innovation Lab
 
-### Let's shape the future through data-driven excellence. Connect with me to start a conversation today! 🔗
+Python-to-C++ Optimizer - 60,000x performance boost through AI translation
+Price Prediction Engine - Frontier models for product pricing
+Deal Detection System - Autonomous agents for bargain hunting
+Netflix Prize Challenge - Stacked autoencoders for rating prediction
+
+<img align="center" width="20" src="https://i.pinimg.com/originals/71/21/b1/7121b1ac9f9013b8fa01bdb69175f02f.gif" /> 💡 Technical Philosophy
+Building scalable, efficient, and secure data solutions that transform raw data into actionable business insights. Expert in crafting cloud-native architectures that optimize costs through FinOps principles while delivering powerful ML capabilities.
+
+🔗 Let's Connect
+Open to collaborations on innovative AI projects and cloud architecture solutions.
 
 - 🌍  I'm based in Austin, Texas
 - ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com) [tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
 - 🤝  I'm open to collaborating on Interesting projects.
 - ⚡  My secret weapons include **Python + Excel**, **Power BI**, **SQL**, **TensorFlow**, **Docker**, **Google Cloud Architecture**, **Azure Data Bricks**, and **PySpark**.
-
-* 🔭 I’m currently working on a **Machine Learning recommender project for a small food market**
 
 * 📝 I regularly write articles on [www.linkedin.com/in/tracy-anne-griffin-manning](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
 
