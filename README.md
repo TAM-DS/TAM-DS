@@ -3,38 +3,44 @@
         <samp>&gt; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!, I am
                 <b><a target="_blank" href="https://github.com/TAM-DS">Tracy Anne Griffin Manning</a></b>
         </samp>
-<h2 align="center">🚀 AI Solutions Architect</h2>
+<h2 align="center">🚀 AI & ML Solutions Architect</h2>
 </h1>
 
 ### Welcome!
 
 ### About me:
 
-Transforming business operations through cloud-native AI solutions and intelligent automation. Specialized in GCP architecture, MLOps, and AI-driven financial optimization. 
+Transforming business operations through cloud-native AI and ML solutions with intelligent automation. As a technology leader and entrepreneur, I leverage my experience as a cofounder and fractional CTO/CFO to deliver strategic consulting services that drive innovation and sustainable growth for startups and enterprises.
+
 Here's a glimpse into my world:
 
 🧩 Core Expertise
 
-- GCP Architecture & MLOps
+- GCP Architecture & LLM Engineering
 - TensorFlow & Deep Learning
 - FinOps & AI-Driven Budgeting
 - Python Development (8+ years)
-- Data Architecture & Power BI
-
-<img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Featured Projects
-Enterprise AI Solutions
+- Data Science and Machine Learning
+- Blockchain
+  
+<img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Featured Projects 
+Enterprise AI Solutions 
 
 - AI Knowledge Worker - RAG-powered system for company-wide expertise,
 - Smart Meeting Assistant - Speech-to-text pipeline generating minutes and action items,
 - Intelligent Brochure Generator - Web-scraping AI for automated content creation,
-- Multi-modal Customer Support - Airline service agent with UI and function-calling
-
+- linear and polynomial regression - machine learning models with Blockchain API
+- Cluster cryptocurrencies - with machine learning techniques
+  
 <img align="center" width="20" src="./com-crop-unscreen.gif" /> Deep Learning Research
 
 - Customer Churn Prediction - Neural networks for retention analysis,
 - Market Forecasting - RNN-based stock price prediction,
 - Fraud Detection - Self-organizing maps for anomaly detection,
 - Recommendation Engine - Boltzmann machines for personalized suggestions
+- Differential privacy project to encrypt datasets
+- Deep learning differential - privacy query
+- Data encryption - to a machine learning model with federated learning
 
 <img align="center" width="20" src="https://gist.githubusercontent.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac/raw/1bb6af139c1c06c85a2b8a2f5858275a73cf75ac/robotics.gif" /> Innovation Lab
 
@@ -44,19 +50,44 @@ Enterprise AI Solutions
 - Netflix Prize Challenge - Stacked autoencoders for rating prediction
 
 <img align="center" width="20" src="https://i.pinimg.com/originals/71/21/b1/7121b1ac9f9013b8fa01bdb69175f02f.gif" /> Technical Philosophy
-Building scalable, efficient, and secure data solutions that transform raw data into actionable business insights. Expert in crafting cloud-native architectures that optimize costs through FinOps principles while delivering powerful ML capabilities.
+Building scalable data and ML solutions that transform raw data into actionable insights while optimizing cloud costs through FinOps principles. 
 
 🔗 Let's Connect
 Open to collaborations on innovative AI projects and cloud architecture solutions.
 
-- 🌍  I'm based in Austin, Texas
+- 🌍  I'm based in Austin, TEXAS
 - ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com) [tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
 - 🤝  I'm open to collaborating on Interesting projects.
-- ⚡  My secret weapons include **Python + Excel**, **Power BI**, **SQL**, **TensorFlow**, **Docker**, **Google Cloud Architecture**, **Azure Data Bricks**, and **PySpark**.
+- ⚡  My secret weapons include **Python + Excel**, **SQL**, **TensorFlow**, **Google Cloud Architecture**, **Google Machine Learning**, **FinOps**, and **Power BI**.
 
 * 📝 I regularly write articles on [www.linkedin.com/in/tracy-anne-griffin-manning](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
 
-* 💬 Ask me about **Python, Python+Excel, TensorFlow, Google Colabatory**
+* 💬 Ask me about **Fractional Consulting**
+
+Technical/Financial Expertise:
+- Deep understanding of technology architecture, cloud infrastructure, and security 
+- Strong grasp of financial modeling, accounting principles, and risk management 
+- Experience with digital transformation and system integration
+
+Strategic Planning:
+- Ability to develop technology/financial roadmaps aligned with business goals
+- Experience scaling organizations and managing budgets
+- M&A and fundraising experience
+
+Leadership:
+- Track record of executive-level decision-making
+- Team building and management experience
+- Strong communication skills for board/stakeholder presentations
+
+Industry Knowledge:
+- 10+ years of relevant industry experience
+- Understanding of current market trends and best practices
+- Network of industry connections and resources
+
+Advisory Skills:
+- Experience in consulting or advisory roles
+- Ability to quickly assess organizational needs
+- Skills in change management and implementation
 
 <br>
 
