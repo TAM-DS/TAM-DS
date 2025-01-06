@@ -10,7 +10,7 @@
 
 ### About me:
 
-Transforming business operations through cloud-native AI and ML solutions with intelligent automation. As a technology leader and entrepreneur, I leverage my experience as a cofounder and fractional CTO/CFO to deliver strategic consulting services that drive innovation and sustainable growth for startups and enterprises.
+Transforming business operations through cloud-native AI and ML solutions with intelligent automation. As a technology leader and entrepreneur, I leverage my experience as a cofounder to deliver strategic consulting services that drive innovation and sustainable growth for startups and enterprises.
 
 Here's a glimpse into my world:
 
