@@ -15,33 +15,33 @@ Here's a glimpse into my world:
 
 🧩 Core Expertise
 
-GCP Architecture & MLOps
-TensorFlow & Deep Learning
-FinOps & AI-Driven Budgeting
-Python Development (8+ years)
-Data Architecture & Power BI
+- GCP Architecture & MLOps
+- TensorFlow & Deep Learning
+- FinOps & AI-Driven Budgeting
+- Python Development (8+ years)
+- Data Architecture & Power BI
 
 <img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Featured Projects
 Enterprise AI Solutions
 
-AI Knowledge Worker - RAG-powered system for company-wide expertise,
-Smart Meeting Assistant - Speech-to-text pipeline generating minutes and action items,
-Intelligent Brochure Generator - Web-scraping AI for automated content creation,
-Multi-modal Customer Support - Airline service agent with UI and function-calling
+- AI Knowledge Worker - RAG-powered system for company-wide expertise,
+- Smart Meeting Assistant - Speech-to-text pipeline generating minutes and action items,
+- Intelligent Brochure Generator - Web-scraping AI for automated content creation,
+- Multi-modal Customer Support - Airline service agent with UI and function-calling
 
 <img align="center" width="20" src="./com-crop-unscreen.gif" /> Deep Learning Research
 
-Customer Churn Prediction - Neural networks for retention analysis,
-Market Forecasting - RNN-based stock price prediction,
-Fraud Detection - Self-organizing maps for anomaly detection,
-Recommendation Engine - Boltzmann machines for personalized suggestions
+- Customer Churn Prediction - Neural networks for retention analysis,
+- Market Forecasting - RNN-based stock price prediction,
+- Fraud Detection - Self-organizing maps for anomaly detection,
+- Recommendation Engine - Boltzmann machines for personalized suggestions
 
 <img align="center" width="20" src="https://gist.githubusercontent.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac/raw/1bb6af139c1c06c85a2b8a2f5858275a73cf75ac/robotics.gif" /> Innovation Lab
 
-Python-to-C++ Optimizer - 60,000x performance boost through AI translation
-Price Prediction Engine - Frontier models for product pricing
-Deal Detection System - Autonomous agents for bargain hunting
-Netflix Prize Challenge - Stacked autoencoders for rating prediction
+- Python-to-C++ Optimizer - 60,000x performance boost through AI translation
+- Price Prediction Engine - Frontier models for product pricing
+- Deal Detection System - Autonomous agents for bargain hunting
+- Netflix Prize Challenge - Stacked autoencoders for rating prediction
 
 <img align="center" width="20" src="https://i.pinimg.com/originals/71/21/b1/7121b1ac9f9013b8fa01bdb69175f02f.gif" /> Technical Philosophy
 Building scalable, efficient, and secure data solutions that transform raw data into actionable business insights. Expert in crafting cloud-native architectures that optimize costs through FinOps principles while delivering powerful ML capabilities.
