@@ -57,7 +57,7 @@ Open to collaborations on innovative AI projects and cloud architecture solution
 
 - 🌍  I'm based in Austin, TEXAS
 - ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com) [tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
-- ⚡  My secret weapon is revenue Operations (RevOps), integrating sales, marketing, and customer success technologies and processes.
+- ⚡ My secret weapon is revenue Operations (RevOps), which involves integrating sales, marketing, and customer success technologies and processes.
 * 📝 I regularly write articles on [www.linkedin.com/in/tracy-anne-griffin-manning](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
 
 * 💬 Ask me about **Fractional Consulting**
