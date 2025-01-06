@@ -57,37 +57,35 @@ Open to collaborations on innovative AI projects and cloud architecture solution
 
 - 🌍  I'm based in Austin, TEXAS
 - ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com) [tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
-- 🤝  I'm open to collaborating on Interesting projects.
-- ⚡  My secret weapons include **Python + Excel**, **SQL**, **TensorFlow**, **Google Cloud Architecture**, **Google Machine Learning**, **FinOps**, and **Power BI**.
-
+- ⚡  My secret weapon is revenue Operations (RevOps), integrating sales, marketing, and customer success technologies and processes.
 * 📝 I regularly write articles on [www.linkedin.com/in/tracy-anne-griffin-manning](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
 
 * 💬 Ask me about **Fractional Consulting**
 
 Technical/Financial Expertise:
-- Deep understanding of technology architecture, cloud infrastructure, and security 
+- In-depth understanding of technology architecture, cloud infrastructure, and security 
 - Strong grasp of financial modeling, accounting principles, and risk management 
-- Experience with digital transformation and system integration
+- Background in digital transformation and system integration
 
 Strategic Planning:
-- Ability to develop technology/financial roadmaps aligned with business goals
-- Experience scaling organizations and managing budgets
-- M&A and fundraising experience
+- Develop technology/financial roadmaps aligned with business goals
+- Understanding scaling organizations and managing budgets
+- M&A and fundraising 
 
 Leadership:
-- Track record of executive-level decision-making
+- Track-record of executive-level decision-making
 - Team building and management experience
 - Strong communication skills for board/stakeholder presentations
 
 Industry Knowledge:
-- 10+ years of relevant industry experience
-- Understanding of current market trends and best practices
+- 10+ years of pertinent industry experience
+- Knowledge of current market trends and best practices
 - Network of industry connections and resources
 
 Advisory Skills:
-- Experience in consulting or advisory roles
-- Ability to quickly assess organizational needs
-- Skills in change management and implementation
+- Background in consulting and advisory roles
+- Proficiency to quickly assess organizational needs
+- Skillfulness in change management and implementation
 
 <br>
 
