@@ -12,24 +12,24 @@
 
 I'm a passionate and seasoned Data Architect and Cloud Architect with a strong focus on leveraging data to drive actionable insights and solve complex business challenges. With expertise in a wide array of fields, I'm your go-to professional for all things data-driven. Here's a glimpse into my world:
 
-&gt; 🧩 Problem Solver: Complex problems don't intimidate me; they excite me. I thrive on finding innovative solutions that drive business success.
+ Problem Solver: Complex problems don't intimidate me; they excite me. I thrive on finding innovative solutions that drive business success.
 
-&gt; 💡 Data & Cloud Architecture: Over the past six years, I have worked with both AWS and GCP and recently DataBricks to design scalable, efficient, and secure data solutions that empower organizations to make data-driven decisions. I've got it covered, from optimizing data pipelines to architecting cloud infrastructure.
+<img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Data & Cloud Architecture: Over the past six years, I have worked with both AWS and GCP and recently DataBricks to design scalable, efficient, and secure data solutions that empower organizations to make data-driven decisions. I've got it covered, from optimizing data pipelines to architecting cloud infrastructure.
 
-&gt; 📈 Power BI Expertise: I use Power BI to transform raw data into beautiful and interactive visualizations that tell compelling stories. Let me help you turn your data into a strategic asset.
+<img align="center" width="20" src="./com-crop-unscreen.gif" /> Power BI Expertise: I use Power BI to transform raw data into beautiful and interactive visualizations that tell compelling stories. Let me help you turn your data into a strategic asset.
 
-&gt; 🤖 TensorFlow: My passion for machine learning and deep learning knows no bounds. TensorFlow is my playground, where I build intelligent models to solve real-world problems and extract valuable insights.
+<img align="center" width="20" src="https://gist.githubusercontent.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac/raw/1bb6af139c1c06c85a2b8a2f5858275a73cf75ac/robotics.gif" /> TensorFlow: My passion for machine learning and deep learning knows no bounds. TensorFlow is my playground, where I build intelligent models to solve real-world problems and extract valuable insights.
 
-&gt; 🐍 Senior Python Developer: With eight years of experience, I'm constantly learning the Libraries available in Python, crafting robust and efficient code for data analysis and machine learning. I love pushing the boundaries of what's possible with Python.
+<img align="center" width="20" src="https://i.pinimg.com/originals/71/21/b1/7121b1ac9f9013b8fa01bdb69175f02f.gif" /> Senior Python Developer: With eight years of experience, I'm constantly learning the Libraries available in Python, crafting robust and efficient code for data analysis and machine learning. I love pushing the boundaries of what's possible with Python.
 
 Let's connect if you're looking for a dynamic professional who can transform data into actionable insights, architect scalable data solutions, and bring machine learning to your projects! I'm always eager to collaborate with like-minded individuals and organizations to make an impact.
 
-Let's shape the future through data-driven excellence. Connect with me to start a conversation today! 🔗
+### Let's shape the future through data-driven excellence. Connect with me to start a conversation today! 🔗
 
 - 🌍  I'm based in San Antonio and Austin, Texas
 - ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com)[tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
 - 🤝  I'm open to collaborating on Interesting projects.
-- ⚡  My secret weapons include Python + Excel, Power BI, SQL, TensorFlow, Docker, Google Cloud Architecture, Azure Data Bricks, PySpark, and Snowflake.
+- ⚡  My secret weapons include **Python + Excel**, **Power BI**, **SQL**, **TensorFlow**, **Docker**, **Google Cloud Architecture**, **Azure Data Bricks**, **PySpark**, and **Snowflake**.
 
 * 🔭 I’m currently working on a **Machine Learning recommender project for a small food market**
 
