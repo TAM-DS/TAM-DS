@@ -14,7 +14,7 @@ I'm a passionate and seasoned Data Architect and Cloud Architect with a strong f
 
 🧩 Problem Solver: Complex problems don't intimidate me; they excite me. I thrive on finding innovative solutions that drive business success.
 
-<img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Data & Cloud Architecture: Over the past six years, I have worked with both AWS and GCP and recently DataBricks to design scalable, efficient, and secure data solutions that empower organizations to make data-driven decisions. I've got it covered, from optimizing data pipelines to architecting cloud infrastructure.
+<img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Data & Cloud Architecture: Over the past six years, I have worked with GCP and recently DataBricks to design scalable, efficient, and secure data solutions that empower organizations to make data-driven decisions. I've covered everything, from optimizing data pipelines to architecting cloud infrastructure.
 
 <img align="center" width="20" src="./com-crop-unscreen.gif" /> Power BI Expertise: I use Power BI to transform raw data into beautiful and interactive visualizations that tell compelling stories. Let me help you turn your data into a strategic asset.
 
@@ -26,10 +26,10 @@ Let's connect if you're looking for a dynamic professional who can transform dat
 
 ### Let's shape the future through data-driven excellence. Connect with me to start a conversation today! 🔗
 
-- 🌍  I'm based in San Antonio and Austin, Texas
+- 🌍  I'm based in Austin, Texas
 - ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com) [tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
 - 🤝  I'm open to collaborating on Interesting projects.
-- ⚡  My secret weapons include **Python + Excel**, **Power BI**, **SQL**, **TensorFlow**, **Docker**, **Google Cloud Architecture**, **Azure Data Bricks**, **PySpark**, and **Snowflake**.
+- ⚡  My secret weapons include **Python + Excel**, **Power BI**, **SQL**, **TensorFlow**, **Docker**, **Google Cloud Architecture**, **Azure Data Bricks**, and **PySpark**.
 
 * 🔭 I’m currently working on a **Machine Learning recommender project for a small food market**
 
