@@ -26,17 +26,17 @@ Here's a glimpse into my world:
 <img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Featured Projects 
 Enterprise AI Solutions 
 
-- AI Knowledge Worker - RAG-powered system for company-wide expertise,
-- Smart Meeting Assistant - Speech-to-text pipeline generating minutes and action items,
-- Intelligent Brochure Generator - Web-scraping AI for automated content creation,
+- AI Knowledge Worker - RAG-powered system for company-wide expertise
+- Smart Meeting Assistant - Speech-to-text pipeline generating minutes and action items
+- Intelligent Brochure Generator - Web-scraping AI for automated content creation
 - linear and polynomial regression - machine learning models with Blockchain API
 - Cluster cryptocurrencies - with machine learning techniques
   
 <img align="center" width="20" src="./com-crop-unscreen.gif" /> Deep Learning Research
 
-- Customer Churn Prediction - Neural networks for retention analysis,
-- Market Forecasting - RNN-based stock price prediction,
-- Fraud Detection - Self-organizing maps for anomaly detection,
+- Customer Churn Prediction - Neural networks for retention analysis
+- Market Forecasting - RNN-based stock price prediction
+- Fraud Detection - Self-organizing maps for anomaly detection
 - Recommendation Engine - Boltzmann machines for personalized suggestions
 - Differential privacy project to encrypt datasets
 - Deep learning differential - privacy query
