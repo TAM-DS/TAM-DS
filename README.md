@@ -10,9 +10,16 @@
 
 ### About me:
 
-I'm a passionate and seasoned Data Architect and Cloud Architect with a strong focus on leveraging data to drive actionable insights and solve complex business challenges. With expertise in a wide array of fields, I'm your go-to professional for all things data-driven. Here's a glimpse into my world:
+Transforming business operations through cloud-native AI solutions and intelligent automation. Specialized in GCP architecture, MLOps, and AI-driven financial optimization. 
+Here's a glimpse into my world:
 
-🧩 Problem Solver: Complex problems don't intimidate me; they excite me. I thrive on finding innovative solutions that drive business success.
+🧩 🚀 Core Expertise
+
+GCP Architecture & MLOps
+TensorFlow & Deep Learning
+FinOps & AI-Driven Budgeting
+Python Development (8+ years)
+Data Architecture & Power BI
 
 <img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Data & Cloud Architecture: Over the past six years, I have worked with GCP and recently DataBricks to design scalable, efficient, and secure data solutions that empower organizations to make data-driven decisions. I've covered everything, from optimizing data pipelines to architecting cloud infrastructure.
 
