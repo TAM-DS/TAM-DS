@@ -53,8 +53,6 @@ Enterprise AI Solutions
 Building scalable data and ML solutions that transform raw data into actionable insights while optimizing cloud costs through FinOps principles. 
 
 🔗 Let's Connect
-Open to collaborations on innovative AI projects and cloud architecture solutions.
-
 - 🌍  I'm based in Austin, TEXAS
 - ⚡ My secret weapon: Revenue Operations (RevOps), integrating sales, marketing, and customer success technologies and processes.
 - ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com) [tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
