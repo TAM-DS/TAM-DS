@@ -59,30 +59,18 @@ Building scalable data and ML solutions that transform raw data into actionable 
 - 📝 I regularly write articles on [www.linkedin.com/in/tracy-anne-griffin-manning](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
 - 💬 Ask me about **Fractional Consulting** Fractional consultants are secret weapons, slipping into high-level roles at companies that need top-tier expertise without the full-time commitment.
 
-Technical/Financial Expertise:
-- In-depth understanding of technology architecture, cloud infrastructure, and security 
-- Strong grasp of financial modeling, accounting principles, and risk management 
-- Background in digital transformation and system integration
+🔹 10 years delivering enterprise tech & financial leadership
 
-Strategic Planning:
-- Develop technology/financial roadmaps aligned with business goals
-- Understanding scaling organizations and managing budgets
-- M&A and fundraising 
+🔹 Core Competencies:
+- Tech architecture, cloud infrastructure & security expertise paired with financial modeling & risk management
+- Strategic planning focused on scaling organizations, M&A, fundraising & digital transformation  
+- Executive leadership experience with a proven track record in team building & stakeholder management
 
-Leadership:
-- Track-record of executive-level decision-making
-- Team building and management experience
-- Strong communication skills for board/stakeholder presentations
-
-Industry Knowledge:
-- 10+ years of pertinent industry experience
-- Knowledge of current market trends and best practices
-- Network of industry connections and resources
-
-Advisory Skills:
-- Background in consulting and advisory roles
-- Proficiency to quickly assess organizational needs
-- Skillfulness in change management and implementation
+🔹 Advisory Experience:
+- Technology/financial roadmap development
+- Organizational assessment & change management
+- System integration & digital transformation
+- Board & C-suite presentations
 
 <br>
 
