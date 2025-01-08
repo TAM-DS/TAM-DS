@@ -19,9 +19,9 @@ Here's a glimpse into my world:
 - GCP Architecture & LLM Engineering
 - TensorFlow & Deep Learning
 - FinOps & AI-Driven Budgeting
-- Python Development (8+ years)
+- Python Development 
 - Data Science and Machine Learning
-- Blockchain
+- Blockchain + Smart Contracts 
   
 <img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Featured Projects 
 Enterprise AI Solutions 
