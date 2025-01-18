@@ -54,10 +54,10 @@ Building scalable data and ML solutions that transform raw data into actionable 
 
 🔗 Let's Connect
 - 🌍  I'm based in Austin, TEXAS
-- ⚡ My secret weapon: Revenue Operations (RevOps), integrating sales, marketing, and customer success technologies and processes.
+- ⚡  My secret weapon: Build AI capabilities directly into your product's core architecture and user experience from day one. 
 - ✉️  You can contact me at [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com) [tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
-- 📝 I regularly write articles on [www.linkedin.com/in/tracy-anne-griffin-manning](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
-- 💬 Ask me about **Fractional Consulting** Fractional consultants are secret weapons, slipping into high-level roles at companies that need top-tier expertise without the full-time commitment.
+- 📝  I regularly write articles on [www.linkedin.com/in/tracy-anne-griffin-manning](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
+- 💬  Ask me about **Fractional Consulting** Fractional consultants are secret weapons, slipping into high-level roles at companies that need top-tier expertise without the full-time commitment.
 
 🔹 10 years delivering enterprise tech & financial leadership
 
