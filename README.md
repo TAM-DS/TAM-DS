@@ -10,17 +10,21 @@
 
 ### About me:
 
-Transforming business operations through cloud-native AI and ML solutions with intelligent automation. As a technology leader and entrepreneur, I leverage my experience as a cofounder to deliver strategic consulting services that drive innovation and sustainable growth for startups and enterprises.
+Transforming business operations through cloud-native AI and ML solutions with intelligent automation. As a technology entrepreneur, I leverage my experience as a cofounder to deliver strategic consulting services that drive innovation and sustainable growth for startups and enterprises. 
+
+Minotaur Consulting, LLC operates as a fully owner-funded venture, maintaining complete financial independence through its bootstrapped business model. Since inception, we have maintained profitability through strategic client partnerships and lean operational practices. 
+
+Our self-funded structure allows us to focus solely on delivering value to clients while maintaining complete autonomy in our business decisions.
 
 Here's a glimpse into my world:
 
 🧩 Core Expertise
 
+- Python | TensorFlow | Pytorch
 - GCP Architecture & LLM Engineering
-- TensorFlow & Deep Learning
+- AWS Cloud Architecture | SageMaker
 - FinOps & AI-Driven Budgeting
-- Python Development 
-- Data Science and Machine Learning
+- SQL 
 - Blockchain + Smart Contracts 
   
 <img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Featured Projects 
@@ -29,9 +33,9 @@ Enterprise AI Solutions
 - AI Knowledge Worker - RAG-powered system for company-wide expertise
 - Smart Meeting Assistant - Speech-to-text pipeline generating minutes and action items
 - Intelligent Brochure Generator - Web-scraping AI for automated content creation
-- linear and polynomial regression - machine learning models with Blockchain API
-- Cluster cryptocurrencies - with machine learning techniques
-  
+- Customer Cohort Analysis and Retention Dashboard
+- Product Performance Analytics Suite
+    
 <img align="center" width="20" src="./com-crop-unscreen.gif" /> Deep Learning Research
 
 - Customer Churn Prediction - Neural networks for retention analysis
@@ -39,15 +43,17 @@ Enterprise AI Solutions
 - Fraud Detection - Self-organizing maps for anomaly detection
 - Recommendation Engine - Boltzmann machines for personalized suggestions
 - Differential privacy project to encrypt datasets
-- Deep learning differential - privacy query
-- Data encryption - to a machine learning model with federated learning
+
 
 <img align="center" width="20" src="https://gist.githubusercontent.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac/raw/1bb6af139c1c06c85a2b8a2f5858275a73cf75ac/robotics.gif" /> Innovation Lab
 
-- Python-to-C++ Optimizer - 60,000x performance boost through AI translation
-- Price Prediction Engine - Frontier models for product pricing
-- Deal Detection System - Autonomous agents for bargain hunting
-- Netflix Prize Challenge - Stacked autoencoders for rating prediction
+- Build and deploy cutting-edge artificial intelligence & machine learning models to the cloud
+- Customize models to meet the needs of your AI applications using PyTorch to create unique solutions
+- Combine generative AI models with Retrieval Augmented Generation to build smarter AI systems
+- Built chatbots and financial analysis tools
+- Customer Lifetime Value (CLV) Calculator
+- Sales Territory Optimization
+  
 
 <img align="center" width="20" src="https://i.pinimg.com/originals/71/21/b1/7121b1ac9f9013b8fa01bdb69175f02f.gif" /> Technical Philosophy
 Building scalable data and ML solutions that transform raw data into actionable insights while optimizing cloud costs through FinOps principles. 
@@ -60,11 +66,6 @@ Building scalable data and ML solutions that transform raw data into actionable 
 - 💬  Ask me about **Fractional Consulting** Fractional consultants are secret weapons, slipping into high-level roles at companies that need top-tier expertise without the full-time commitment.
 
 🔹 10 years delivering enterprise tech & financial leadership
-
-🔹 Core Competencies:
-- Tech architecture, cloud infrastructure & security expertise paired with financial modeling & risk management
-- Strategic planning focused on scaling organizations, M&A, fundraising & digital transformation  
-- Executive leadership experience with a proven track record in team building & stakeholder management
 
 🔹 Advisory Experience:
 - Technology/financial roadmap development
