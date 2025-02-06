@@ -20,12 +20,14 @@ Here's a glimpse into my world:
 
 🧩 Core Expertise
 
-- Python | TensorFlow | Pytorch
-- GCP Architecture & LLM Engineering
-- AWS Cloud Architecture | SageMaker
-- FinOps & AI-Driven Budgeting
+- Python
+- AI | ML
+- Analytics
+- Algorithms
 - SQL 
-- Blockchain + Smart Contracts 
+- Blockchain + Smart Contracts
+- A/B Testing
+- FinOps & AI-Driven Budgeting
   
 <img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Featured Projects 
 Enterprise AI Solutions 
@@ -35,6 +37,9 @@ Enterprise AI Solutions
 - Intelligent Brochure Generator - Web-scraping AI for automated content creation
 - Customer Cohort Analysis and Retention Dashboard
 - Product Performance Analytics Suite
+- Pairs trading bot for algorithmic Trading
+- Apply Data Science to Financial Analysis
+
     
 <img align="center" width="20" src="./com-crop-unscreen.gif" /> Deep Learning Research
 
@@ -49,7 +54,7 @@ Enterprise AI Solutions
 
 - Build and deploy cutting-edge artificial intelligence & machine learning models to the cloud
 - Customize models to meet the needs of your AI applications using PyTorch to create unique solutions
-- Combine generative AI models with Retrieval Augmented Generation to build smarter AI systems
+- Combine generative AI models with Retrieval Augmented Generation to build more innovative AI systems
 - Built chatbots and financial analysis tools
 - Customer Lifetime Value (CLV) Calculator
 - Sales Territory Optimization
