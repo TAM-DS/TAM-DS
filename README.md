@@ -17,7 +17,7 @@ Here's a glimpse into my world:
 🔍 Core Expertise
 
 - Programming: Python, SQL
-- Technologies: AI/ML, Blockchain, Analytics
+- Technologies: AI/ML, Blockchain, Analytics, Cloud Architectures 
 - Specialties: Algorithmic Trading, A/B Testing, FinOps, TensorFlow, SageMaker 
   
 <img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Featured Projects 
