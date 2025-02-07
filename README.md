@@ -3,7 +3,7 @@
         <samp>&gt; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!, I am
                 <b><a target="_blank" href="https://github.com/TAM-DS">Tracy Anne Griffin Manning</a></b>
         </samp>
-<h2 align="center"> 🧠 AI Engineer </h2>
+<h2 align="center"> 🧠 AI-First </h2>
 </h1>
 
 ### Welcome!
@@ -15,20 +15,20 @@ Driving innovation through cloud-native AI and ML solutions. Co-founder of Minot
 Here's a glimpse into my world:
 
 🔍 Core Skills
- -  Python, SQL, AWS, GCP
+ -  Python, SQL, AWS, GCP, Solidity 
  -  AI/ML Architecture & Algorithms
  -  FinOps & Forecasting 
- -  Blockchain & Payment Systems
+ -  Blockchain + Smart Contracts
  -  A/B Testing (HTML, CSS, JavaScript)
 
 
-🔬 Financial Leadership & FinOps
+🔬 Financial Leadership & FinOps (Minotaur)
 - Maintained profitable operations since inception through lean management
 - Automated financial operations using AI/ML pipelines
 - Predictive budgeting models
 - Revenue optimization engine
   
-<img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Enterprise AI Solutions 
+<img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" />  Enterprise AI Solutions 
 
 - RAG-powered Knowledge System
 - AI-Driven Meeting Assistant
@@ -37,7 +37,7 @@ Here's a glimpse into my world:
 - User Behavior Analytics Dashboard
 
     
-<img align="center" width="20" src="./com-crop-unscreen.gif" /> Machine Learning 
+<img align="center" width="20" src="./com-crop-unscreen.gif" />  Machine Learning 
 
 - Churn Prediction Neural Networks
 - Stock Price Forecasting (RNN)
@@ -45,7 +45,7 @@ Here's a glimpse into my world:
 - Personalized Recommendation Engines
 
 
-<img align="center" width="20" src="https://gist.githubusercontent.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac/raw/1bb6af139c1c06c85a2b8a2f5858275a73cf75ac/robotics.gif" /> Innovation Lab
+<img align="center" width="20" src="https://gist.githubusercontent.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac/raw/1bb6af139c1c06c85a2b8a2f5858275a73cf75ac/robotics.gif" />  Innovation Lab
 
 - Cloud-deployed AI/ML Models
 - Custom PyTorch Solutions
@@ -57,25 +57,20 @@ Here's a glimpse into my world:
 -  📍  Austin, TEXAS
 
    
-🧩 Professional Interests:
--  Product Management Strategies
--  Fintech & Payment System Optimization
--  Streaming Platform Intelligence
--  Advanced Algorithmic Design
--  Enterprise AI Transformation
+🧩 Key Differentiators: 
+- AI Architecture Integration
+- Algorithmic Problem Solving
+- Cross-Industry Technology Knowledge
+- Data-Driven Strategic Planning
  
 
 📧 Contact me: [tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
   
 🔗 LinkedIn: [www.linkedin.com/in/tracy-anne-griffin-manning](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
 
-
-🤝 Unique differentiator: 
--  Combines deep technical expertise in AI/ML with practical business acumen.
--  Bridges the gap between innovation and measurable business outcomes.
   
 <br>
-## 🧠 Professional Certifications
+📝 Professional Certifications
 
 ### AI & Machine Learning
 - [Advanced AI Professional Certificate](verification-link) | DeepLearning.AI | 2024
