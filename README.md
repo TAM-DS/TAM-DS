@@ -3,34 +3,41 @@
         <samp>&gt; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!, I am
                 <b><a target="_blank" href="https://github.com/TAM-DS">Tracy Anne Griffin Manning</a></b>
         </samp>
-<h2 align="center"> 🧩 AI-Native Product Strategist </h2>
+<h2 align="center"> 🧠 AI Engineer </h2>
 </h1>
 
 ### Welcome!
 
 ### About me:
 
-Technology entrepreneur driving innovation through cloud-native AI and ML solutions. Founder of Minotaur Consulting, delivering strategic technology services with a bootstrapped, value-focused approach.
+Driving innovation through cloud-native AI and ML solutions. Co-founder of Minotaur Consulting LLC, delivering strategic technology services with a bootstrapped, value-focused approach.
 
 Here's a glimpse into my world:
 
-🔍 Core Expertise
+🔍 Core Skills
+ -  Python, SQL, AWS, GCP
+ -  AI/ML Architecture & Algorithms
+ -  FinOps & Forecasting 
+ -  Blockchain & Payment Systems
+ -  A/B Testing (HTML, CSS, JavaScript)
 
-- Programming: Python, SQL
-- Technologies: AI/ML, Blockchain, Analytics, Cloud Architectures 
-- Specialties: Algorithmic Trading, A/B Testing, FinOps, TensorFlow, SageMaker 
+
+🔬 Financial Leadership & FinOps
+- Maintained profitable operations since inception through lean management
+- Automated financial operations using AI/ML pipelines
+- Predictive budgeting models
+- Revenue optimization engine
   
-<img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Featured Projects 
- Enterprise AI Solutions 
+<img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Enterprise AI Solutions 
 
-- RAG-powered Knowledge Worker System
+- RAG-powered Knowledge System
 - AI-Driven Meeting Assistant
 - Automated Content Generation
 - Customer Cohort & Retention Analytics
-- Algorithmic Trading Bot
+- User Behavior Analytics Dashboard
 
     
-<img align="center" width="20" src="./com-crop-unscreen.gif" /> Machine Learning Research
+<img align="center" width="20" src="./com-crop-unscreen.gif" /> Machine Learning 
 
 - Churn Prediction Neural Networks
 - Stock Price Forecasting (RNN)
@@ -47,35 +54,26 @@ Here's a glimpse into my world:
 
   
 🔗 Let's Connect
-- 🌍  I'm based in Austin, TEXAS
-- 🚀  Expertise: Transforming Product Strategy with AI & Advanced Algorithms
-  
-  
-🌟Strategic Focus:
--  Building intelligent product architectures that drive user engagement and operational efficiency
--  Specializing in AI integration, algorithmic innovation, and scalable technology solutions
+-  📍  Austin, TEXAS
 
-  
-🧠 Professional Interests:
+   
+🧩 Professional Interests:
 -  Product Management Strategies
 -  Fintech & Payment System Optimization
 -  Streaming Platform Intelligence
 -  Advanced Algorithmic Design
 -  Enterprise AI Transformation
+ 
 
-📧 Contact me:  
--  [manning.tracy@gmail.com](mailto:manning.tracy@gmail.com)
--  [tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
+📧 Contact me: [tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
   
 🔗 LinkedIn: [www.linkedin.com/in/tracy-anne-griffin-manning](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
 
 
-🤝 Value Proposition:
--  AI Architecture Integration
--  Algorithmic Problem Solving
--  Cross-Industry Technology Expertise
--  Data-Driven Strategic Planning 
-
+🤝 Unique differentiator: 
+-  Combines deep technical expertise in AI/ML with practical business acumen.
+-  Bridges the gap between innovation and measurable business outcomes.
+  
 <br>
 ## 🧠 Professional Certifications
 
