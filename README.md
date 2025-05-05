@@ -8,21 +8,17 @@
 
 ### Welcome!
 
-### About me:
+### About me: Under Construction 
 
-Driving innovation through cloud-native AI and ML solutions. Co-founder of Minotaur Consulting LLC, delivering strategic technology services with a bootstrapped, value-focused approach.
+
 
 Here's a glimpse into my world:
 
 🔍 Core Skills
- -  Python, SQL, AWS, GCP, Solidity 
- -  AI/ML Architecture & Algorithms
- -  FinOps & Forecasting 
- -  Blockchain + Smart Contracts
- -  A/B Testing (HTML, CSS, JavaScript)
+ -  
 
 
-🔬 Financial Leadership & FinOps (Minotaur)
+🔬 Financial Leadership & FinOps 
 - Maintained profitable operations since inception through lean management
 - Automated financial operations using AI/ML pipelines
 - Predictive budgeting models
@@ -54,7 +50,7 @@ Here's a glimpse into my world:
 
   
 🔗 Let's Connect
--  📍  Austin, TEXAS
+-  📍  Dallas, TEXAS
 
    
 🧩 Key Differentiators: 
@@ -68,26 +64,13 @@ Here's a glimpse into my world:
   
 🔗 LinkedIn: [www.linkedin.com/in/tracy-anne-griffin-manning](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
 
+🔗 X: [https://x.com/BuiltByTAGM/media\)
   
 <br>
 📝 Professional Certifications
 
 ### AI & Machine Learning
-- [Advanced AI Professional Certificate](verification-link) | DeepLearning.AI | 2024
-- [Machine Learning Specialization](verification-link) | Stanford Online | 2023
-- [Generative AI Foundations](verification-link) | Google Cloud | 2023
-
-### Data Science & Analytics
-- [Advanced Analytics Certification](verification-link) | Harvard Extension | 2024
-- [Financial Data Science](verification-link) | NYU | 2023
-
-### Cloud & Infrastructure
-- [AWS Solutions Architect](verification-link) | Amazon Web Services | 2023
-- [Cloud AI/ML Specialization](verification-link) | Google Cloud | 2022
-
-### Blockchain & Emerging Tech
-- [Blockchain Technologies](verification-link) | MIT Professional | 2024
-- [Cryptocurrency Strategies](verification-link) | Princeton Online | 2023
+- 
 
 
 <p align="left">
