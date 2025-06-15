@@ -8,7 +8,7 @@
 
 ### Welcome!
 
-### About me: Under Construction 
+### About me: Under Construction Updates Soon
 
 
 
@@ -19,34 +19,22 @@ Here's a glimpse into my world:
 
 
 🔬 Financial Leadership & FinOps 
-- Maintained profitable operations since inception through lean management
-- Automated financial operations using AI/ML pipelines
-- Predictive budgeting models
-- Revenue optimization engine
+- 
+
   
 <img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" />  Enterprise AI Solutions 
 
-- RAG-powered Knowledge System
-- AI-Driven Meeting Assistant
-- Automated Content Generation
-- Customer Cohort & Retention Analytics
-- User Behavior Analytics Dashboard
+- 
 
     
 <img align="center" width="20" src="./com-crop-unscreen.gif" />  Machine Learning 
 
-- Churn Prediction Neural Networks
-- Stock Price Forecasting (RNN)
-- Fraud Detection Algorithms
-- Personalized Recommendation Engines
+- 
 
 
 <img align="center" width="20" src="https://gist.githubusercontent.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac/raw/1bb6af139c1c06c85a2b8a2f5858275a73cf75ac/robotics.gif" />  Innovation Lab
 
-- Cloud-deployed AI/ML Models
-- Custom PyTorch Solutions
-- Generative AI with Retrieval Augmented Generation
-- Customer Lifetime Value Optimization
+- 
 
   
 🔗 Let's Connect
