@@ -65,7 +65,8 @@ Here's a glimpse into my world:
 🔗 LinkedIn: [www.linkedin.com/in/tracy-anne-griffin-manning](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
 
 🔗 X: [https://x.com/BuiltByTAGM/media\)
-  
+
+🔗 Git-Hub: [https://github.com/TAM-DS/TAGM.github.io]
 <br>
 📝 Professional Certifications
 
