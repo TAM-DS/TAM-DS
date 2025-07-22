@@ -37,7 +37,8 @@ I combine deep domain expertise with technical firepower across AI, Quantum, and
 ---
 
 🔗 **Let’s Connect**  
- 📍 **DFW Built** — proudly based in Dallas
+ 📍 **DFW Metroplex** 
+ 
  [Email](tmanning@post.harvard.edu)
  [LinkedIn](https://www.linkedin.com/in/tracy-anne-griffin-manning/)  
 
