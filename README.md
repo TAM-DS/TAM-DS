@@ -3,7 +3,7 @@
         <samp>&gt; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!, I am
                 <b><a target="_blank" href="https://github.com/TAM-DS">Tracy Anne Griffin Manning</a></b>
         </samp>
-<h2 align="center"> Because if you're turning data into alpha, you better show up like you mean it. </h2>
+<h2 align="center"> I’m a generalist with specialist range — a systems thinker who connects data to strategy, AI to outcomes, and people to impact. I translate insight into action and vision into measurable results. </h2>
 </h1>
 
 ### Welcome!
