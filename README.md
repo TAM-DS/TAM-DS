@@ -40,7 +40,6 @@ I combine deep domain expertise with technical firepower across AI, Quantum, and
  📍 **DFW Metroplex** 
  
  [Email](tmanning@post.harvard.edu)
- [LinkedIn](https://www.linkedin.com/in/tracy-anne-griffin-manning/)  
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tracy-anne-griffin-manning/" target="blank"><img align="center" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="www.linkedin.com/in/tracy-anne-griffin-manning" /></a>
