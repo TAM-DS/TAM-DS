@@ -11,27 +11,34 @@ I combine deep domain expertise with technical firepower across AI, Quantum, and
 - ⚛️ **Quantum Alpha Series** — real QML projects for wealth strategy
 - 🧪 **Experiment-Driven Engineering** — A/B testing, product analytics, and optimization
 
+## 🔥 Top 10 Projects  
+- 🧮 **Python Trading Algo** — A working trading algorithm using simple signal logic (https://github.com/TAM-DS/PythonTradingAlgo24-.git )
+- 🧮 **Quant Python Algo** —  30-line algorithm implements quantum teleportation - the foundation of quantum internet(https://github.com/TAM-DS/Quant11#quant11python )
+
 ## 🔥 Current Projects  
-| Category       | Highlights |
-|----------------|------------|
-| Tableau        | KPI Heat Maps · Risk Visuals · Volatility Charts · Crypto Trends |
-| Python         | Trading Algorithms · Decision Trees · GPT Agents · ML Pipelines |
-| Quantum        | Quantum Use Cases in Finance · Spin Qubits · F-block Exploration |
-| SQL            | Data Warehousing · Query Optimization · FinTech EDA Dashboards |
+| Category              | Highlights |
+|----------------       |------------|
+| SQL                   | Data Warehousing · Query Optimization · FinTech EDA Dashboards |
+| Python                | Trading Algorithms · Decision Trees · GPT Agents · ML Pipelines |
+| Quantum ML            | Quantum Use Cases in Finance · Spin Qubits · F-block Exploration |
+| AI Product Management | AutoGPT · LangGraph · CrewAI · ML use cases for Product Strategy |
+| PyTorch & Tensorflow  | Custom CNN models for Computer Vision Tasks|
+| Tableau               | KPI Heat Maps · Risk Visuals · Volatility Charts · Crypto Trends |
 
-> 💡 *I’m a generalist who connects the dots — from truck drivers to CEOs.*
+   > 💡 *Generalist with Specialist Range | Connecting AI, Strategy & Results.*
 
-## 🌐 More  
+## 🌐 Accomplishments  
 - 🖥️ **Live Tableau Portfolio**: [public.tableau.com/profile/tagm](https://public.tableau.com/app/profile/tagm)
 - 🧪 **GPT Apps & AI Products**: Coming soon to the [ChatGPT Store](https://chat.openai.com/gpts)
+- ✅ **CFA Certificate**: [CFA Institute](https://)- 
+- ✅ **GCP Cloud Architect Professional**: [GCP Certificate](https://)
 - 🧳 **Case Studies**: Available upon request
-- 📍 **DFW Built** — proudly based in Dallas
-
+-
 ---
 
 🔗 **Let’s Connect**  
-📫 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🌐 Website coming soon: `builtbytagm.dev`
+ 📍 **DFW Built** — proudly based in Dallas
+📫 [LinkedIn](https://www.linkedin.com/in/tracy-anne-griffin-manning/)  
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tracy-anne-griffin-manning/" target="blank"><img align="center" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="www.linkedin.com/in/tracy-anne-griffin-manning" /></a>
