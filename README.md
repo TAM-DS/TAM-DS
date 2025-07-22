@@ -1,66 +1,37 @@
-<!-- Intro  -->
-<h1 align="center">
-        <samp>&gt; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!, I am
-                <b><a target="_blank" href="https://github.com/TAM-DS">Tracy Anne Griffin Manning</a></b>
-        </samp>
-<h2 align="center"> I’m a generalist with specialist range — a systems thinker who connects data to strategy, AI to outcomes, and people to impact. I translate insight into action and vision into measurable results. </h2>
-</h1>
+# ⚡️ TAGM | AI Systems for FinTech Alpha  
+**Built in Dallas. Made for FinTech.**
 
-### Welcome!
+Welcome to the official portfolio of TAGM — a Full Stack Founder crafting intelligent systems that deliver alpha in the modern financial ecosystem.
 
-### About me: Under Construction Updates Soon
+## 🧠 What I Build  
+I combine deep domain expertise with technical firepower across AI, Quantum, and Financial Analytics.
 
+- 🧮 **Python + SQL + Tableau** — advanced dashboards, pipelines, and insights
+- 🤖 **LLM Apps + Vector DBs** — GPT-powered tools and custom AI agents
+- ⚛️ **Quantum Alpha Series** — real QML projects for wealth strategy
+- 🧪 **Experiment-Driven Engineering** — A/B testing, product analytics, and optimization
 
+## 🔥 Current Projects  
+| Category       | Highlights |
+|----------------|------------|
+| Tableau        | KPI Heat Maps · Risk Visuals · Volatility Charts · Crypto Trends |
+| Python         | Trading Algorithms · Decision Trees · GPT Agents · ML Pipelines |
+| Quantum        | Quantum Use Cases in Finance · Spin Qubits · F-block Exploration |
+| SQL            | Data Warehousing · Query Optimization · FinTech EDA Dashboards |
 
-Here's a glimpse into my world:
+> 💡 *I’m a generalist who connects the dots — from truck drivers to CEOs.*
 
-🔍 Core Skills
- -  
+## 🌐 More  
+- 🖥️ **Live Tableau Portfolio**: [public.tableau.com/profile/tagm](https://public.tableau.com/app/profile/tagm)
+- 🧪 **GPT Apps & AI Products**: Coming soon to the [ChatGPT Store](https://chat.openai.com/gpts)
+- 🧳 **Case Studies**: Available upon request
+- 📍 **DFW Built** — proudly based in Dallas
 
+---
 
-🔬 Financial Leadership & FinOps 
-- 
-
-  
-<img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" />  Enterprise AI Solutions 
-
-- 
-
-    
-<img align="center" width="20" src="./com-crop-unscreen.gif" />  Machine Learning 
-
-- 
-
-
-<img align="center" width="20" src="https://gist.githubusercontent.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac/raw/1bb6af139c1c06c85a2b8a2f5858275a73cf75ac/robotics.gif" />  Innovation Lab
-
-- 
-
-  
-🔗 Let's Connect
--  📍  Dallas, TEXAS
-
-   
-🧩 Key Differentiators: 
-- AI Architecture Integration
-- Algorithmic Problem Solving
-- Cross-Industry Technology Knowledge
-- Data-Driven Strategic Planning
- 
-
-📧 Contact me: [tmanning@post.harvard.edu](mailto:tmanning@post.harvard.edu)
-  
-🔗 LinkedIn: [www.linkedin.com/in/tracy-anne-griffin-manning](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
-
-🔗 X: [https://x.com/BuiltByTAGM/media\)
-
-🔗 Git-Hub: [https://github.com/TAM-DS/TAGM.github.io]
-<br>
-📝 Professional Certifications
-
-### AI & Machine Learning
-- 
-
+🔗 **Let’s Connect**  
+📫 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+🌐 Website coming soon: `builtbytagm.dev`
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tracy-anne-griffin-manning/" target="blank"><img align="center" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="www.linkedin.com/in/tracy-anne-griffin-manning" /></a>
