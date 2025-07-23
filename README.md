@@ -17,8 +17,8 @@ Seasoned AI entrepreneur combining Harvard business strategy with hands-on techn
 - **Quantum Computing:** Quantum ML Applications, Algorithm Development
 
 ## Top 5 Technical Projects
--  **Python Trading Algo** — A working trading algorithm using simple signal logic (https://github.com/TAM-DS/PythonTradingAlgo24-.git )
--  **Quant Python Algo** —  30-line algorithm implements quantum teleportation - the foundation of quantum internet(https://github.com/TAM-DS/Quant11#quant11python )
+-  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) (https://github.com/TAM-DS/PythonTradingAlgo24)
+-  **Quant Python Algo** —  30-line algorithm implements quantum teleportation - the foundation of quantum internet (→) (https://github.com/TAM-DS/Quant11#quant11python)
   
 ## Featured Projects
 - **Strategic Financial Transformation Analysis**
@@ -43,7 +43,7 @@ Seasoned AI entrepreneur combining Harvard business strategy with hands-on techn
 - **Harvard Graduate** — Advanced business and analytical training
 - **GCP Professional Cloud Architect** — Enterprise-scale cloud infrastructure certification
 - **CFA Investment Foundations** — Investment analysis and portfolio management
-- **Live Analytics Portfolio** — [Tableau Public](https://public.tableau.com/app/profile/tagm)
+- **Live Analytics Portfolio**  (→) [Tableau Public](https://public.tableau.com/app/profile/tagm)
 
 ---
 
