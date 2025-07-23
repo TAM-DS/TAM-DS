@@ -4,8 +4,9 @@ Seasoned AI entrepreneur combining Harvard business strategy with hands-on techn
 
 ## Background Highlights
 - Successfully exited AI consultancy after 10+ years as co-founder
-- Harvard graduate with CFA Level I and GCP Professional Cloud Architect certifications
+- Harvard graduate with CFA Investment Foundations and GCP Professional Cloud Architect certifications
 - Proven track record developing enterprise AI products for financial markets
+  
 - **Current Focus** — Solo founder developing intelligent trading and risk management systems
 
  ## Technical Expertise
@@ -25,7 +26,7 @@ Seasoned AI entrepreneur combining Harvard business strategy with hands-on techn
 - **Enterprise AI Products** — Developed and commercialized AI solutions for financial markets
 - **Harvard Graduate** — Advanced business and analytical training
 - **GCP Professional Cloud Architect** — Enterprise-scale cloud infrastructure certification
-- **CFA Level I** — Investment analysis and portfolio management
+- **CFA Investment Foundations** — Investment analysis and portfolio management
 - **Live Analytics Portfolio** — [Tableau Public](https://public.tableau.com/app/profile/tagm)
 
 ---
