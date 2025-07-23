@@ -19,7 +19,23 @@ Seasoned AI entrepreneur combining Harvard business strategy with hands-on techn
 ## Top 5 Technical Projects
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (https://github.com/TAM-DS/PythonTradingAlgo24-.git )
 -  **Quant Python Algo** —  30-line algorithm implements quantum teleportation - the foundation of quantum internet(https://github.com/TAM-DS/Quant11#quant11python )
-- being updated.
+  
+## Featured Projects
+- **Strategic Financial Transformation Analysis**
+- **Business Impact:** Identified $800K+ profit improvement opportunity and 23% debt reduction pathway through comprehensive 3-year performance analysis
+
+- **Challenge:** Complex financial volatility patterns masking underlying business transformation - leadership needed clarity on whether performance indicated strength or weakness
+
+- **Solution:** Built comprehensive Tableau dashboard analyzing operational metrics, cash flow dynamics, and balance sheet optimization across a 36-month period. Developed executive-level visualization framework revealing strategic -transformation rather than operational issues.
+
+- **Key Insights Delivered:**
+- PBIT growth trajectory: 104% increase ($0.78M → $1.59M) 
+- Operational efficiency breakthrough: Inventory turnover 32.4 → 194.1
+- Strategic debt reduction: 23% gearing improvement while maintaining growth
+
+- **Executive Outcome:** Transformed perceived "volatility concerns" into validated growth strategy, enabling continued strategic investments with board confidence
+
+- **Technologies:** Tableau, Advanced Analytics, Executive Dashboard Design [Tableau](https://tinyurl.com/38wpedxn)
   
 ## Key Accomplishments
 - **AI Company Exit** — Successfully built and sold AI consultancy after 10+ years of growth
