@@ -36,7 +36,7 @@ Seasoned AI entrepreneur combining Harvard business strategy with hands-on techn
 
 - **Executive Outcome:** Transformed perceived "volatility concerns" into validated growth strategy, enabling continued strategic investments with board confidence
 
-- **Technologies:** Tableau, SQL, Python, Advanced Analytics, Executive Dashboard Design (→) [Tableau](https://tinyurl.com/38wpedxn)
+- **Technologies:** Tableau, SQL, Python, Advanced Analytics, Executive Dashboard Design (→) [Tableau](https://tinyurl.com/3zy8pksz)
   
 ## Key Accomplishments
 - **AI Company Exit** — Successfully built and sold AI consultancy after 10+ years of growth
