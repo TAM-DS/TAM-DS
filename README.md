@@ -18,7 +18,7 @@ Seasoned AI entrepreneur combining Harvard business strategy with hands-on techn
 
 ## Top 5 Technical Projects
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
--  **Quant Python Algo** —  30-line algorithm implements quantum teleportation - the foundation of quantum internet (→) [Github](https://github.com/TAM-DS/Quant11#quant11python)
+-  **Quant Python Algo** —  30-line algorithm implements quantum teleportation (→) [Github](https://github.com/TAM-DS/Quant11#quant11python)
   
 ## Featured Projects
 - **Strategic Financial Transformation Analysis**
