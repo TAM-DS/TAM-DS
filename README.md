@@ -2,34 +2,31 @@
 ## AI Entrepreneur & Financial Technology Executive
 Seasoned AI entrepreneur combining Harvard business strategy with hands-on technical expertise. After 10 years co-founding and scaling an AI consultancy through to successful exit, now building next-generation financial technology solutions as a solo founder.
 
-## Background
-- **10+ Years Co-Founder Experience** — Built and scaled AI consultancy from startup to successful exit
-- **Proven AI Product Success** — Developed and sold enterprise AI solutions  
-- **Harvard Graduate** — Strategic foundation with advanced analytical training
-- **Professional Certifications** — CFA Level I | GCP Professional Cloud Architect
+## Background Highlights
+- Successfully exited AI consultancy after 10+ years as co-founder
+- Harvard graduate with CFA Level I and GCP Professional Cloud Architect certifications
+- Proven track record developing enterprise AI products for financial markets
 - **Current Focus** — Solo founder developing intelligent trading and risk management systems
 
  ## Technical Expertise
+- **Cloud & Infrastructure:** GCP Professional Cloud Architect, Enterprise AI Systems
+- **AI & Machine Learning:** Python, TensorFlow, PyTorch, LLMs, Vector Databases
+- **Financial Technology:** Quantitative Analysis, Trading Systems, Risk Modeling
+- **Data & Analytics:** SQL, Statistical Modeling, A/B Testing, Tableau
+- **Quantum Computing:** Quantum ML Applications, Algorithm Development
 
-**Cloud & Infrastructure:** GCP Professional Cloud Architect, Enterprise AI Systems
-**AI & Machine Learning:** Python, TensorFlow, PyTorch, LLMs, Vector Databases
-**Financial Technology:** Quantitative Analysis, Trading Systems, Risk Modeling
-**Data & Analytics:** SQL, Statistical Modeling, A/B Testing, Tableau
-**Quantum Computing:** Quantum ML Applications, Algorithm Development
-
-## Top 15 Technical Projects
-- 🧮 **Python Trading Algo** — A working trading algorithm using simple signal logic (https://github.com/TAM-DS/PythonTradingAlgo24-.git )
-- 🧮 **Quant Python Algo** —  30-line algorithm implements quantum teleportation - the foundation of quantum internet(https://github.com/TAM-DS/Quant11#quant11python )
-
+## Top 5 Technical Projects
+-  **Python Trading Algo** — A working trading algorithm using simple signal logic (https://github.com/TAM-DS/PythonTradingAlgo24-.git )
+-  **Quant Python Algo** —  30-line algorithm implements quantum teleportation - the foundation of quantum internet(https://github.com/TAM-DS/Quant11#quant11python )
+- being updated.
+  
 ## Key Accomplishments
-
 - **AI Company Exit** — Successfully built and sold AI consultancy after 10+ years of growth
 - **Enterprise AI Products** — Developed and commercialized AI solutions for financial markets
 - **Harvard Graduate** — Advanced business and analytical training
 - **GCP Professional Cloud Architect** — Enterprise-scale cloud infrastructure certification
 - **CFA Level I** — Investment analysis and portfolio management
 - **Live Analytics Portfolio** — [Tableau Public](https://public.tableau.com/app/profile/tagm)
-
 
 ---
 
