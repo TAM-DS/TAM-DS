@@ -5,13 +5,11 @@
 
  ## Platforms & Ecosystems
 - **GenAI & LLMs** • LangChain • OpenAI • Pinecone • Retrieval-Augmented Generation (RAG)
-- **Vector Search** • Pinecone • FAISS • ChromaDB
-- **AI/ML Stack** • Python • TensorFlow • PyTorch • Scikit-learn • Hugging Face
-- **Cloud Infrastructure** • GCP (Professional Cloud Architect) • Vertex AI • CI/CD Pipelines
-- **Enterprise Platforms** • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
-- **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Forecasting
-- **BI & Analytics** SQL • Tableau • Statistical Modeling • KPI Dashboards
-- **Quantum R&D** Qiskit • Quantum ML Prototypes
+- **AI/ML Stack** • Python • TensorFlow • PyTorch • Hugging Face
+- **Enterprise Platforms** • GCP Cloud Architect • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
+- **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Financial Forecasting
+- **BI & Analytics** • SQL • Tableau • Statistical Modeling • KPI Dashboards
+- **Quantum ML** • Qiskit • Quantum ML 
 
 ## Top 5 Technical Projects
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
@@ -38,7 +36,6 @@
 ## Key Accomplishments
 - **AI Company Exit** — Successfully built and sold AI consultancy after 10+ years of growth
 - **Enterprise AI Products** — Developed and commercialized AI solutions for financial markets
-- **Harvard Graduate** — Advanced business and analytical training
 - **GCP Professional Cloud Architect** — Enterprise-scale cloud infrastructure certification
 - **CFA Investment Foundations** — Investment analysis and portfolio management
 - **Palantir Foundry** — Enterprise Platforms 
