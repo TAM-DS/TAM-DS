@@ -1,7 +1,7 @@
 # Tracy Anne Griffin Manning
 ## AI Engineer | FinTech Solutions Architect | Full Stack Founder | Sucessful Exit
 
-**Current Focus** — Solo founder developing intelligent trading and risk management systems
+**Current Focus** — Solo founder developing intelligent FinTech Solutions
 
  ## Platforms & Ecosystems
 - **GenAI & LLMs** • LangChain • OpenAI • Pinecone • Retrieval-Augmented Generation (RAG)
