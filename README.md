@@ -4,12 +4,12 @@
 **Current Focus** — Solo founder developing intelligent trading and risk management systems
 
  ## Platforms & Ecosystems
-- **GenAI & LLMs** LangChain • OpenAI • Pinecone • Retrieval-Augmented Generation (RAG)
-- **Vector Search**  Pinecone • FAISS • ChromaDB
-- **AI/ML Stack** Python • TensorFlow • PyTorch • Scikit-learn • Hugging Face
-- **Cloud Infrastructure** GCP (Professional Cloud Architect) • Vertex AI • CI/CD Pipelines
-- **Enterprise Platforms** Palantir Foundry
-- **FinTech Engineering** Trading Systems • Risk Engines • Portfolio Analytics • Forecasting
+- **GenAI & LLMs** • LangChain • OpenAI • Pinecone • Retrieval-Augmented Generation (RAG)
+- **Vector Search** • Pinecone • FAISS • ChromaDB
+- **AI/ML Stack** • Python • TensorFlow • PyTorch • Scikit-learn • Hugging Face
+- **Cloud Infrastructure** • GCP (Professional Cloud Architect) • Vertex AI • CI/CD Pipelines
+- **Enterprise Platforms** • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
+- **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Forecasting
 - **BI & Analytics** SQL • Tableau • Statistical Modeling • KPI Dashboards
 - **Quantum R&D** Qiskit • Quantum ML Prototypes
 
