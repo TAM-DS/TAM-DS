@@ -1,20 +1,18 @@
 # Tracy Anne Griffin Manning
-## AI Entrepreneur & Financial Technology Executive
-Seasoned AI entrepreneur combining Harvard business strategy with hands-on technical expertise. After 10 years co-founding and scaling an AI consultancy through to successful exit, now building next-generation financial technology solutions as a solo founder.
+## AI Engineer & FinTech Executive
+Seasoned AI entrepreneur combining hands-on technical expertise. After 10 years co-founding and scaling an AI consultancy through to successful exit, now building next-generation financial technology solutions as a solo founder.
 
-## Background Highlights
-- Successfully exited AI consultancy after 10+ years as co-founder
-- Harvard graduate with CFA Investment Foundations and GCP Professional Cloud Architect certifications
-- Proven track record developing enterprise AI products for financial markets
-  
-- **Current Focus** — Solo founder developing intelligent trading and risk management systems
+**Current Focus** — Solo founder developing intelligent trading and risk management systems
 
- ## Technical Expertise
-- **Cloud & Infrastructure:** GCP Professional Cloud Architect, Enterprise AI Systems
-- **AI & Machine Learning:** Python, TensorFlow, PyTorch, LLMs, Vector Databases
-- **Financial Technology:** Quantitative Analysis, Trading Systems, Risk Modeling
-- **Data & Analytics:** SQL, Statistical Modeling, A/B Testing, Tableau
-- **Quantum Computing:** Quantum ML Applications, Algorithm Development
+ ## Platforms & Ecosystems
+- **GenAI & LLMs** LangChain • OpenAI • Pinecone • Retrieval-Augmented Generation (RAG)
+- **Vector Search**  Pinecone • FAISS • ChromaDB
+- **AI/ML Stack** Python • TensorFlow • PyTorch • Scikit-learn • Hugging Face
+- **Cloud Infrastructure** GCP (Professional Cloud Architect) • Vertex AI • CI/CD Pipelines
+- **Enterprise Platforms** Palantir Foundry
+- **FinTech Engineering** Trading Systems • Risk Engines • Portfolio Analytics • Forecasting
+- **BI & Analytics** SQL • Tableau • Statistical Modeling • KPI Dashboards
+- **Quantum R&D** Qiskit • Quantum ML Prototypes
 
 ## Top 5 Technical Projects
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
@@ -27,7 +25,7 @@ Seasoned AI entrepreneur combining Harvard business strategy with hands-on techn
 
 - **Challenge:** Complex financial volatility patterns masking underlying business transformation - leadership needed clarity on whether performance indicated strength or weakness
 
-- **Solution:** Built comprehensive Tableau dashboard analyzing operational metrics, cash flow dynamics, and balance sheet optimization across a 36-month period. Developed executive-level visualization framework revealing strategic -transformation rather than operational issues.
+- **Solution:** Built a comprehensive Tableau dashboard analyzing operational metrics, cash flow dynamics, and balance sheet optimization across a 36-month period. Developed an executive-level visualization framework revealing strategic transformation rather than operational issues.
 
 - **Key Insights Delivered:**
 - PBIT growth trajectory: 104% increase ($0.78M → $1.59M) 
