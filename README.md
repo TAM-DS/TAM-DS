@@ -1,6 +1,5 @@
 # Tracy Anne Griffin Manning
-## AI Engineer & FinTech Executive
-Seasoned AI entrepreneur combining hands-on technical expertise. After 10 years co-founding and scaling an AI consultancy through to successful exit, now building next-generation financial technology solutions as a solo founder.
+## AI Engineer | FinTech Solutions Architect | Full Stack Founder | Sucessful Exit
 
 **Current Focus** — Solo founder developing intelligent trading and risk management systems
 
