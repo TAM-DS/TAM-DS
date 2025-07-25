@@ -4,8 +4,8 @@
 **Current Focus** — Solo founder developing intelligent FinTech Solutions
 
  ## Platforms & Ecosystems
-- **GenAI & LLMs** • LangChain • OpenAI • Pinecone • Retrieval-Augmented Generation (RAG)
-- **AI/ML Stack** • Python • TensorFlow • PyTorch • Hugging Face
+- **GenAI & LLMs** • LangChain • MCP • Pinecone (Vector DB) • Retrieval-Augmented Generation (RAG)
+- **AI/ML Stack** • TensorFlow • PyTorch • Hugging Face • Flask/FastAPI 
 - **Enterprise Platforms** • GCP Cloud Architect • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
 - **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Financial Forecasting
 - **BI & Analytics** • SQL • Tableau • Statistical Modeling • KPI Dashboards
