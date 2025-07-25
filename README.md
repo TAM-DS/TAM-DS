@@ -42,6 +42,7 @@ Seasoned AI entrepreneur combining hands-on technical expertise. After 10 years 
 - **Harvard Graduate** — Advanced business and analytical training
 - **GCP Professional Cloud Architect** — Enterprise-scale cloud infrastructure certification
 - **CFA Investment Foundations** — Investment analysis and portfolio management
+- **Palantir Foundry** — Enterprise Platforms 
 - **Live Analytics Portfolio**  (→) [Tableau Public](https://public.tableau.com/app/profile/tagm)
 
 ---
