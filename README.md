@@ -3,21 +3,20 @@
 
 **Current Focus** — Solo founder developing Bespoke FinTech Solutions that solve complex challenges
 
-# Platforms, Ecosystems & Workflow Automation
+# Platforms & Ecosystems
 - **GenAI & LLMs** • LangChain • MCP • Pinecone (Vector DB) • Retrieval-Augmented Generation (RAG)
-- **AI/ML Stack** • TensorFlow • PyTorch • Hugging Face • Flask/FastAPI 
+- **AI/ML Stack** • TensorFlow • PyTorch • Hugging Face • Flask/FastAPI - **Quantum ML** • Qiskit • Quantum ML
 - **Enterprise Platforms** • GCP Cloud Architect • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
 - **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Financial Forecasting
 - **BI & Analytics** • SQL • Tableau • Statistical Modeling • KPI Dashboards
-- **Quantum ML** • Qiskit • Quantum ML
-- **Workflow Automation** • n8n • AI Agents  
+  
 
 # Top 5 Technical Projects
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
   
 -   **List being updated with current public projects**
    
-# Featured Project
+# Featured Analysis Project
 ### **Strategic Financial Transformation Analysis**
 - **Business Impact:** Identified $800K+ profit improvement opportunity and 23% debt reduction pathway through comprehensive 3-year performance analysis
 
