@@ -3,13 +3,14 @@
 
 **Current Focus** — Solo founder developing Bespoke FinTech Solutions that solve complex challenges
 
-# Platforms & Ecosystems
+# Platforms, Ecosystems & Workflow Automation
 - **GenAI & LLMs** • LangChain • MCP • Pinecone (Vector DB) • Retrieval-Augmented Generation (RAG)
 - **AI/ML Stack** • TensorFlow • PyTorch • Hugging Face • Flask/FastAPI 
 - **Enterprise Platforms** • GCP Cloud Architect • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
 - **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Financial Forecasting
 - **BI & Analytics** • SQL • Tableau • Statistical Modeling • KPI Dashboards
-- **Quantum ML** • Qiskit • Quantum ML 
+- **Quantum ML** • Qiskit • Quantum ML
+- **Workflow Automation** • n8n • AI Agents  
 
 # Top 5 Technical Projects
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
@@ -40,7 +41,7 @@
 - **AI Company Exit** — Successfully built and sold AI consultancy after 10+ years of growth
 - **Enterprise AI Products** — Developed and commercialized AI solutions for financial markets
 - **GCP Professional Cloud Architect** — Enterprise-scale cloud infrastructure certification
-- **Palantir Foundry** — Enterprise Platforms
+- **Palantir Foundry** — Enterprise Platforms (Learning)
 - **CFA Investment Foundations** — Investment analysis and portfolio management
 - **Live Analytics Portfolio**  (→) [Tableau Public](https://public.tableau.com/app/profile/tagm)
 
