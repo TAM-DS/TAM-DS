@@ -5,6 +5,7 @@
 
 # Platforms & Ecosystems
 - **GenAI & LLMs** • LangChain • MCP • Pinecone (Vector DB) • Retrieval-Augmented Generation (RAG)
+- **Agentic AI** • n8n 
 - **AI/ML Stack** • TensorFlow • PyTorch • Hugging Face • Flask/FastAPI 
 - **Enterprise Platforms** • GCP Cloud Architect • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
 - **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Financial Forecasting
