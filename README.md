@@ -5,7 +5,8 @@
 
 # Platforms & Ecosystems
 - **GenAI & LLMs** • LangChain • MCP • Pinecone (Vector DB) • Retrieval-Augmented Generation (RAG)
-- **AI/ML Stack** • TensorFlow • PyTorch • Hugging Face • Flask/FastAPI - **Quantum ML** • Qiskit • Quantum ML
+- **AI/ML Stack** • TensorFlow • PyTorch • Hugging Face • Flask/FastAPI
+- **Quantum ML** • Qiskit • Quantum ML
 - **Enterprise Platforms** • GCP Cloud Architect • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
 - **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Financial Forecasting
 - **BI & Analytics** • SQL • Tableau • Statistical Modeling • KPI Dashboards
