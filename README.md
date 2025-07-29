@@ -5,9 +5,9 @@
 
 # Platforms & Ecosystems
 - **GenAI & LLMs** • LangChain • MCP • Pinecone (Vector DB) • Retrieval-Augmented Generation (RAG)
-- **AI/ML Stack** • TensorFlow • PyTorch • Hugging Face • Flask/FastAPI
+- **AI/ML Stack** • TensorFlow • PyTorch • Hugging Face • GCP ML Engineering 
 - **Quantum ML** • Qiskit • Quantum ML
-- **Enterprise Platforms** • GCP Cloud Architect • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
+- **Enterprise Platforms** • GCP Cloud Architect • AWS Solutions Architect • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
 - **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Financial Forecasting
 
 # Top 5 Technical Projects
@@ -33,7 +33,8 @@
 - Transformed perceived "volatility concerns" into validated growth strategy, enabling continued strategic investments with board confidence
 
 ### **Technologies:** 
-- Tableau, SQL, Python, Advanced Analytics, Executive Dashboard Design 
+- Tableau, SQL, Python, Advanced Analytics, Executive Dashboard Design
+  
 # SQL Projects
 - **Exploratory Data Analysis (EDA)** (→) [GitHub](https://)
 - **Data Warehouse** (→) [GitHub](https://)
