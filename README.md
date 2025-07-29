@@ -22,7 +22,7 @@
 
 - **Challenge:** Complex financial volatility patterns masking underlying business transformation - leadership needed clarity on whether performance indicated strength or weakness
 
-- **Solution:** Built a comprehensive Tableau dashboard analyzing operational metrics, cash flow dynamics, and balance sheet optimization across a 36-month period. Developed an executive-level visualization framework revealing strategic transformation rather than operational issues.
+- **Solution:** Built a comprehensive Tableau dashboard analyzing operational metrics, cash flow dynamics, and balance sheet optimization across 36 months. Developed an executive-level visualization framework revealing strategic transformation rather than operational issues.
 
 ### **Key Insights Delivered:**
 - PBIT growth trajectory: 104% increase ($0.78M → $1.59M) 
@@ -36,8 +36,8 @@
 - Tableau, SQL, Python, Advanced Analytics, Executive Dashboard Design
   
 ## SQL Projects
-- **Exploratory Data Analysis (EDA)** (→) [GitHub](https://)
-- **Data Warehouse** (→) [GitHub](https://)
+- **Exploratory Data Analysis (EDA)** (→) [GitHub](https://) being updated
+- **Data Warehouse** (→) [GitHub](https://) being updated 
   
 ## Analytics Portfolio  
 - [Tableau Public](https://public.tableau.com/app/profile/tagm)
