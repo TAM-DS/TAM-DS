@@ -9,8 +9,6 @@
 - **Quantum ML** • Qiskit • Quantum ML
 - **Enterprise Platforms** • GCP Cloud Architect • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
 - **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Financial Forecasting
-- **BI & Analytics** • SQL • Tableau • Statistical Modeling • KPI Dashboards
-  
 
 # Top 5 Technical Projects
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
@@ -18,7 +16,8 @@
 -   **List being updated with current public projects**
    
 # Featured Analysis Project
-### **Strategic Financial Transformation Analysis**
+### **Strategic Financial Transformation Analysis** (→) [Tableau](https://public.tableau.com/app/profile/tagm/viz/UndertheHoodA360PerformanceAnalysis__17537710411190/Overview?publish=yes)
+
 - **Business Impact:** Identified $800K+ profit improvement opportunity and 23% debt reduction pathway through comprehensive 3-year performance analysis
 
 - **Challenge:** Complex financial volatility patterns masking underlying business transformation - leadership needed clarity on whether performance indicated strength or weakness
@@ -34,16 +33,13 @@
 - Transformed perceived "volatility concerns" into validated growth strategy, enabling continued strategic investments with board confidence
 
 ### **Technologies:** 
-- Tableau, SQL, Python, Advanced Analytics, Executive Dashboard Design (→) [Tableau](https://public.tableau.com/app/profile/tagm/viz/UndertheHoodA360PerformanceAnalysis_/Overview?publish=yes)
-
+- Tableau, SQL, Python, Advanced Analytics, Executive Dashboard Design 
+# SQL Projects
+- **Exploratory Data Analysis (EDA)** (→) [GitHub](https://)
+- **Data Warehouse** (→) [GitHub](https://)
   
-# Key Accomplishments
-- **AI Company Exit** — Successfully built and sold AI consultancy after 10+ years of growth
-- **Enterprise AI Products** — Developed and commercialized AI solutions for financial markets
-- **GCP Professional Cloud Architect** — Enterprise-scale cloud infrastructure certification
-- **Palantir Foundry** — Enterprise Platforms (Learning)
-- **CFA Investment Foundations** — Investment analysis and portfolio management
-- **Live Analytics Portfolio**  (→) [Tableau Public](https://public.tableau.com/app/profile/tagm)
+# Analytics Portfolio  
+- [Tableau Public](https://public.tableau.com/app/profile/tagm)
 
 ---
 
