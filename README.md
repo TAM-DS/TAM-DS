@@ -16,8 +16,7 @@
 -   **List being updated with current public projects**
    
 ## Featured Analysis Project
-### *Decoding Financial Complexity: 
-A Multi-Dimensional Analysis of Strategic Performance.*** (→) [Tableau](https://public.tableau.com/app/profile/tagm/viz/DecodingFinancialComplexityAMulti-DimensionalAnalysisofStrategicPerformance/Overview?publish=yes)
+### **Decoding Financial Complexity: A Multi-Dimensional Analysis of Strategic Performance.** (→) [Tableau](https://public.tableau.com/app/profile/tagm/viz/DecodingFinancialComplexityAMulti-DimensionalAnalysisofStrategicPerformance/Overview?publish=yes)
 
 - **Business Impact:** Identified $800K+ profit improvement opportunity and 23% debt reduction pathway through comprehensive 3-year performance analysis
 
