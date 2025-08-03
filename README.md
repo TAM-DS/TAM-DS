@@ -22,7 +22,8 @@
 
 - **Challenge:** Complex financial volatility patterns masking underlying business transformation - leadership needed clarity on whether performance indicated strength or weakness
 
-- **Solution:** Built a comprehensive Tableau dashboard analyzing operational metrics, cash flow dynamics, and balance sheet optimization across 36 months. Developed an executive-level visualization framework revealing strategic transformation rather than operational issues, featuring 33 analytical charts and core financial statements.
+- **Solution:** Built a comprehensive Tableau dashboard analyzing operational metrics, cash flow dynamics, and balance sheet optimization across 36 months.
+- Developed an executive-level visualization framework revealing strategic transformation rather than operational issues, featuring 33 analytical charts and core financial statements.
 
 
 ### **Key Insights Delivered:**
