@@ -16,13 +16,15 @@
 -   **List being updated with current public projects**
    
 ## Featured Analysis Project
-### **Strategic Financial Transformation Analysis** (→) [Tableau](https://public.tableau.com/app/profile/tagm/viz/DecodingFinancialComplexityAMulti-DimensionalAnalysisofStrategicPerformance/Overview?publish=yes)
+### *Decoding Financial Complexity: 
+A Multi-Dimensional Analysis of Strategic Performance.*** (→) [Tableau](https://public.tableau.com/app/profile/tagm/viz/DecodingFinancialComplexityAMulti-DimensionalAnalysisofStrategicPerformance/Overview?publish=yes)
 
 - **Business Impact:** Identified $800K+ profit improvement opportunity and 23% debt reduction pathway through comprehensive 3-year performance analysis
 
 - **Challenge:** Complex financial volatility patterns masking underlying business transformation - leadership needed clarity on whether performance indicated strength or weakness
 
-- **Solution:** Built a comprehensive Tableau dashboard analyzing operational metrics, cash flow dynamics, and balance sheet optimization across 36 months. Developed an executive-level visualization framework revealing strategic transformation rather than operational issues.
+- **Solution:** Built a comprehensive Tableau dashboard analyzing operational metrics, cash flow dynamics, and balance sheet optimization across 36 months. Developed an executive-level visualization framework revealing strategic transformation rather than operational issues, featuring 33 analytical charts and core financial statements.
+
 
 ### **Key Insights Delivered:**
 - PBIT growth trajectory: 104% increase ($0.78M → $1.59M) 
