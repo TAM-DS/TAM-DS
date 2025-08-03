@@ -16,7 +16,7 @@
 -   **List being updated with current public projects**
    
 ## Featured Analysis Project
-### **Strategic Financial Transformation Analysis** (→) [Tableau](https://public.tableau.com/app/profile/tagm/viz/UndertheHoodA360PerformanceAnalysis__17537710411190/Overview?publish=yes)
+### **Strategic Financial Transformation Analysis** (→) [Tableau](https://public.tableau.com/app/profile/tagm/viz/DecodingFinancialComplexityAMulti-DimensionalAnalysisofStrategicPerformance/Overview?publish=yes)
 
 - **Business Impact:** Identified $800K+ profit improvement opportunity and 23% debt reduction pathway through comprehensive 3-year performance analysis
 
