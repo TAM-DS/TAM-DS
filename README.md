@@ -1,5 +1,7 @@
 # Tracy Anne Griffin Manning
-## AI Engineer | FinTech Solutions Architect | Connector of People, Product, and Purpose
+## **End-to-End AI/ML Architecture: Cloud Infrastructure (AWS/GCP) → Data Engineering (SQL Server/BigQuery) → Machine Learning → Production Scale**
+
+🚀 AI/ML Founder | 10+ Years Building Scalable Solutions | FinTech Innovation
 
 **Current Focus** — Solo founder developing Bespoke FinTech Solutions that solve complex challenges
 
