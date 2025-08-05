@@ -6,18 +6,22 @@
 **Current Focus** — Solo founder developing Bespoke FinTech Solutions that solve complex challenges
 
 ## Platforms & Ecosystems
-- **GenAI & LLMs** • LangChain • MCP • Pinecone (Vector DB) • Retrieval-Augmented Generation (RAG)
+- **GenAI & LLMs** • LangChain • MCP • Pinecone (Vector DB) • Retrieval-Augmented Generation (RAG) • DataBricks GEN AI Engineer (In progress) 
 - **AI/ML Stack** • TensorFlow • PyTorch • Hugging Face • GCP ML Engineering 
 - **Quantum ML** • Qiskit • Quantum ML
-- **Enterprise Platforms** • GCP Cloud Architect • AWS Solutions Architect • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
+- **Enterprise Platforms** • GCP Cloud Architect • AWS Solutions Architect • DataBricks ML • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
 - **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Financial Forecasting
 
-## Top 5 Technical Projects
+## Top 5 Advanced Python Projects
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
   
 -   **List being updated with current public projects**
-   
-## Featured Analysis Project
+  
+## SQL Server/ Big Query Projects
+- **Exploratory Data Analysis (EDA)** (→) [GitHub](https://) being updated
+- **Data Warehouse** (→) [GitHub](https://) being updated  
+ 
+## 🏆 FLAGSHIP BUSINESS IMPACT:
 ### **Decoding Financial Complexity: A Multi-Dimensional Analysis of Strategic Performance.** (→) [Tableau](https://public.tableau.com/app/profile/tagm/viz/DecodingFinancialComplexityAMulti-DimensionalAnalysisofStrategicPerformance/Overview?publish=yes)
 
 - **Business Impact:** Identified $800K+ profit improvement opportunity and 23% debt reduction pathway through comprehensive 3-year performance analysis
@@ -39,13 +43,11 @@
 ### **Technologies:** 
 - Tableau, SQL, Python, Advanced Analytics, Executive Dashboard Design
   
-## SQL Projects
-- **Exploratory Data Analysis (EDA)** (→) [GitHub](https://) being updated
-- **Data Warehouse** (→) [GitHub](https://) being updated 
-  
-## Analytics Portfolio  
-- [Tableau Public](https://public.tableau.com/app/profile/tagm)
 
+## Advanced Analytics Portfolio (→) [Tableau Public](https://public.tableau.com/app/profile/tagm)
+- Color Blind Pallette • Real Market Data • Advanced Volatility Modeling (→) [Volatility](https://public.tableau.com/app/profile/tagm/viz/UniversalMarketIntelligence-/Color-BlindFinancialDashboard?publish=yes)
+- Real-Time Crypto Market Analysis with Interactive Dashboards (Real Data) (→) [Crypto](https://public.tableau.com/app/profile/tagm/viz/CoinsDontLiePriceActionPortfolioMovesandPLUnchained_/CryptoCurrencyDash?publish=yes)
+- VIZ DESIGN CATALOG-26 Dynamic Charts That Fuel Solutions and Drive Alpha (→) [VIZ](https://public.tableau.com/app/profile/tagm/viz/VIZDESIGNCATALOG26DynamicChartsThatFuelSolutionsandDriveAlpha_/Overview?publish=yes)
 ---
 
 <p align="left">
