@@ -1,4 +1,4 @@
-# Tracy Anne Griffin Manning
+# Tracy Manning
 ## **End-to-End AI/ML Architecture: Cloud Infrastructure (AWS/GCP) → Data Engineering (SQL Server/BigQuery) → Machine Learning → Production Scale**
 
 🚀 AI/ML Founder | 10+ Years Building Scalable Solutions | FinTech Innovation
