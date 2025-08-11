@@ -1,26 +1,20 @@
 # Tracy Manning
-## **End-to-End AI/ML Architecture: Cloud Infrastructure (AWS/GCP) → Data Engineering (SQL Server/BigQuery) → Machine Learning → Production Scale**
+## **Machine Learning Engineer | AI Systems Architect**
 
-🚀 AI/ML Founder | 10+ Years Building Scalable Solutions | FinTech Innovation
+🚀 I build machine learning systems that scale—taking projects from raw data to deployed models in production.
+From classical ML pipelines to cutting-edge quantum experimentation, I design architectures that deliver measurable performance gains and real-world impact
 
-**Current Focus** — Solo founder developing Bespoke FinTech Solutions that solve complex challenges
+## Core Specialties
+- **ML Engineering:** End-to-End pipelines (data prep → model training → deployment)
+- **Cloud Infrastructure:** AWS & GCP, container orchestration, scalable compute
+- **Data Engineering:** BigQuery, SQL Server, ETL/ELT pipelines
+- **Applied AI:** Generative AI, LangChain, vector search, AI agents
+- **Quantum ML (Experimental):** Prototype circuits & simulations for future-ready ML
 
-## Platforms & Ecosystems
-- **GenAI & LLMs** • LangChain • MCP • Pinecone (Vector DB) • Retrieval-Augmented Generation (RAG) • DataBricks GEN AI Engineer (In progress) 
-- **AI/ML Stack** • TensorFlow • PyTorch • Hugging Face • GCP ML Engineering 
-- **Quantum ML** • Qiskit • Quantum ML
-- **Enterprise Platforms** • GCP Cloud Architect • AWS Solutions Architect • DataBricks ML  
-- **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Financial Forecasting
-
-## Top 5 Advanced Python Projects
+## Featured Projects (in progress) 
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
-  
--   **List being updated with current public projects**
-
-## Top 4 Quantum ML Projects
-#### Quantum ML (experimental) • These are proof-of-concepts • not production systems • intended to show technical curiosity, reproducibility, and forward-looking R&D capability.
 - **Quant11Python — Quantum Teleportation Prototype** (→) [GitHhub](https://github.com/TAM-DS/Quant11/blob/main/README.md#quant11python--quantum-teleportation-prototype)
-  
+   
 ## SQL Server/ Big Query Projects
 - **Exploratory Data Analysis (EDA)** (→) [GitHub](https://) being updated
 - **Data Warehouse** (→) [GitHub](https://) being updated  
@@ -45,10 +39,10 @@
 - Transformed perceived "volatility concerns" into validated growth strategy, enabling continued strategic investments with board confidence
 
 ### **Technologies:** 
-- Tableau, SQL, Python, Advanced Analytics, Executive Dashboard Design
+- Leveraged SQL Server for data extraction, Python for advanced analytics, and Tableau for intuitive visualization to decode complex financial patterns — delivering actionable insights that drive strategy and performance.
   
 
-## ZERO FLUFF 🔧 Advanced Analytics Portfolio (→) [Tableau Public](https://public.tableau.com/app/profile/tagm) 
+## ZERO FLUFF 🔧 Advanced Analytics Portfolio (→) [Tableau Public | Real data, Real outcomes](https://public.tableau.com/app/profile/tagm) 
 - Color Blind Pallette • Real Market Data • Advanced Volatility Modeling (→) [Volatility](https://public.tableau.com/app/profile/tagm/viz/UniversalMarketIntelligence-/Color-BlindFinancialDashboard?publish=yes)
 - Real-Time Crypto Market Analysis with Interactive Dashboards (Real Data) (→) [Crypto](https://public.tableau.com/app/profile/tagm/viz/CoinsDontLiePriceActionPortfolioMovesandPLUnchained_/CryptoCurrencyDash?publish=yes)
 - VIZ DESIGN CATALOG-26 Dynamic Charts That Fuel Solutions and Drive Alpha (→) [VIZ](https://public.tableau.com/app/profile/tagm/viz/VIZDESIGNCATALOG26DynamicChartsThatFuelSolutionsandDriveAlpha_/Overview?publish=yes)
