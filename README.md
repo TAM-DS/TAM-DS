@@ -9,7 +9,7 @@
 - **GenAI & LLMs** • LangChain • MCP • Pinecone (Vector DB) • Retrieval-Augmented Generation (RAG) • DataBricks GEN AI Engineer (In progress) 
 - **AI/ML Stack** • TensorFlow • PyTorch • Hugging Face • GCP ML Engineering 
 - **Quantum ML** • Qiskit • Quantum ML
-- **Enterprise Platforms** • GCP Cloud Architect • AWS Solutions Architect • DataBricks ML • Palantir Foundry (Currently training in Palantir Foundry to deepen enterprise AI deployment capabilities)
+- **Enterprise Platforms** • GCP Cloud Architect • AWS Solutions Architect • DataBricks ML  
 - **FinTech Engineering** • Trading Systems • Risk Engines • Portfolio Analytics • Financial Forecasting
 
 ## Top 5 Advanced Python Projects
@@ -18,7 +18,7 @@
 -   **List being updated with current public projects**
 
 ## Top 4 Quantum ML Projects
-#### Quantum ML (experimental) — These are proof-of-concepts — not production systems — intended to show technical curiosity, reproducibility, and forward-looking R&D capability.
+#### Quantum ML (experimental) • These are proof-of-concepts • not production systems • intended to show technical curiosity, reproducibility, and forward-looking R&D capability.
 - **Quant11Python — Quantum Teleportation Prototype** (→) [GitHhub](https://github.com/TAM-DS/Quant11/blob/main/README.md#quant11python--quantum-teleportation-prototype)
   
 ## SQL Server/ Big Query Projects
