@@ -44,7 +44,7 @@
 - Tableau, SQL, Python, Advanced Analytics, Executive Dashboard Design
   
 
-## ZERO FLUFF (→) Advanced Analytics Portfolio (→) [Tableau Public](https://public.tableau.com/app/profile/tagm) 
+## ZERO FLUFF 🔧 Advanced Analytics Portfolio (→) [Tableau Public](https://public.tableau.com/app/profile/tagm) 
 - Color Blind Pallette • Real Market Data • Advanced Volatility Modeling (→) [Volatility](https://public.tableau.com/app/profile/tagm/viz/UniversalMarketIntelligence-/Color-BlindFinancialDashboard?publish=yes)
 - Real-Time Crypto Market Analysis with Interactive Dashboards (Real Data) (→) [Crypto](https://public.tableau.com/app/profile/tagm/viz/CoinsDontLiePriceActionPortfolioMovesandPLUnchained_/CryptoCurrencyDash?publish=yes)
 - VIZ DESIGN CATALOG-26 Dynamic Charts That Fuel Solutions and Drive Alpha (→) [VIZ](https://public.tableau.com/app/profile/tagm/viz/VIZDESIGNCATALOG26DynamicChartsThatFuelSolutionsandDriveAlpha_/Overview?publish=yes)
