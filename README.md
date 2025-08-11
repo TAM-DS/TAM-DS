@@ -16,6 +16,9 @@
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
   
 -   **List being updated with current public projects**
+
+## Top 4 Quantum ML Projects
+- Quantum ML (experimental) — This repo includes experimental Quantum ML prototypes that explore how quantum algorithms could augment classical ML for specific financial tasks (e.g., portfolio optimization, small-sample feature mapping). Implementations are simulation-first (Qiskit/PennyLane), featuring notebooks, architecture diagrams, and results. These are proof-of-concepts — not production systems — intended to show technical curiosity, reproducibility, and forward-looking R&D capability.
   
 ## SQL Server/ Big Query Projects
 - **Exploratory Data Analysis (EDA)** (→) [GitHub](https://) being updated
