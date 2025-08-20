@@ -1,8 +1,6 @@
 # Tracy Manning
 ## **Machine Learning Engineer | AI Systems Architect**
 
-              
-## **<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>**
 🚀 I build machine learning systems that scale—taking projects from raw data to deployed models in production.
 From classical ML pipelines to cutting-edge quantum experimentation, I design architectures that deliver measurable performance gains and real-world impact
 
