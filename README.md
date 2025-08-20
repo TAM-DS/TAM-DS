@@ -1,6 +1,8 @@
 # Tracy Manning
 ## **Machine Learning Engineer | AI Systems Architect**
 
+              
+## **<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>**
 🚀 I build machine learning systems that scale—taking projects from raw data to deployed models in production.
 From classical ML pipelines to cutting-edge quantum experimentation, I design architectures that deliver measurable performance gains and real-world impact
 
@@ -48,9 +50,9 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
 - VIZ DESIGN CATALOG-26 Dynamic Charts That Fuel Solutions and Drive Alpha (→) [VIZ](https://public.tableau.com/app/profile/tagm/viz/VIZDESIGNCATALOG26DynamicChartsThatFuelSolutionsandDriveAlpha_/Overview?publish=yes)
 ---
 
-<p align="left">
+<p align="left"> 
 <a href="https://www.linkedin.com/in/tracy-anne-griffin-manning/" target="blank"><img align="center" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="www.linkedin.com/in/tracy-anne-griffin-manning" /></a>
-</p>
+</p> <a <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="tracy-manning-aistrategyexec" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/tracy-manning-aistrategyexec?trk=profile-badge">Tracy Manning</a></div>
 
 # My favorite tools:
 
