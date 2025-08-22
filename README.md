@@ -6,7 +6,7 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
 
 ## Core Specialties
 - **ML Engineering:** End-to-End pipelines (data prep → model training → deployment)
-- **Cloud Infrastructure:** AWS & GCP, container orchestration, scalable compute
+- **Cloud Infrastructure:** GCP, container orchestration, scalable compute
 - **Data Engineering:** BigQuery, SQL Server, ETL/ELT pipelines
 - **Applied AI:** Generative AI, LangChain, vector search, AI agents
 - **Quantum ML (Experimental):** Prototype circuits & simulations for future-ready ML
@@ -36,7 +36,7 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
 - Strategic debt reduction: 23% gearing improvement while maintaining growth
 
 ### **Executive Outcome:** 
-- Transformed perceived "volatility concerns" into validated growth strategy, enabling continued strategic investments with board confidence
+- Transformed perceived "volatility concerns" into a validated growth strategy, enabling continued strategic investments with board confidence
 
 ### **Technologies:** 
 - Leveraged SQL Server for data extraction, Python for advanced analytics, and Tableau for intuitive visualization to decode complex financial patterns — delivering actionable insights that drive strategy and performance.
