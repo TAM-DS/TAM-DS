@@ -57,7 +57,9 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
 
 # Performance Markers
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tam-ds&theme=onedark)](https://github.com/tam-ds)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tam-ds&theme=onedark" alt="GitHub Trophies" />
+</div>
 
 <br>
 
