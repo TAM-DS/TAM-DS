@@ -43,10 +43,9 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
   
 
 ## ZERO FLUFF 🔧 Advanced Analytics Portfolio (→) [Tableau Public | Real data, Real outcomes](https://public.tableau.com/app/profile/tagm) 
+- The Data Center Revolution: Where Sustainability Meets Space Technology (→) [DataCenter](https://public.tableau.com/app/profile/tagm/viz/DataCenterRevolutionAISustainabilityScale2018-2025/Dashboard1?publish=yes)
 - Color Blind Pallette • Real Market Data • Advanced Volatility Modeling (→) [Volatility](https://public.tableau.com/app/profile/tagm/viz/UniversalMarketIntelligence-/Color-BlindFinancialDashboard?publish=yes)
 - Real-Time Crypto Market Analysis with Interactive Dashboards (Real Data) (→) [Crypto](https://public.tableau.com/app/profile/tagm/viz/CoinsDontLiePriceActionPortfolioMovesandPLUnchained_/CryptoCurrencyDash?publish=yes)
-- VIZ DESIGN CATALOG-26 Dynamic Charts That Fuel Solutions and Drive Alpha (→) [VIZ](https://public.tableau.com/app/profile/tagm/viz/VIZDESIGNCATALOG26DynamicChartsThatFuelSolutionsandDriveAlpha_/Overview?publish=yes)
----
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/tracy-anne-griffin-manning/" target="blank"><img align="center" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="www.linkedin.com/in/tracy-anne-griffin-manning" /></a>
