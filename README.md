@@ -12,36 +12,37 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
 - **Quantum ML (Experimental):** Prototype circuits & simulations for future-ready ML
 
 ## Featured Projects (in progress) 
--  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
-- **Quant11Python — Quantum Teleportation Prototype** (→) [GitHhub](https://github.com/TAM-DS/Quant11/blob/main/README.md#quant11python--quantum-teleportation-prototype)
+-  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) 🔗 [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
+- **Quant11Python — Quantum Teleportation Prototype** (→) 🔗 [GitHhub](https://github.com/TAM-DS/Quant11/blob/main/README.md#quant11python--quantum-teleportation-prototype)
    
 ## SQL Server/ Big Query Projects
-- **Exploratory Data Analysis (EDA)** (→) [GitHub](https://) being updated
-- **Data Warehouse** (→) [GitHub](https://) being updated  
+- **Exploratory Data Analysis (EDA)** (→) 🔗 [GitHub](https://) being updated
+- **Data Warehouse** (→) 🔗 [GitHub](https://) being updated  
  
 ## 🚀 Flagship Dashboards: From Financial Clarity to Future Infrastructure
 ### **I build dashboards that don’t just visualize data — they tell executive stories.**
 Here are two projects that showcase the full spectrum of my portfolio:
-### **Data Center Revolution: AI, Sustainability & Scale (2018–2025)** 🔗 [Data Center Revolution Dashboard – Tableau](https://public.tableau.com/app/profile/tagm/viz/DataCenterRevolutionAISustainabilityScale2018-2025/Dashboard1?publish=yes)
+### **Data Center Revolution: AI, Sustainability & Scale (2018–2025)** (→) 🔗 [Data Center Revolution Dashboard – Tableau](https://public.tableau.com/app/profile/tagm/viz/DataCenterRevolutionAISustainabilityScale2018-2025/Dashboard1?publish=yes)
 - Explored the explosive rise of AI infrastructure vs. sustainability solutions — 16x faster growth.
 - Visualized the Cooling Revolution (PUE dropping 3.0 → 1.2)
 - Cloud Computing Market 3.5x Gold Rush
+- Network Infrastructure in Tbps increases in both speed evolution and scale perspective.
 - And the emerging frontier of space-based data centers. Led by SpaceX, Thales Alenia Space, and CloudConstelation
 - Built a 7-slide interactive data story that reimagines the future of computing infrastructure.
 - Impact: Positioned complex metrics as a manifesto for humanity’s computational future.
   
 
-### **Decoding Financial Complexity: Multi-Dimensional Strategic Performance Analysis** 🔗 [Financial Complexity Dashboard – Tableau](https://public.tableau.com/app/profile/tagm/viz/DecodingFinancialComplexityAMulti-DimensionalAnalysisofStrategicPerformance/Overview?publish=yes)
+### **Decoding Financial Complexity: Multi-Dimensional Strategic Performance Analysis** (→)  🔗 [Financial Complexity Dashboard – Tableau](https://public.tableau.com/app/profile/tagm/viz/DecodingFinancialComplexityAMulti-DimensionalAnalysisofStrategicPerformance/Overview?publish=yes)
 - Identified $800K+ profit improvement & 23% debt reduction pathway through a 36-month analysis of operational metrics, cash flow, and balance sheets.
 - Delivered 33 analytical charts that reframed volatility as a growth strategy, enabling board-level confidence in continued investment.
-- Impact: Transformed raw financial turbulence into a validated growth narrative.
+- Impact: Transformed raw financial turbulence into a validated growth narrative that traditional surface metrics failed to capture.
   
 
 ### **Technologies:** 
 - Leveraged SQL Server for data extraction, Python Libraries for advanced analytics, and Tableau for intuitive visualization to decode complex financial patterns — delivering actionable insights that drive strategy and performance.
   
 
-## ZERO FLUFF 🔧 Advanced Analytics Portfolio (→) [Tableau Public | Real data, Real outcomes](https://public.tableau.com/app/profile/tagm) 
+## ZERO FLUFF 🔧 Advanced Analytics Portfolio (→) 🔗 [Tableau Public | Real data, Real outcomes](https://public.tableau.com/app/profile/tagm) 
 
 
 <p align="left"> 
