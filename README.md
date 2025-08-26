@@ -8,7 +8,7 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
 - **ML Engineering:** End-to-End pipelines (data prep → model training → deployment)
 - **Cloud Infrastructure:** Azure, AWS, GCP, container orchestration, scalable compute
 - **Data Engineering:** BigQuery, SQL Server, ETL/ELT pipelines
-- **Applied AI:** Generative AI, LangChain, vector search, AI agents
+- **Applied AI:** Generative AI, LangChain, Vector search, AI agents
 - **Quantum ML (Experimental):** Prototype circuits & simulations for future-ready ML
 
 ## Featured Projects (in progress) 
@@ -19,33 +19,30 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
 - **Exploratory Data Analysis (EDA)** (→) [GitHub](https://) being updated
 - **Data Warehouse** (→) [GitHub](https://) being updated  
  
-## 🏆 FLAGSHIP BUSINESS IMPACT:
-### **Decoding Financial Complexity: A Multi-Dimensional Analysis of Strategic Performance.** (→) [Tableau](https://public.tableau.com/app/profile/tagm/viz/DecodingFinancialComplexityAMulti-DimensionalAnalysisofStrategicPerformance/Overview?publish=yes)
+## 🚀 Flagship Dashboards: From Financial Clarity to Future Infrastructure
+### **I build dashboards that don’t just visualize data — they tell executive stories.**
+Here are two projects that showcase the full spectrum of my portfolio:
+### **Data Center Revolution: AI, Sustainability & Scale (2018–2025)** 🔗 [Data Center Revolution Dashboard – Tableau](https://public.tableau.com/app/profile/tagm/viz/DataCenterRevolutionAISustainabilityScale2018-2025/Dashboard1?publish=yes)
+- Explored the explosive rise of AI infrastructure vs. sustainability solutions — 16x faster growth.
+- Visualized the Cooling Revolution (PUE dropping 3.0 → 1.2)
+- Cloud Computing Market 3.5x Gold Rush
+- And the emerging frontier of space-based data centers. Led by SpaceX, Thales Alenia Space, and CloudConstelation
+- Built a 7-slide interactive data story that reimagines the future of computing infrastructure.
+- Impact: Positioned complex metrics as a manifesto for humanity’s computational future.
+  
 
-- **Business Impact:** Identified $800K+ profit improvement opportunity and 23% debt reduction pathway through comprehensive 3-year performance analysis
-
-- **Challenge:** Complex financial volatility patterns masking underlying business transformation - leadership needed clarity on whether performance indicated strength or weakness
-
-- **Solution:** Built a comprehensive Tableau dashboard analyzing operational metrics, cash flow dynamics, and balance sheet optimization across 36 months.
-- Developed an executive-level visualization framework revealing strategic transformation rather than operational issues, featuring 33 analytical charts and core financial statements
-
-
-### **Key Insights Delivered:**
-- PBIT growth trajectory: 104% increase ($0.78M → $1.59M) 
-- Operational efficiency breakthrough: Inventory turnover 32.4 → 194.1
-- Strategic debt reduction: 23% gearing improvement while maintaining growth
-
-### **Executive Outcome:** 
-- Transformed perceived "volatility concerns" into a validated growth strategy, enabling continued strategic investments with board confidence
+### **Decoding Financial Complexity: Multi-Dimensional Strategic Performance Analysis** 🔗 [Financial Complexity Dashboard – Tableau](https://public.tableau.com/app/profile/tagm/viz/DecodingFinancialComplexityAMulti-DimensionalAnalysisofStrategicPerformance/Overview?publish=yes)
+- Identified $800K+ profit improvement & 23% debt reduction pathway through a 36-month analysis of operational metrics, cash flow, and balance sheets.
+- Delivered 33 analytical charts that reframed volatility as a growth strategy, enabling board-level confidence in continued investment.
+- Impact: Transformed raw financial turbulence into a validated growth narrative.
+  
 
 ### **Technologies:** 
-- Leveraged SQL Server for data extraction, Python for advanced analytics, and Tableau for intuitive visualization to decode complex financial patterns — delivering actionable insights that drive strategy and performance.
+- Leveraged SQL Server for data extraction, Python Libraries for advanced analytics, and Tableau for intuitive visualization to decode complex financial patterns — delivering actionable insights that drive strategy and performance.
   
 
 ## ZERO FLUFF 🔧 Advanced Analytics Portfolio (→) [Tableau Public | Real data, Real outcomes](https://public.tableau.com/app/profile/tagm) 
-- The Data Center Revolution: Where Sustainability Meets Space Technology (→) [DataCenter](https://public.tableau.com/app/profile/tagm/viz/DataCenterRevolutionAISustainabilityScale2018-2025/Dashboard1?publish=yes)
-- Color Blind Pallette • Real Market Data • Advanced Volatility Modeling (→) [Volatility](https://public.tableau.com/app/profile/tagm/viz/UniversalMarketIntelligence-/Color-BlindFinancialDashboard?publish=yes)
-- Real-Time Crypto Market Analysis with Interactive Dashboards (Real Data) (→) [Crypto](https://public.tableau.com/app/profile/tagm/viz/CoinsDontLiePriceActionPortfolioMovesandPLUnchained_/CryptoCurrencyDash?publish=yes)
+
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/tracy-anne-griffin-manning/" target="blank"><img align="center" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="www.linkedin.com/in/tracy-anne-griffin-manning" /></a>
