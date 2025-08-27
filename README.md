@@ -22,7 +22,7 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
 ## 🚀 Flagship Dashboards: From Financial Clarity to Future Infrastructure
 ### **I build dashboards that don’t just visualize data — they tell executive stories.**
 Here are two projects that showcase the full spectrum of my portfolio:
-### **Data Center Revolution: AI, Sustainability & Scale (2018–2025)** (→) 🔗 [Data Center Revolution Dashboard – Tableau](https://public.tableau.com/app/profile/tagm/viz/DataCenterRevolutionAISustainabilityScale2018-2025/Dashboard1?publish=yes)
+### **Data Center Revolution: AI, Sustainability & Scale (2018–2025)** (→) 🔗 [Data Center Revolution Dashboard – Tableau](https://shorturl.at/Vp0Ce)
 - Explored the explosive rise of AI infrastructure vs. sustainability solutions — 16x faster growth.
 - Visualized the Cooling Revolution (PUE dropping 3.0 → 1.2)
 - Cloud Computing Market 3.5x Gold Rush
