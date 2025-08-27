@@ -39,7 +39,7 @@ Here are two projects that showcase the full spectrum of my portfolio:
   
 
 ### **Technologies:** 
-- Leveraged SQL Server for data extraction, Python Libraries for advanced analytics, and Tableau for intuitive visualization to decode complex financial patterns — delivering actionable insights that drive strategy and performance.
+- Leveraged SQL Server for data extraction, Python Libraries for advanced analytics, and Tableau for intuitive visualization to decode complex patterns — delivering actionable insights that drive strategy and performance.
   
 
 ## 🔧 Advanced Analytics Portfolio 
