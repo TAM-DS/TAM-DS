@@ -6,7 +6,7 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
 
 ## Core Specialties
 - **ML Engineering:** End-to-End pipelines (data prep → model training → deployment)
-- **Cloud Infrastructure:** Azure, AWS, GCP, container orchestration, scalable compute
+- **Cloud Infrastructure:** Azure, GCP, container orchestration, scalable compute
 - **Data Engineering:** BigQuery, SQL Server, ETL/ELT pipelines
 - **Applied AI:** Generative AI, LangChain, Vector search, AI agents
 - **Quantum ML (Experimental):** Prototype circuits & simulations for future-ready ML
@@ -21,7 +21,22 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
  
 ## 🚀 Flagship Dashboards: From Financial Clarity to Future Infrastructure
 ### **I build dashboards that don’t just visualize data — they tell executive stories.**
-Here are two projects that showcase the full spectrum of my portfolio:
+Here are three projects that showcase the full spectrum of my portfolio:
+### **Tesla's Path To Mars: Infrastructure Requirements 2024-2035** (→) 🔗 [Tesla's Path To Mars Dashboard – Tableau](http://bit.ly/4825FPA)
+- Data Sources: Tesla financial reports, SpaceX mission timelines, space communication specifications
+## 🔍 Key Insights
+- Communication Challenge: Earth's 0.001ms latency vs Mars' 4.28-minute delays require fully autonomous systems
+- Data Explosion: Operations must scale from 50TB daily to 1,500TB+ for Mars colonies
+- Investment Reality: Current $2.5B → Required $80B infrastructure investment
+- Technology Readiness: Must achieve Level 9 (fully operational) before 2029 launch window
+- The Valley of Death: 2028-2031 validation period when proven Earth tech needs Mars validation
+- Timeline Modeling: Optimus robot deployment phases (2024-2030)
+- Communication Complexity Analysis: Autonomous system dependency mapping
+- Financial Projections: Infrastructure investment scaling ($2.5B → $80B)
+- Risk Assessment: Mission criticality analysis
+## 💡 Strategic Implications
+This analysis reveals why Tesla's Earth infrastructure investments aren't just about terrestrial operations - they're building the foundation for humanity's multi-planetary future. Every autonomous system, every data processing capability, and every operational efficiency gain directly impacts the probability of Mars colony survival.
+
 ### **Data Center Revolution: AI, Sustainability & Scale (2018–2025)** (→) 🔗 [Data Center Revolution Dashboard – Tableau](https://shorturl.at/Vp0Ce)
 - Explored the explosive rise of AI infrastructure vs. sustainability solutions — 16x faster growth.
 - Visualized the Cooling Revolution (PUE dropping 3.0 → 1.2)
@@ -38,8 +53,10 @@ Here are two projects that showcase the full spectrum of my portfolio:
 - Impact: Transformed raw financial turbulence into a validated growth narrative that traditional surface metrics failed to capture.
   
 
-### **Technologies:** 
-- Leveraged SQL Server for data extraction, Python Libraries for advanced analytics, and Tableau for intuitive visualization to decode complex patterns — delivering actionable insights that drive strategy and performance.
+### **🛠️ Technical Stack** 
+- Python: Data processing, calculations, and analysis pipelines
+- SQL: Database queries and data transformation
+- Tableau: Interactive dashboard development and visualization
   
 
 ## 🔧 Advanced Analytics Portfolio 
