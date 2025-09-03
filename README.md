@@ -7,9 +7,13 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
 ## Core Specialties
 - **ML Engineering:** End-to-End pipelines (data prep → model training → deployment)
 - **Cloud Infrastructure:** Azure, GCP, container orchestration, scalable compute
-- **Data Engineering:** BigQuery, SQL Server, ETL/ELT pipelines
 - **Applied AI:** Generative AI, LangChain, Vector search, AI agents
 - **Quantum ML (Experimental):** Prototype circuits & simulations for future-ready ML
+
+## Database & Analytics Platforms
+
+**ANSI SQL Certified - Universal Database Compatibility**
+Comprehensive SQL expertise enabling seamless work across traditional databases (MySQL, PostgreSQL, SQLite, Oracle, SQL Server) and modern big data platforms (Spark SQL, Hive SQL, Snowflake, Google BigQuery, Azure Synapse).
 
 ## Featured Projects (in progress) 
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) 🔗 [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
