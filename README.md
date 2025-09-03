@@ -23,8 +23,9 @@ Comprehensive SQL expertise enabling seamless work across traditional databases 
 - **Exploratory Data Analysis (EDA)** (→) 🔗 [GitHub](https://) being updated
 - **Data Warehouse** (→) 🔗 [GitHub](https://) being updated  
  
-## 🚀 Flagship Dashboards: From Financial Clarity to Future Infrastructure
-### **I build dashboards that don’t just visualize data — they tell executive stories.**
+## 🚀 **Data to Decisions: Portfolio of Executive-Grade Intelligence**
+### Interactive dashboards that transform complex data into strategic advantage.
+
 Here are three projects that showcase the full spectrum of my portfolio:
 ### **Tesla's Path To Mars: Infrastructure Requirements 2024-2035** (→) 🔗 [Tesla's Path To Mars Dashboard – Tableau](http://bit.ly/4825FPA)
 - Data Sources: Self-compiled analysis sourcing Tesla financials, SpaceX mission data, and space communication specs through SQL, Python, and Tableau.
