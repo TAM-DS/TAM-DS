@@ -17,7 +17,7 @@ Comprehensive SQL expertise enabling seamless work across traditional databases 
 
 ## Featured Projects (in progress) 
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) 🔗 [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
-- **Quant11Python — Quantum Teleportation Prototype** (→) 🔗 [GitHhub](https://github.com/TAM-DS/Quant11/blob/main/README.md#quant11python--quantum-teleportation-prototype)
+- **Quant11Python — Quantum Teleportation Prototype** (→) 🔗 [Github](https://github.com/TAM-DS/Quant11/blob/main/README.md#quant11python--quantum-teleportation-prototype)
    
 ## SQL / Big Query Projects
 - **Exploratory Data Analysis (EDA)** (→) 🔗 [GitHub](https://) being updated
@@ -68,6 +68,11 @@ This analysis reveals why Tesla's Earth infrastructure investments aren't just a
 
 ## 🔧 Advanced Analytics Portfolio 
 (→) 🔗 [Tableau Public | Dashboards that Redefine What Data Can Do](https://public.tableau.com/app/profile/tagm) 
+
+## 🏅 Industry Certifications (Being Updated) 
+
+
+
 
 
 <p align="left"> 
