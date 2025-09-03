@@ -19,7 +19,7 @@ Comprehensive SQL expertise enabling seamless work across traditional databases 
 -  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) 🔗 [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
 - **Quant11Python — Quantum Teleportation Prototype** (→) 🔗 [GitHhub](https://github.com/TAM-DS/Quant11/blob/main/README.md#quant11python--quantum-teleportation-prototype)
    
-## SQL Server/ Big Query Projects
+## SQL / Big Query Projects
 - **Exploratory Data Analysis (EDA)** (→) 🔗 [GitHub](https://) being updated
 - **Data Warehouse** (→) 🔗 [GitHub](https://) being updated  
  
