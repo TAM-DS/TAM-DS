@@ -23,7 +23,7 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
 ### **I build dashboards that don’t just visualize data — they tell executive stories.**
 Here are three projects that showcase the full spectrum of my portfolio:
 ### **Tesla's Path To Mars: Infrastructure Requirements 2024-2035** (→) 🔗 [Tesla's Path To Mars Dashboard – Tableau](http://bit.ly/4825FPA)
-- Data Sources: Tesla financial reports, SpaceX mission timelines, space communication specifications
+- Data Sources: Self-compiled analysis sourcing Tesla financials, SpaceX mission data, and space communication specs through SQL, Python, and Tableau.
 ## 🔍 Key Insights
 - Communication Challenge: Earth's 0.001ms latency vs Mars' 4.28-minute delays require fully autonomous systems
 - Data Explosion: Operations must scale from 50TB daily to 1,500TB+ for Mars colonies
@@ -34,10 +34,11 @@ Here are three projects that showcase the full spectrum of my portfolio:
 - Communication Complexity Analysis: Autonomous system dependency mapping
 - Financial Projections: Infrastructure investment scaling ($2.5B → $80B)
 - Risk Assessment: Mission criticality analysis
-## 💡 Strategic Implications
+### 💡 Strategic Implications
 This analysis reveals why Tesla's Earth infrastructure investments aren't just about terrestrial operations - they're building the foundation for humanity's multi-planetary future. Every autonomous system, every data processing capability, and every operational efficiency gain directly impacts the probability of Mars colony survival.
 
 ### **Data Center Revolution: AI, Sustainability & Scale (2018–2025)** (→) 🔗 [Data Center Revolution Dashboard – Tableau](https://shorturl.at/Vp0Ce)
+## 🔍 Key Insights
 - Explored the explosive rise of AI infrastructure vs. sustainability solutions — 16x faster growth.
 - Visualized the Cooling Revolution (PUE dropping 3.0 → 1.2)
 - Cloud Computing Market 3.5x Gold Rush
@@ -48,6 +49,7 @@ This analysis reveals why Tesla's Earth infrastructure investments aren't just a
   
 
 ### **Decoding Financial Complexity: Multi-Dimensional Strategic Performance Analysis** (→)  🔗 [Financial Complexity Dashboard – Tableau](https://public.tableau.com/app/profile/tagm/viz/DecodingFinancialComplexityAMulti-DimensionalAnalysisofStrategicPerformance/Overview?publish=yes)
+## 🔍 Key Insights
 - Identified $800K+ profit improvement & 23% debt reduction pathway through a 36-month analysis of operational metrics, cash flow, and balance sheets.
 - Delivered 33 analytical charts that reframed volatility as a growth strategy, enabling board-level confidence in continued investment.
 - Impact: Transformed raw financial turbulence into a validated growth narrative that traditional surface metrics failed to capture.
