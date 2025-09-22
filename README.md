@@ -6,7 +6,7 @@ From classical ML pipelines to cutting-edge quantum experimentation, I design ar
 
 ## Core Specialties
 - **ML Engineering:** End-to-End pipelines (data prep → model training → deployment)
-- **Cloud Infrastructure:** Azure, GCP, container orchestration, scalable compute
+- **Cloud Infrastructure:** Oracle, AWS, Azure, & GCP
 - **Applied AI:** Generative AI, LangChain, Vector search, AI agents
 - **Quantum ML (Experimental):** Prototype circuits & simulations for future-ready ML
 
