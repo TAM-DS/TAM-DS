@@ -131,9 +131,6 @@ This analysis reveals why Tesla's Earth infrastructure investments aren't just a
 
 *Building production MLOps infrastructure. Based in Austin, Texas.*
 
-<p align="left"> 
-<a href="https://www.linkedin.com/in/tracy-manning-ai-ml/" target="blank"><img align="center" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="www.linkedin.com/in/tracy-manning-ai-ml" /></a>
-</p> <a <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="tracy-manning-aistrategyexec" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/tracy-manning-ai-ml?trk=profile-badge">
 
 ## Technologies
 
