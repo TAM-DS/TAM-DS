@@ -1,32 +1,60 @@
 # Tracy Manning
-## **Machine Learning Engineer | AI Systems Architect**
+## Production MLOps Engineer | Linux-Native ML Infrastructure
 
-🚀 I build machine learning systems that scale—taking projects from raw data to deployed models in production.
-From classical ML pipelines to cutting-edge quantum experimentation, I design architectures that deliver measurable performance gains and real-world impact
+🦖 I build ML systems that deploy reliably, scale efficiently, and run cost-effectively in production.
 
-## Core Specialties
-- **ML Engineering:** End-to-End pipelines (data prep → model training → deployment)
-- **Cloud Infrastructure:** Oracle, AWS, Azure, & GCP
-- **Applied AI:** Generative AI, LangChain, Vector search, AI agents
-- **Quantum ML (Experimental):** Prototype circuits & simulations for future-ready ML
+From RAG pipelines to petabyte-scale data workflows, I architect systems that ship—not just train.
 
-## Database & Analytics Platforms
+## Core Expertise
 
-**ANSI SQL Certified - Universal Database Compatibility**
-Comprehensive SQL expertise enabling seamless work across traditional databases (MySQL, PostgreSQL, SQLite, Oracle, SQL Server) and modern big data platforms (Spark SQL, Hive SQL, Snowflake, Google BigQuery, Azure Synapse).
+**MLOps & Production Systems**
+- Production RAG deployment with vector databases
+- Databricks ML workflows at scale
+- Model serving infrastructure (real-time & batch)
+- CI/CD for ML systems on Linux
+- Monitoring, observability, and reliability engineering
 
-## Featured Projects (in progress) 
--  **Python Trading Algo** — A working trading algorithm using simple signal logic (→) 🔗 [Github](https://github.com/TAM-DS/PythonTradingAlgo24)
-- **Quant11Python — Quantum Teleportation Prototype** (→) 🔗 [Github](https://github.com/TAM-DS/Quant11/blob/main/README.md#quant11python--quantum-teleportation-prototype)
-   
-## SQL / Big Query Projects
-- **Exploratory Data Analysis (EDA)** (→) 🔗 [GitHub](https://) being updated
-- **Data Warehouse** (→) 🔗 [GitHub](https://) being updated  
- 
+**Multi-Cloud Infrastructure**
+- AWS Solutions Architect Professional | Advanced Networking
+- GCP Professional Cloud Architect
+- Azure AI Engineer Associate
+- Infrastructure as Code (Terraform, Kubernetes, Docker)
+- Cost optimization and resource management
+
+**Data Engineering**
+- Petabyte-scale pipelines with medallion architecture (bronze → silver → gold)
+- Real-time streaming (Spark, Kafka)
+- Vector databases for production RAG (QDrant, Weaviate, Milvus)
+- ANSI SQL across all major platforms
+
+**ML Frameworks & Tools**
+- PyTorch, TensorFlow, Spark ML
+- LangChain, LlamaIndex for RAG systems
+- MLflow, Weights & Biases for experiment tracking
+- Airflow, Prefect for orchestration
+
+## Featured Work
+
+### 🌎 [Texas Energy Data Pulse](https://github.com/TAM-DS/Texas-Energy-Data-Pulse)
+**20-dashboard series analyzing Texas AI infrastructure and energy systems**
+
+Data-driven exploration of how power becomes intelligence—from the Texas grid to orbital compute. Each dashboard visualizes a different dimension: megawatts to teraflops, on-prem to orbit, human oversight to autonomous systems.
+
+**Highlights:**
+- TX-1 Orbital Prototype: Compute leaving Earth's surface
+- Vector database performance analysis at scale
+- Agentic AI system architecture patterns
+
+### 💹 [Python Trading Algorithm](https://github.com/TAM-DS/PythonTradingAlgo24)
+Signal-based trading system with backtesting framework
+
+### ⚛️ [Quant11Python - Quantum Teleportation Prototype](https://github.com/TAM-DS/Quant11)
+Experimental quantum ML circuits exploring future-ready architectures
+
 ## 🚀 **Data to Decisions: Portfolio of Executive-Grade Intelligence**
 ### Interactive dashboards that transform complex data into strategic advantage.
 
-Here are three projects that showcase the full spectrum of my portfolio:
+Here are three additional data projects that showcase the full spectrum of my portfolio:
 
 > ### **Tesla's Path To Mars: Infrastructure Requirements 2024-2035** (→) 🔗 [Tesla's Path To Mars Dashboard – Tableau](http://bit.ly/4825FPA)
 #### 🔌📊 Data Sources: Self-compiled analysis sourcing Tesla financials, SpaceX mission data, and space communication specs through SQL, Python, and Tableau.
@@ -97,8 +125,11 @@ This analysis reveals why Tesla's Earth infrastructure investments aren't just a
 ## 🏅 Industry Certifications (Being Updated) 
 
 
+## Connect
 
+🌐 [Portfolio](https://TAM-DS.github.io) | 💼 [LinkedIn](https://linkedin.com/in/tracy-manning-full-stack-ai) | 🐦 [X/Twitter](https://twitter.com/TAGM2025)
 
+*Building production MLOps infrastructure. Based in Austin, Texas.*
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/tracy-manning-ai-ml/" target="blank"><img align="center" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="www.linkedin.com/in/tracy-manning-ai-ml" /></a>
