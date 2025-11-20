@@ -1,5 +1,5 @@
 # Tracy Manning
-## Production MLOps Engineer | Linux-Native ML Infrastructure
+## Founder @Apex ML | Production MLOps Engineer | Linux-Native ML Infrastructure
 
 🦖 I build ML systems that deploy reliably, scale efficiently, and run cost-effectively in production.
 
@@ -38,12 +38,17 @@ From RAG pipelines to petabyte-scale data workflows, I architect systems that sh
 ### 🌎 [Texas Energy Data Pulse](https://github.com/TAM-DS/Texas-Energy-Data-Pulse)
 **20-dashboard series analyzing Texas AI infrastructure and energy systems**
 
-Data-driven exploration of how power becomes intelligence—from the Texas grid to orbital compute. Each dashboard visualizes a different dimension: megawatts to teraflops, on-prem to orbit, human oversight to autonomous systems.
+Data-driven exploration of how power becomes intelligence—from the Texas grid to orbital compute. Each dataset is self-compiled. Each dashboard visualizes a different dimension: megawatts to teraflops, on-prem to orbit, human oversight to autonomous systems.
+This combination is creating the perfect storm for next-generation compute infrastructure.
 
-**Highlights:**
-- TX-1 Orbital Prototype: Compute leaving Earth's surface
-- Vector database performance analysis at scale
-- Agentic AI system architecture patterns
+##**Texas is on pace to become:**
+- **#1 AI datacenter state by total energy footprint**  
+- **#1 grid-powered compute ecosystem in North America**  
+- **The fastest-growing AI-hardware deployment region outside Silicon Valley**
+
+> ### Texas isn’t just hosting data centers.  
+> ### Texas is building the *infrastructure layer for Earth-to-orbit computation*.
+
 
 ### 💹 [Python Trading Algorithm](https://github.com/TAM-DS/PythonTradingAlgo24)
 Signal-based trading system with backtesting framework
@@ -51,86 +56,24 @@ Signal-based trading system with backtesting framework
 ### ⚛️ [Quant11Python - Quantum Teleportation Prototype](https://github.com/TAM-DS/Quant11)
 Experimental quantum ML circuits exploring future-ready architectures
 
-## 🚀 **Data to Decisions: Portfolio of Executive-Grade Intelligence**
-### Interactive dashboards that transform complex data into strategic advantage.
 
-Here are three additional data projects that showcase the full spectrum of my portfolio:
-
-> ### **Tesla's Path To Mars: Infrastructure Requirements 2024-2035** (→) 🔗 [Tesla's Path To Mars Dashboard – Tableau](http://bit.ly/4825FPA)
-#### 🔌📊 Data Sources: Self-compiled analysis sourcing Tesla financials, SpaceX mission data, and space communication specs through SQL, Python, and Tableau.
-## 🔍 Key Insights
-- Communication Challenge: Earth's 0.001ms latency vs Mars' 4.28-minute delays require fully autonomous systems
-- Data Explosion: Operations must scale from 50TB daily to 1,500TB+ for Mars colonies
-- Investment Reality: Current $2.5B → Required $80B infrastructure investment
-- Technology Readiness: Must achieve Level 9 (fully operational) before 2029 launch window
-- The Valley of Death: 2028-2031 validation period when proven Earth tech needs Mars validation
-- Timeline Modeling: Optimus robot deployment phases (2024-2030)
-- Communication Complexity Analysis: Autonomous system dependency mapping
-- Financial Projections: Infrastructure investment scaling ($2.5B → $80B)
-- Risk Assessment: Mission criticality analysis
-### 💡 Impact
-This analysis reveals why Tesla's Earth infrastructure investments aren't just about terrestrial operations - they're building the foundation for humanity's multi-planetary future. Every autonomous system, every data processing capability, and every operational efficiency gain directly impacts the probability of Mars colony survival.
+#### 🔧 Advanced Analytics Portfolio (→) 🔗 [Tableau Public | Dashboards that Redefine What Data Can Do](https://public.tableau.com/app/profile/tagm) 
 
 
-> ### **Data Center Revolution: AI, Sustainability & Scale (2018–2025)** (→) 🔗 [Data Center Revolution Dashboard – Tableau](https://shorturl.at/Vp0Ce)
-#### 🔌📊 Data Source: Self-compiled dataset to change how people think about AI efficiency.
-## 🔍 Key Insights
-- Explored the explosive rise of AI infrastructure vs. sustainability solutions — 16x faster growth.
-- Visualized the Cooling Revolution (PUE dropping 3.0 → 1.2)
-- Cloud Computing Market 3.5x Gold Rush
-- Network Infrastructure in Tbps increases in both speed evolution and scale perspective.
-- And the emerging frontier of space-based data centers. Led by SpaceX, Thales Alenia Space, and CloudConstelation
-### 💡 Impact
-- Built a 7-slide interactive data story that reimagines the future of computing infrastructure.
-- Positioned complex metrics as a manifesto for humanity’s computational future.
-  
-
-
-> ### **Texas AI Infrastructure Analysis: Smart Contract Automation Opportunity** (→) 🔗 [Smart Contract Automation Opportunity Dashboard - Tableau](https://tinyurl.com/5n8watty)
-#### 🔌📊 Data Source: Self-compiled dataset proving smart contract automation delivers 4,000%+ ROI, 99.7% faster settlements, and measurable ESG impact.
-  ## 🔍 Key Insights
-- Settlement Speed Reduction: 78 days → 47 minutes (99.7% improvement)
-- Average ROI: 4,000%+ across all analyzed companies
-- Cost Savings: $400-1,900 per transaction through automation
-- Environmental Impact: Correlation analysis between renewable energy adoption and operational efficiency
-  ## Companies Included
-- Google Cloud Texas
-- Microsoft Azure Houston
-- Meta AI Infrastructure
-- Tesla Gigafactory Texas
-- NVIDIA DGX Centers
-- Amazon AWS Dallas
-- Stream Data Centers Houston
-- Serverfarm Houston
-- Apple Manufacturing Houston
-- Oracle Cloud Austin
-### 💡 Impact
-- Operational Imperative: 4,000%+ ROI demonstrates automation is no longer optional
-- Competitive Advantage: 99.7% settlement speed improvement enables new service models
-- ESG Compliance: Carbon efficiency gains support sustainability initiatives
-- Risk Mitigation: Automated processes reduce human error and operational exposure
-  
-
-> ## 🛠️ Technical Stack
+ ## 🛠️ Technical Stack
 - Python (Pandas, Numpy): Data processing, calculations, and analysis pipelines
 - TensorFlow & PyTorch: Predictive modeling
 - SQL (ANSI Certified): Database queries and data transformation
 - Apache Spark: Distributed processing
 - Tableau: Interactive dashboard development and visualization
   
-
-## 🔧 Advanced Analytics Portfolio 
-(→) 🔗 [Tableau Public | Dashboards that Redefine What Data Can Do](https://public.tableau.com/app/profile/tagm) 
-
 ## 🏅 Industry Certifications (Being Updated) 
-
 
 ## Connect
 
 🌐 [Portfolio](https://TAM-DS.github.io) | 💼 [LinkedIn](https://linkedin.com/in/tracy-manning-full-stack-ai) | 🐦 [X/Twitter](https://twitter.com/TAGM2025)
 
 *Building production MLOps infrastructure. Based in Austin, Texas.*
-
 
 ## Technologies
 
