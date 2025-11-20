@@ -1,9 +1,10 @@
 # Tracy Manning
-## Founder @Apex ML | Production MLOps on Linux | I Build Systems That Work at 2am | RAG • Databricks • AWS • GCP • Azure | Austin, TX 
+## Production MLOps Engineer | Linux-Native ML Infrastructure | Austin, TX
+I architect production ML systems that deploy reliably, scale efficiently, and run cost-effectively on Linux.
+Your models work in notebooks. I make them work at enterprise scale—where latency, cost, and uptime actually matter.
+RAG Pipelines • Databricks • Multi-Cloud (AWS | GCP | Azure) • Kubernetes • Terraform
+> ## I love to work. Give me a production deployment challenge at 6pm on Friday, and I'm excited, not annoyed. I build systems that solve real problems—the kind that let your team sleep through the night instead of fighting fires at 2am.
 
-🦖 I build ML systems that deploy reliably, scale efficiently, and run cost-effectively in production.
-
-From RAG pipelines to petabyte-scale data workflows, I architect systems that ship—not just train.
 
 ## Core Expertise
 
