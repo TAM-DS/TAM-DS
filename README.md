@@ -37,7 +37,7 @@ RAG Pipelines • Databricks • Multi-Cloud (AWS | GCP | Azure) • Kubernetes 
 ## Featured Work
 
 ### 🛰️[2030- Threat-Model](https://github.com/TAM-DS/2030-Threat-Model)
-> #### In 2030 your data center will be 550 km above Earth.
+> #### In 2030, your data center will be 550 km above Earth.
 > #### You can’t send a technician.
 > #### You can’t wait 4.7 seconds for a human decision.
 > #### Here’s exactly how attackers win — and how we design systems that survive without us.
