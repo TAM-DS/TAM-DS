@@ -36,6 +36,14 @@ RAG Pipelines • Databricks • Multi-Cloud (AWS | GCP | Azure) • Kubernetes 
 
 ## Featured Work
 
+### 🛰️
+> #### In 2030 your data center will be 550 km above Earth.
+> #### You can’t send a technician.
+> #### You can’t wait 4.7 seconds for a human decision.
+> #### Here’s exactly how attackers win — and how we design systems that survive without us.
+
+
+
 ### 🌎 [Texas Energy Data Pulse](https://github.com/TAM-DS/Texas-Energy-Data-Pulse)
 **20-dashboard series analyzing Texas AI infrastructure and energy systems**
 
