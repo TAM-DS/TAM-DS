@@ -3,7 +3,7 @@
 I architect production ML systems that deploy reliably, scale efficiently, and run cost-effectively on Linux.
 Your models work in notebooks. I make them work at enterprise scale—where latency, cost, and uptime actually matter.
 RAG Pipelines • Databricks • Multi-Cloud (AWS | GCP | Azure) • Kubernetes • Terraform
-> ### I love to work. Give me a production deployment challenge at 6pm on Friday, and I'm excited, not annoyed. I build systems that solve real problems—the kind that let your team sleep through the night instead of fighting fires at 2am.
+> ### While many dread late-night crises, I thrive on them—hand me a production deployment challenge at 6pm on a Friday, and I'll dive in with excitement, turning potential disasters into robust solutions. As both a passionate leader who inspires teams and a dedicated > team player who rolls up my sleeves alongside them, I build reliable systems that solve real-world problems, ensuring everyone sleeps soundly without 2am fire drills.
 
 
 ## Core Expertise
