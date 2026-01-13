@@ -1,37 +1,64 @@
 # Tracy Manning
+Staff-Level AI Systems Engineer
+Production MLOps • Multi-Cloud Infrastructure • Agentic AI • Austin, TX
 
-**Building Production Agentic AI Systems** | Multi-Cloud MLOps Engineer  
-**RAG/Vector DBs • Networking Security • Linux-Native Infrastructure** | Python • ANSI SQL | Austin, TX
+I design and operate production AI systems — the kind that keep working when assumptions fail, costs spike, or something breaks at 2am.
 
-While others dread Friday evening production fires, I live for them—hand me a deployment challenge at 6pm, and I'll dive in with excitement, turning chaos into rock-solid systems that let teams sleep soundly.
+My work sits at the intersection of machine learning, infrastructure, and systems design: deploying agentic AI, building cloud-agnostic platforms, and turning fragile prototypes into systems teams can trust in production.
 
-As both a passionate leader who inspires teams and a hands-on contributor who rolls up sleeves in the trenches, I ship reliable, scalable infrastructure that solves real problems at enterprise and frontier scale.
+> I focus on how systems behave after launch — not just how they look on a diagram. I care as much about how decisions land as whether they’re technically correct.
 
-> Harvard alum | Petabyte-scale data architect | Autonomous systems builder
+# What I Build
+> ### When Python becomes the bottleneck, I drop down to C++ and CUDA to meet latency, throughput, or cost constraints.
 
-## Core Expertise
 
-**Production MLOps & Agentic AI**
-- Production-grade RAG & agentic systems with vector databases (Qdrant, Weaviate, Milvus)
-- Model serving, inference optimization, and real-time/batch pipelines
-- Linux-native ML infrastructure — because production runs on kernels, not notebooks
-- CI/CD, observability, and self-healing systems
+**Production AI & MLOps**
 
-**Multi-Cloud Architecture & Security**
-- AWS Solutions Architect Professional + Advanced Networking + Security Specialty
-- GCP Professional Cloud Architect
-- Azure AI Engineer Associate
-- Hardened IaC with Terraform, Kubernetes, Docker
+- Agentic AI and RAG systems designed for reliability, observability, and security
+
+- Retrieval and vector database layers built to fail safely
+
+- Model serving, inference optimization, and real-time pipelines
+
+- Linux-native ML infrastructure (production runs on kernels, not notebooks)
+
+**AI Platform & Infrastructure**
+
+- Multi-cloud architectures across AWS, GCP, and Databricks
+
+- Kubernetes-first platforms with Terraform-based IaC
+
+- Secure networking, identity, and isolation for AI workloads
+
+- Systems designed to scale without vendor lock-in
 
 **Data Engineering at Scale**
-- Petabyte-scale medallion pipelines (bronze → silver → gold) built from scratch
-- Real-time streaming (Spark, Kafka)
-- Cost-optimized, high-throughput data lakes and warehouses
 
-**ML & Orchestration Tools**
-- PyTorch • TensorFlow • Spark ML
-- LangChain • LlamaIndex • MLflow • Weights & Biases
-- Airflow • Prefect • Databricks ML workflows
+- Petabyte-scale data pipelines (Bronze → Silver → Gold)
+
+- Streaming and batch systems optimized for cost and throughput
+
+- Architectures that reduce spend by design, not after the bill arrives
+
+## Platforms & Credentials
+
+- AWS Solutions Architect – Professional (SAP)
+
+- Google Cloud Professional Machine Learning Engineer
+
+- Databricks Machine Learning Professional
+
+## Tools (When They’re the Right Tool)
+- Python • SQL • PyTorch  
+- C++ • CUDA (performance-critical paths)  
+- Kubernetes • Terraform • Docker  
+- AWS • GCP • Databricks  
+- Linux (kernel → networking → performance)
+
+
+## Harvard alum.
+- Builder of systems that must work in production. 
+
 
 ## Featured Projects
 
