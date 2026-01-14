@@ -63,7 +63,7 @@ My work sits at the intersection of machine learning, infrastructure, and system
 ## Featured Projects
 
 ### 🧩 [System-Design](https://github.com/TAM-DS/System-Design-)
-
+A collection of eight production-grade system designs covering MLOps, data engineering, AI security, orbital autonomy, infrastructure architecture, and database architecture. Built to teach how systems behave in production, not just at design time.
 
 
 ### 🛰️ [2030 Threat Model](https://tinyurl.com/5n8k25sr)  
