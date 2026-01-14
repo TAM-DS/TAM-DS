@@ -62,14 +62,15 @@ My work sits at the intersection of machine learning, infrastructure, and system
 
 ## Featured Projects
 
+### 🧩 [System-Design](https://github.com/TAM-DS/System-Design-)
+
+
+
 ### 🛰️ [2030 Threat Model](https://tinyurl.com/5n8k25sr)  
 In 2030 your data center orbits 550km above Earth. No technicians. No human latency. Here’s exactly how attackers win—and how we build systems that survive autonomously.
 
 ### 🌎 [Texas Energy Data Pulse](https://github.com/TAM-DS/Texas-Energy-Data-Pulse)  
 20-dashboard series exploring Texas as the emerging capital of AI infrastructure: grid power → megawatts → teraflops → orbital compute.
-
-### 💹 [Python Trading Algorithm](https://github.com/TAM-DS/PythonTradingAlgo24)  
-Signal-based trading system with full backtesting framework.
 
 ### ⚛️ [Quant11 – Quantum Teleportation Prototype](https://github.com/TAM-DS/Quant11)  
 Experimental quantum circuits in Qiskit exploring future-secure and future-ready architectures.
