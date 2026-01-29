@@ -79,27 +79,46 @@ Tableau dashboards that push the boundaries of data storytelling.
 
 ## Technical Stack
 
-**Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+**Cloud & Native FinOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  
+![AWS Cost Explorer](https://img.shields.io/badge/AWS%20Cost%20Explorer-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Google Cloud Billing](https://img.shields.io/badge/Google%20Cloud%20Billing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Azure Cost Management](https://img.shields.io/badge/Azure%20Cost%20Management-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Languages & Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
 
-**ML Frameworks**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**ML Frameworks & MLOps**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 **Infra & DevOps**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![OpenCost](https://img.shields.io/badge/OpenCost-FF6B00?style=for-the-badge&logo=opencost&logoColor=white) 
+![Kubecost](https://img.shields.io/badge/Kubecost-FF6B00?style=for-the-badge&logo=kubecost&logoColor=white) 
+
+**FinOps & Cost Optimization** (2026 essentials for AI/ML-heavy workloads)  
+![CloudZero](https://img.shields.io/badge/CloudZero-00A3E0?style=for-the-badge&logo=cloudzero&logoColor=white)  
+![Finout](https://img.shields.io/badge/Finout-FF6B00?style=for-the-badge&logo=finout&logoColor=white)  
+![Vantage](https://img.shields.io/badge/Vantage-00A3E0?style=for-the-badge&logo=vantage&logoColor=white)  
+![Cloudchipr](https://img.shields.io/badge/Cloudchipr-00A3E0?style=for-the-badge&logo=cloudchipr&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) 
+
+**Observability & Monitoring** (critical for tying cost to performance in production FinOps)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)  
+
 
 ## Connect
 
