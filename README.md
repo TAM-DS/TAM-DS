@@ -32,7 +32,10 @@ My focus: turning AI ambition into sustainable, production reality. I design mul
 Pushing the edges to stay ahead of the curve:
 
 - **QuantConnect-Powered Quant Pipelines** — Building production-ready algorithmic trading workflows on QuantConnect: backtesting multicloud cost-optimized strategies, integrating real-time data pipelines, SQL-driven feature engineering, and MLOps for live deployment. Focus: FinOps-aware quant systems that scale profitably without exploding compute spend.
-- **Quantum-Enhanced Optimization Experiments** — Prototyping quantum-inspired algorithms (e.g., for portfolio optimization, anomaly detection in FinOps, or multicloud resource allocation) using classical simulators and QuantConnect baselines. Exploring how quantum advantages could supercharge cost governance and agentic decision-making in AI infra by 2030+.
+- **Quantum-Enhanced Optimization Experiments** — Prototyping quantum-inspired algorithms (e.g., for portfolio optimization, anomaly detection in FinOps, or multicloud resource allocation) using classical simulators and QuantConnect baselines. Exploring how quantum advantages could supercharge cost governance and agentic decision-making in AI infra by 2030+. Starting point: Quantum teleportation demo as secure comms foundation → https://github.com/TAM-DS/Quant11
+- **Orbital AI Security & Infrastructure Analysis** — Comprehensive framework modeling the shift to space-based AI: physics/economics of orbital compute (free cooling, solar 8× efficiency, tipping point at <$50/kg launch), terrestrial-to-orbital threat propagation (RAG vuln 0.79 in retrieval layer), control strain under latency (human-in-loop fails at 0.91 strain via 100k Monte Carlo sims), and value inversion (autonomous control = 92% capture). Predicting 25-40% exascale AI training in orbit by 2034-2037. Core insight: Continuity guaranteed by autonomy owns the orbital economy. Full series → https://github.com/TAM-DS/Orbital-AI-Security-Analysis-Series
+
+These aren't isolated hobbies—they're interconnected bets on where multicloud FinOps, agentic MLOps, and cost engineering head next: from Earth-bound optimization to quantum-assisted edges to physics-enforced orbital dominance.
 
 # Core Principles I Bring to Every System
 - **FinOps maturity from day zero** — visibility, allocation, optimization, and continuous forecasting embedded in design
