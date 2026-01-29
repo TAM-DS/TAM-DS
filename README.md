@@ -9,7 +9,7 @@ My focus: turning AI ambition into sustainable, production reality. I design mul
 > "Build systems that must work — then make them cost less than anyone expects. Iterate relentlessly. Measure everything. Optimize for the long game."
 
 > **Quick 2025 context**  
-Early-year contributions were lighter (Jan–Apr) while I provided full-time home hospice care for my mom during her battle with brain cancer. Family came first—it was my choice and exactly where I needed to be. That chapter sharpened my focus under extreme pressure and reinforced why I build systems that must survive chaos. Grateful to be back shipping at full strength: quantum FinOps prototypes, QuantConnect cost-aware quant pipelines, orbital AI security analysis, and multicloud agentic infra.
+Early-year contributions were lighter (Jan–Jul) while I provided full-time home hospice care for my mom during her battle with brain cancer. Family came first—it was my choice and exactly where I needed to be. That chapter sharpened my focus under extreme pressure and reinforced why I build systems that must survive chaos. Grateful to be back shipping at full strength: quantum FinOps prototypes, QuantConnect cost-aware quant pipelines, orbital AI security analysis, and multicloud agentic infra.
 
 # What I Build & Deliver
 
