@@ -1,64 +1,54 @@
 # Tracy Manning
-Staff-Level AI Systems Engineer
-Production MLOps • Multi-Cloud Infrastructure • Agentic AI • Austin, TX
+**Senior/Staff-Level FinOps & Multicloud AI Systems Architect**  
+Production MLOps • Multicloud Infrastructure • AI-Native Cost Optimization • Austin, TX
 
-I design and operate production AI systems — the kind that keep working when assumptions fail, costs spike, or something breaks at 2am.
+I architect and deliver production-grade AI systems that are reliable, observable, and ruthlessly cost-efficient — the kind that keep delivering value at 3 a.m. when models scale unexpectedly, cloud bills spike, or multicloud complexity threatens to derail everything.
 
-My work sits at the intersection of machine learning, infrastructure, and systems design: deploying agentic AI, building cloud-agnostic platforms, and turning fragile prototypes into systems teams can trust in production.
+My focus: turning AI ambition into sustainable, production reality. I design multicloud architectures where FinOps is baked in from day one — not bolted on later — ensuring teams get maximum business value without runaway spend. I care deeply about how systems behave in the real world: predictable costs, automated governance, intelligent optimization, and decisions that align technical excellence with financial accountability.
 
-> I focus on how systems behave after launch — not just how they look on a diagram. I care as much about how decisions land as whether they’re technically correct.
+> "Build systems that must work — then make them cost less than anyone expects. Iterate relentlessly. Measure everything. Optimize for the long game."
 
-# What I Build
-> ### When Python becomes the bottleneck, I drop down to C++ and CUDA to meet latency, throughput, or cost constraints.
+# What I Build & Deliver
 
+**FinOps-Driven Multicloud AI Architecture**
 
-**Production AI & MLOps**
+- End-to-end multicloud platforms (AWS, GCP, Azure, Databricks) designed for AI workloads with native cost governance, tagging strategies, and automated commitments/reservations
+- AI-powered FinOps systems: predictive cost modeling, anomaly detection, real-time optimization, and unit economics that reveal true spend per model, pipeline, or team
+- Cloud-agnostic architectures that eliminate vendor lock-in while maximizing discounts, spot/preemptible usage, and cross-cloud rightsizing for GPU-heavy AI inference/training
 
-- Agentic AI and RAG systems designed for reliability, observability, and security
+**Production MLOps & Agentic AI Delivery**
 
-- Retrieval and vector database layers built to fail safely
+- Reliable agentic AI and RAG pipelines deployed at scale: secure, observable, auto-remediating, with built-in cost controls
+- Model serving, inference optimization, and hybrid batch/streaming workflows tuned for throughput, latency, and dollar-per-query efficiency
+- Linux-native, Kubernetes-first MLOps platforms using Terraform IaC — production runs on hardened kernels and observability, not fragile notebooks
 
-- Model serving, inference optimization, and real-time pipelines
+**Data Engineering & Pipelines at Scale**
 
-- Linux-native ML infrastructure (production runs on kernels, not notebooks)
+- Petabyte-scale, cost-optimized data pipelines (Bronze → Silver → Gold medallion) with heavy SQL craftsmanship for transformation, analytics, and feature stores
+- Streaming + batch systems engineered for predictable spend: intelligent partitioning, auto-scaling, and FinOps-aware design that reduces bills by architecture, not after-the-fact firefighting
+- Multicloud data architectures with unified governance, lineage, and cost attribution across providers
 
-**AI Platform & Infrastructure**
+# Side Projects & Forward Bets
+Pushing the edges to stay ahead of the curve:
 
-- Multi-cloud architectures across AWS, GCP, and Databricks
+- **QuantConnect-Powered Quant Pipelines** — Building production-ready algorithmic trading workflows on QuantConnect: backtesting multicloud cost-optimized strategies, integrating real-time data pipelines, SQL-driven feature engineering, and MLOps for live deployment. Focus: FinOps-aware quant systems that scale profitably without exploding compute spend.
+- **Quantum-Enhanced Optimization Experiments** — Prototyping quantum-inspired algorithms (e.g., for portfolio optimization, anomaly detection in FinOps, or multicloud resource allocation) using classical simulators and QuantConnect baselines. Exploring how quantum advantages could supercharge cost governance and agentic decision-making in AI infra by 2030+.
 
-- Kubernetes-first platforms with Terraform-based IaC
-
-- Secure networking, identity, and isolation for AI workloads
-
-- Systems designed to scale without vendor lock-in
-
-**Data Engineering at Scale**
-
-- Petabyte-scale data pipelines (Bronze → Silver → Gold)
-
-- Streaming and batch systems optimized for cost and throughput
-
-- Architectures that reduce spend by design, not after the bill arrives
+# Core Principles I Bring to Every System
+- **FinOps maturity from day zero** — visibility, allocation, optimization, and continuous forecasting embedded in design
+- **Production mindset** — systems are built to survive chaos, with SLOs, alerting, chaos engineering, and rollback as table stakes
+- **Intelligent cost engineering** — treat dollars as a first-class metric alongside accuracy and speed
+- **Multicloud fluency** — seamless portability, best-of-breed selection, and unified observability across clouds
 
 ## Platforms & Credentials
-
 - AWS Solutions Architect – Professional (SAP)
-
 - Google Cloud Professional Machine Learning Engineer
-
 - Databricks Machine Learning Professional
+- FinOps Certified Practitioner 
 
-## Tools (When They’re the Right Tool)
-- Python • SQL • PyTorch  
-- C++ • CUDA (performance-critical paths)  
-- Kubernetes • Terraform • Docker  
-- AWS • GCP • Databricks  
-- Linux (kernel → networking → performance)
-
-
+Let's talk production AI that pays for itself—and gets quantum-ready. 🚀
 ## Harvard alum.
 - Builder of systems that must work in production. 
-
 
 ## Featured Projects
 
