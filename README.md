@@ -51,7 +51,8 @@ These aren't isolated hobbies—they're interconnected bets on where multicloud 
 
 Let's talk production AI that pays for itself—and gets quantum-ready. 🚀
 ## Harvard alum.
-- Builder of systems that must work in production. 
+- Builder of systems that must work in production — iterate relentlessly, measure everything, eliminate toil, and optimize ruthlessly for scale and cost. Because great just isn’t good enough; build for the long game.
+
 
 ## Featured Projects
 
@@ -70,14 +71,8 @@ Production-grade system designs that survive real constraints — not just white
 
 Built to teach how systems behave under pressure — latency, drift, security, and 2am failures.
 
-### 🛰️ [2030 Threat Model](https://tinyurl.com/5n8k25sr)  
-In 2030 your data center orbits 550km above Earth. No technicians. No human latency. Here’s exactly how attackers win—and how we build systems that survive autonomously.
-
 ### 🌎 [Texas Energy Data Pulse](https://github.com/TAM-DS/Texas-Energy-Data-Pulse)  
 20-dashboard series exploring Texas as the emerging capital of AI infrastructure: grid power → megawatts → teraflops → orbital compute.
-
-### ⚛️ [Quant11 – Quantum Teleportation Prototype](https://github.com/TAM-DS/Quant11)  
-Experimental quantum circuits in Qiskit exploring future-secure and future-ready architectures.
 
 ### 🔧 [Advanced Analytics Portfolio](https://public.tableau.com/app/profile/tagm)  
 Tableau dashboards that push the boundaries of data storytelling.
