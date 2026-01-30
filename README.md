@@ -30,15 +30,15 @@ Early-year contributions were lighter (Jan–Jul) while I provided full-time hom
 - Petabyte-scale, cost-optimized data pipelines (Bronze → Silver → Gold medallion) with heavy SQL craftsmanship for transformation, analytics, and feature stores
 - Streaming + batch systems engineered for predictable spend: intelligent partitioning, auto-scaling, and FinOps-aware design that reduces bills by architecture, not after-the-fact firefighting
 - Multicloud data architectures with unified governance, lineage, and cost attribution across providers
-
+  
 # Side Projects & Forward Bets
 Pushing the edges to stay ahead of the curve — interconnected bets on where multicloud FinOps, agentic MLOps, and cost engineering head next: from Earth-bound optimization to quantum-accelerated edges to physics-enforced orbital dominance.
-
 - **QuantConnect-Powered Quant Pipelines** — Building production-ready algorithmic trading workflows on QuantConnect: backtesting multicloud cost-optimized strategies, integrating real-time data pipelines, SQL-driven feature engineering, and MLOps for live deployment. Focus: FinOps-aware quant systems that scale profitably without exploding compute spend. (6-project series in progress.)
 - **Quantum-Enhanced Optimization Experiments** — Prototyping quantum-inspired and hybrid quantum-classical algorithms for portfolio optimization, anomaly detection in FinOps, multicloud resource allocation, and classification tasks using classical simulators and Qiskit/PyTorch. Exploring how quantum advantages could supercharge cost governance and agentic decision-making in AI infra by 2030+.  
   - Foundation: Compact 30-line Qiskit quantum teleportation demo → https://github.com/TAM-DS/Quant11  
-  - Hybrid Quantum-Classical Classifier: Minimal HQNN (Qiskit EstimatorQNN + PyTorch TorchConnector) achieving **100% test accuracy** on make_moons dataset → https://github.com/TAM-DS/Quantum-Hybrid-Moons-Classifier  
-  - Additional quantum prototypes (cleanups in progress): [Quantum Project 2 Name/Link], [Quantum Project 3 Name/Link]
+  - Hybrid Quantum-Classical Classifier: Minimal HQNN (Qiskit EstimatorQNN + PyTorch TorchConnector) achieving **100% test accuracy** on make_moons → https://github.com/TAM-DS/Quantum-Hybrid-Moons-Classifier  
+  - VQE Ground-State Energy Demo: Computing H₂ ground state in STO-3G basis using UCCSD ansatz + Hartree-Fock initial state. Reaches **chemical accuracy** (~ -1.852 Hartree, error <1 mHa vs exact classical) → https://github.com/TAM-DS/Quantum-Chemistry-VQE-H2  
+  - Additional quantum prototypes (cleanups in progress): [Quantum Project 3 Name/Link]
 - **Orbital AI Security & Infrastructure Analysis** — Comprehensive framework modeling the shift to space-based AI: physics/economics of orbital compute (free radiative cooling, solar efficiency, tipping point at <$50/kg launch), threat propagation (RAG vuln 0.79 in retrieval layer), control strain under latency (human-in-loop fails at 0.91 via 100k Monte Carlo sims), and value inversion (autonomous control captures 92%). Predicting 25-40% exascale AI training in orbit by 2034-2037. Core insight: Continuity guaranteed by autonomy owns the orbital economy. Full series → https://github.com/TAM-DS/Orbital-AI-Security-Analysis-Series
 
 # Core Principles I Bring to Every System
