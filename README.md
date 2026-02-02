@@ -13,7 +13,7 @@ It’s the one that quietly pays for itself — while making customers feel trul
 
 
 > **Quick 2025 context**  
-Early-year contributions were lighter (Jan–Jul) while I provided full-time home hospice care for my mom during her battle with brain cancer. Family came first—it was my choice and exactly where I needed to be. That chapter sharpened my focus under extreme pressure and reinforced why I build systems that must survive chaos. Grateful to be back shipping at full strength: quantum FinOps prototypes, QuantConnect cost-aware quant pipelines, orbital AI security analysis, and multicloud agentic infra.
+Early-year contributions were lighter (Jan–Jul) while I provided full-time home hospice care for my mom during her battle with brain cancer. During that time, I remained actively engaged—closing three clients and delivering five projects—while narrowing scope to protect quality and outcomes. I returned to full operating cadence mid-year and have since been shipping at high velocity across FinOps-driven multicloud AI systems, cost-aware quant pipelines, quantum optimization prototypes, and agentic infrastructure.
 
 # What I Build & Deliver
 
