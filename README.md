@@ -1,18 +1,16 @@
-**Senior/Staff-Level FinOps & Multicloud AI Systems Architect**  
-**Strategic Client Partner & CX Transformation Leader**  
-Production MLOps • Multicloud Infrastructure • AI-Native Cost Optimization • Austin, TX
+## AI Strategy & Transformation Architect • Agentic AI • Multi-Cloud  
+**Strategist with Technologist Soul + Consultant Polish** | Austin, TX
 
-I architect and deliver production-grade AI systems that are reliable, observable, and ruthlessly cost-efficient — the kind that keep delivering value at 3 a.m. when models scale unexpectedly, cloud bills spike, or multicloud complexity threatens to derail everything.
+I architect and deliver enterprise-scale AI transformations that bridge bold strategic vision with ruthless production reality — turning AI ambition into sustainable, cost-optimized, customer-obsessed systems that keep delivering value at 3 a.m. when models scale unexpectedly, cloud bills spike, or multicloud complexity threatens to derail everything.
 
-My focus: turning AI ambition into sustainable, production reality — **with the customer always the ultimate goal**. Every architecture, pipeline, cost model, and decision must serve real people — their trust, their outcomes, their day-to-day reality. Getting it right for them isn't a nice-to-have; it's the north star that guides every choice.
+My focus: **AI Strategy & Transformation** — engineering multicloud architectures where FinOps, governance, and agentic workflows are built in from day one. Every pipeline, cost model, risk framework, and decision must serve real people — their trust, their outcomes, their day-to-day reality. Getting it right for them isn't optional; it's the north star that guides every choice.
 
-I design multicloud architectures where FinOps is engineered in from day one — not bolted on after the invoice arrives — so teams capture maximum business value without runaway spend. I care deeply about how systems behave in the real world: predictable costs, automated governance, intelligent optimization, and decisions that align technical excellence with financial accountability and long-term customer trust.
+I design systems that quietly pay for themselves — predictable costs, automated governance, intelligent optimization, and decisions that align technical excellence with financial accountability and long-term customer trust.
 
-> Because in the end, the most powerful system isn’t the one with the highest benchmark.  
-It’s the one that quietly pays for itself — while making customers feel truly seen, supported, and valued every step of the way.
+> Because in the end, the most powerful AI system isn’t the one with the highest benchmark.  
+> It’s the one that quietly pays for itself — while making customers feel truly seen, supported, and valued every step of the way.
 
-
-> **Quick 2025 context**  
+**Quick 2025 context**  
 Early-year contributions were lighter (Jan–Jul) while I provided full-time home hospice care for my mom during her battle with brain cancer. During that time, I remained actively engaged—closing three clients and delivering five projects—while narrowing scope to protect quality and outcomes. I returned to full operating cadence mid-year and have since been shipping at high velocity across FinOps-driven multicloud AI systems, cost-aware quant pipelines, quantum optimization prototypes, and agentic infrastructure.
 
 # What I Build & Deliver
