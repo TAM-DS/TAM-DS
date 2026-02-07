@@ -10,8 +10,9 @@ I design systems that quietly pay for themselves — predictable costs, automate
 > Because in the end, the most powerful AI system isn’t the one with the highest benchmark.  
 > It’s the one that quietly pays for itself — while making customers feel truly seen, supported, and valued every step of the way.
 
-**Quick 2025 context**  
-Early-year contributions were lighter (Jan–Jul) while I provided full-time home hospice care for my mom during her battle with brain cancer. It was the toughest yet the most rewarding experience.
+## 2025 Context
+
+Early-year contributions (Jan–Jul) were lighter while I provided full-time home hospice care for my mom during her final months with brain cancer. It was the hardest and most meaningful work I've ever done. I'm back to full capacity now, as recent activity shows.
 
 
 # What I Build & Deliver
