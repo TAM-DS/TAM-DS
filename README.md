@@ -58,32 +58,38 @@ Pushing the edges to stay ahead of the curve — interconnected bets on where mu
 - FinOps Certified Practitioner 
 
 Let's talk production AI that pays for itself—and gets quantum-ready. 🚀
-## Harvard alum.
 - Builder of systems that must work in production — iterate relentlessly, measure everything, eliminate toil, and optimize ruthlessly for scale and cost. Because great just isn’t good enough; build for the long game.
 
+## 🔧 Advanced Analytics Portfolio
 
-## Featured Projects
+Strategic frameworks & production-grade analysis across FinOps, M&A, multi-agent AI, and emerging tech.
 
-### 🧩 [System-Design](https://github.com/TAM-DS/System-Design-)
-Production-grade system designs that survive real constraints — not just whiteboard sketches.
+**Key Projects:**
 
-8 deep dives covering:
-• End-to-end MLOps pipelines  
-• Secure LLM systems (from first principles)  
-• Multi-cloud agentic AI deployment  
-• Kubernetes ML workloads  
-• Orbital autonomous control  
-• Medallion data lakehouses  
-• RAG at scale  
-• Data engineering foundations  
+**FinOps M&A Due Diligence**
+- $8.8M waste identification in $200M SaaS target
+- $32.7M NPV modeling & valuation adjustment frameworks
+- Multi-cloud optimization roadmaps
 
-Built to teach how systems behave under pressure — latency, drift, security, and 2am failures.
+**Enterprise Cloud Intelligence**
+- $3.8M total annual cloud spend analysis
+- 41% enterprise efficiency benchmarking
+- Cost attribution & governance frameworks
 
-### 🌎 [Texas Energy Data Pulse](https://github.com/TAM-DS/Texas-Energy-Data-Pulse)  
-20-dashboard series exploring Texas as the emerging capital of AI infrastructure: grid power → megawatts → teraflops → orbital compute.
+**AI Security & Risk Analysis**
+- OWASP LLM Top 10 threat surface mapping
+- RAG attack surface analysis (2025-2026)
+- AI infrastructure vulnerability assessment
 
-### 🔧 [Advanced Analytics Portfolio](https://public.tableau.com/app/profile/tagm)  
-Tableau dashboards that push the boundaries of data storytelling.
+**Energy & Infrastructure Intelligence**
+- Energy Intelligence Index dashboards
+- Orbital AI economics modeling
+- Resource optimization frameworks
+
+**Tech Stack:** Python, SQL, Tableau, Databricks, AWS/GCP/Azure, XGBoost, LangGraph
+
+**🔧 [Advanced Analytics Portfolio](https://public.tableau.com/app/profile/tagm)** 
+   
 
 ## Technical Stack
 
@@ -127,11 +133,12 @@ Tableau dashboards that push the boundaries of data storytelling.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)  
 
+## Harvard alum.
 
 ## Connect
 
-🌐 [Portfolio]() • 💼 [LinkedIn](https://linkedin.com/in/tracy-manning-full-stack-ai) • 🐦 [X](https://twitter.com/TAGM2025) • 📲 **Join my WhatsApp Channel** for exclusive PDFs, checklists, and weekly orbital AI insights:  
-https://whatsapp.com/channel/0029Vb6rVBD29757lPbMat3P
+💼 [LinkedIn](https://www.linkedin.com/in/tracy-manning-systems-architect/) • 🐦 [X](https://twitter.com/TAGM2025) • 📧 [Email] (tmanning@post.harvard.edu)
+📲 **Join my WhatsApp Channel**  https://whatsapp.com/channel/0029Vb6rVBD29757lPbMat3P
 
 *Shipping production systems that don’t wake you at 2am. Austin, Texas.*
 
