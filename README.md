@@ -86,7 +86,7 @@ Strategic frameworks & production-grade analysis across FinOps, M&A, multi-agent
 - Orbital AI economics modeling
 - Resource optimization frameworks
 
-**Tech Stack:** Python, SQL, Tableau, Databricks, AWS/GCP/Azure, XGBoost, LangGraph
+**Tech Stack:** Python, SQL, Tableau, 
 
 **🔧 [Advanced Analytics Portfolio](https://public.tableau.com/app/profile/tagm)** 
    
@@ -137,11 +137,12 @@ Strategic frameworks & production-grade analysis across FinOps, M&A, multi-agent
 
 ## Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/tracy-manning-systems-architect/) • 🐦 [X](https://twitter.com/TAGM2025) • 📧 [Email] (tmanning@post.harvard.edu)
-📲 **Join my WhatsApp Channel**  https://whatsapp.com/channel/0029Vb6rVBD29757lPbMat3P
+💼 [LinkedIn](https://www.linkedin.com/in/tracy-manning-systems-architect/) • 🐦 [X](https://twitter.com/TAGM2025) • 📧 [Email](mailto:tmanning@post.harvard.edu) • 📲 [WhatsApp](https://whatsapp.com/channel/0029Vb6rVBD29757lPbMat3P)
 
-*Shipping production systems that don’t wake you at 2am. Austin, Texas.*
+*Shipping production systems that don't wake you at 2am.*  
+📍 Austin, Texas
 
+---
 <br>
 
 <p align="center">
