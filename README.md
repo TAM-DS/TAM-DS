@@ -28,11 +28,11 @@ That's not a story about heroics.
 
 That's just how I operate.
 
-Today I architect enterprise-scale AI systems that solve real customer problems — tracing every issue from the customer conversation all the way down to the data infrastructure underneath it, then engineering solutions that actually ship.
+Today, I architect enterprise-scale AI systems that solve real customer problems — tracing every issue from the customer conversation down to the data infrastructure underneath, then engineering solutions that actually ship.
 
-I've crossed the Atlantic with a crew of three.
+I've raced across the Atlantic with a crew of four.
 I've built petabyte-scale data lakes from scratch.
-I've deployed autonomous agent systems with 40+ tools running in live financial markets without human direction.
+I've deployed autonomous agent systems with 40+ tools running without human direction.
 
 None of those required permission.
 All of them required showing up.
