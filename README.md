@@ -2,8 +2,8 @@
 
 ---
 
-> **"I don't wait for a team. I don't wait for a playbook.**
-> **I find a way — and I build what shouldn't exist yet."**
+> **I don't wait for a team. I don't wait for a playbook.**
+> **I find a way — and I build what shouldn't exist yet.**
 
 ---
 
@@ -22,7 +22,7 @@ That's not a methodology. That's how I'm wired.
 
 ## The Longer Version
 
-Early in my career, I was on a trading desk when a coworker made an error — 1 error among thousands of trades entered that day. It wasn't my problem. I pulled up a chair anyway, ordered food in, and at 4am we found it. I was back at my desk by 5.
+Early in my career, I was on a trading desk when a coworker made an error — 1 error among thousands of trades entered that day. It wasn't my problem. I pulled up a chair anyway, ordered food in, and at 4am we found it. I was back at my desk by 5 am.
 
 That's not a story about heroics.
 
