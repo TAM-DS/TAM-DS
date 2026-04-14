@@ -108,20 +108,6 @@ Physics-meets-economics framework modeling the shift to space-based AI. Free rad
 
 ---
 
-## A Note on 2025
-
-Early-year contributions were lighter while I provided full-time home hospice care for my mother during her final months with brain cancer.
-
-It was the hardest and most meaningful work I've ever done.
-
-She taught me that showing up when it's hard — especially when nobody asked you to — is the only thing that actually matters.
-
-That's the same instinct that drives everything I build.
-
-I'm back to full capacity now. Recent activity shows it.
-
----
-
 ## The Numbers That Matter
 
 | What | Impact |
