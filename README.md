@@ -87,9 +87,6 @@ Not notebooks. Production.
 
 ## The Side Bets (Because the Frontier Doesn't Wait)
 
-### 📈 QuantConnect Quant Pipelines
-Production-ready algorithmic trading workflows — backtesting, real-time data pipelines, Random Forest + XGBoost models integrated into live trading bots. FinOps-aware quant systems that scale profitably. 6-project series in progress.
-
 ### ⚛️ Quantum-Enhanced Optimization
 Hybrid quantum-classical algorithms for portfolio optimization, anomaly detection, and multi-cloud resource allocation. Not science fiction — working code.
 
