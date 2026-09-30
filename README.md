@@ -39,8 +39,11 @@ A SOC evidence architecture mapped to the NIST AI RMF, designed so agent actions
 ### [ballast](https://github.com/TAM-DS/ballast)
 A supply-chain risk and scenario-planning platform built for operational decision support under uncertainty.
 
-### [agentic-rag-voice-intelligence-platform](https://github.com/TAM-DS/agentic-rag-voice-intelligence-platform)
-Agentic RAG with voice interaction, designed around a real client workflow rather than a generic assistant demo.
+### [agent-foundry](https://github.com/TAM-DS/agent-foundry)
+
+A governed deployment and runtime authority system for autonomous agents.
+
+Capability is not authority. Every consequential transition must earn its own evidence.
 
 ### [enterprise-AI-workstation](https://github.com/TAM-DS/enterprise-AI-workstation)
 A workstation is infrastructure.
