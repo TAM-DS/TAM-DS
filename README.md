@@ -103,9 +103,11 @@ Senior and Principal roles across:
 
 **Geographic focus:** Texas Triangle
 
+**Work style:** In-office or hybrid
+
 **Domain interest:** professional services · energy and commodities · trading · data center infrastructure · supply chain
 
-Open to meaningful travel. 
+**Open to meaningful travel.**
 
 **Senior. Technical. Strategic. Evidence-driven.**
 
