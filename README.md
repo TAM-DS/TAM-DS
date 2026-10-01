@@ -23,6 +23,12 @@ My work focuses on governed agentic systems, AI-ready data platforms, cloud infr
 
 I build around real operating constraints: authority, evidence, failure paths, infrastructure, and business consequence.
 
+### [agent-foundry](https://github.com/TAM-DS/agent-foundry)
+
+Governed AI agents on AWS — proving that capability, identity, and authority are not the same thing.
+
+Agent Foundry is a production-oriented governance system for autonomous AI agents, built in Python and validated against real AWS infrastructure.
+
 ### [monster-heavy](https://github.com/TAM-DS/monster-heavy)
 A governed AI trust boundary for systems where agents may recommend actions but cannot independently authorize high-risk execution.
 
@@ -38,13 +44,6 @@ A SOC evidence architecture mapped to the NIST AI RMF, designed so agent actions
 
 ### [ballast](https://github.com/TAM-DS/ballast)
 A supply-chain risk and scenario-planning platform built for operational decision support under uncertainty.
-
-### [agent-foundry](https://github.com/TAM-DS/agent-foundry)
-
-Governed AI agents on AWS — proving that capability, identity, and authority are different things.
-
-Agent Foundry is a production-oriented governance system for autonomous AI agents, built in Python and proven against real AWS infrastructure.
-
 
 ### [enterprise-AI-workstation](https://github.com/TAM-DS/enterprise-AI-workstation)
 A workstation is infrastructure.
