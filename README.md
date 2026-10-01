@@ -41,9 +41,10 @@ A supply-chain risk and scenario-planning platform built for operational decisio
 
 ### [agent-foundry](https://github.com/TAM-DS/agent-foundry)
 
-A governed deployment and runtime authority system for autonomous agents.
+Governed AI agents on AWS — proving that capability, identity, and authority are different things.
 
-Capability is not authority. Every consequential transition must earn its own evidence.
+Agent Foundry is a production-oriented governance system for autonomous AI agents, built in Python and proven against real AWS infrastructure.
+
 
 ### [enterprise-AI-workstation](https://github.com/TAM-DS/enterprise-AI-workstation)
 A workstation is infrastructure.
