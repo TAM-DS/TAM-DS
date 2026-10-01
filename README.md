@@ -97,7 +97,7 @@ I also build analytical dashboards that turn complex technical and business syst
 
 ## Open To
 
-Senior and Principal roles across:
+Senior roles across:
 
 **AI Architecture · Enterprise AI · AI Platforms · Cloud / AI Architecture · AI Transformation Consulting · Technical Chief of Staff**
 
