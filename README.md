@@ -105,7 +105,7 @@ Senior roles across:
 
 **Work style:** In-office or hybrid
 
-**Domain interest:**Agentic AI architecture for regulated, data-heavy industries.
+**Domain interest:** Agentic AI architecture for regulated, data-heavy industries.
 
 **Open to meaningful travel.**
 
