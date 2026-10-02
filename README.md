@@ -87,7 +87,7 @@ I also build analytical models and dashboards that turn complex technical, econo
 
 ### 🧠 [The Cognitive Convergence — Where Capital Learns to Think](https://public.tableau.com/app/profile/tagm/viz/DataDrop18WhereCapitalLearnsToThink/DataDrop18)
 
-[![The Cognitive Convergence — Where Capital Learns to Think](images/cognitive-convergence-hover.png)](https://public.tableau.com/app/profile/tagm/viz/DataDrop18WhereCapitalLearnsToThink/DataDrop18)
+[![The Cognitive Convergence — Where Capital Learns to Think](https://public.tableau.com/views/DataDrop18WhereCapitalLearnsToThink/DataDrop18.png?:display_static_image=y&:showVizHome=n)](https://public.tableau.com/app/profile/tagm/viz/DataDrop18WhereCapitalLearnsToThink/DataDrop18)
 
 **An interactive analytical model exploring what happens when capital allocation begins to behave like an intelligent system.**
 
