@@ -101,11 +101,11 @@ Senior roles across:
 
 **AI Architecture · Enterprise AI · AI Platforms · Cloud / AI Architecture · AI Transformation Consulting · Technical Chief of Staff**
 
-**Geographic focus:** Texas Triangle
+**Geographic focus:** Austin, TX; open to Texas Triangle
 
 **Work style:** In-office or hybrid
 
-**Domain interest:** professional services · energy and commodities · trading · data center infrastructure · supply chain
+**Domain interest:**Agentic AI architecture for regulated, data-heavy industries.
 
 **Open to meaningful travel.**
 
