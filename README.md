@@ -79,16 +79,61 @@ I look for the decision underneath the technology:
 AI transformation is not only a technology problem. It changes workflows, decisions, accountability, and operating models.
 
 ---
-
 ## Writing & Visual Intelligence
 
 I write about technology, cybersecurity, risk, and AI at [Cyber Essentials](https://cyberessentialsdotblog.wordpress.com/).
 
-I also build analytical dashboards that turn complex technical and business systems into decision-ready information.
+I also build analytical models and dashboards that turn complex technical, economic, and business systems into decision-ready information.
 
-**Selected Tableau work:**
-- [Where Capital Learns to Think](https://public.tableau.com/app/profile/tagm/viz/DataDrop18WhereCapitalLearnsToThink/DataDrop18) — A forward-looking model of the shift from capital funding intelligence to capital being allocated through intelligence—mapping how AI capability, infrastructure, energy, and orbital systems converge.
-- [RAG Attack Surface](https://public.tableau.com/app/profile/tagm/viz/RAGAttackSurface2025-2026/Dashboard2) — where vulnerabilities propagate across retrieval-augmented AI systems
+### 🧠 [The Cognitive Convergence — Where Capital Learns to Think](https://public.tableau.com/app/profile/tagm/viz/DataDrop18WhereCapitalLearnsToThink/DataDrop18)
+
+[![The Cognitive Convergence — Where Capital Learns to Think](images/cognitive-convergence-hover.png)](https://public.tableau.com/app/profile/tagm/viz/DataDrop18WhereCapitalLearnsToThink/DataDrop18)
+
+**An interactive analytical model exploring what happens when capital allocation begins to behave like an intelligent system.**
+
+The model maps the convergence of **AI capability, infrastructure, energy demand, investment, and orbital systems** across major technology, cloud, aerospace, and energy organizations.
+
+The visualization is only the presentation layer.
+
+An embedded **information layer** exposes the methodology behind each classification—including **AI integration level, cognitive value layer, investment, energy footprint, and the decision logic used to derive the result**.
+
+A viewer can move from the conclusion directly into the reasoning behind it:
+
+`Company → Cognitive Value Layer → Orbit Tier → Destination Node`
+
+The underlying model distinguishes between organizations generating **High Cognitive ROI**—where AI, cloud, and compute increasingly convert infrastructure into intelligence—and organizations creating **Operational Value**, where energy, aerospace, and physical systems provide the capacity that intelligence depends on.
+
+Both are essential.
+
+**One builds. One thinks.**
+
+### Design principle
+
+**The conclusion should never stand alone. The evidence and methodology required to evaluate it should travel with it.**
+
+That means the viewer is not simply asked to trust a classification. The analytical logic, thresholds, metrics, and assumptions remain available for inspection inside the experience.
+
+### Thesis
+
+Energy once powered infrastructure.
+
+Increasingly, intelligence determines how infrastructure—and ultimately capital—is deployed.
+
+As AI capability becomes embedded deeper into physical infrastructure, the question shifts from:
+
+**Where is capital being spent?**
+
+to:
+
+**Where is capital learning to think?**
+
+**Not by power. Not by orbit. But by cognition.**
+
+---
+
+### Additional Visual Intelligence
+
+- [RAG Attack Surface](https://public.tableau.com/app/profile/tagm/viz/RAGAttackSurface2025-2026/Dashboard2) — mapping how vulnerabilities propagate across retrieval-augmented AI systems
 - [Infrastructure / FinOps](https://public.tableau.com/app/profile/tagm/viz/FinOpsforMAInfrastructureDueDiligenceDashboardCaseStudy/Dashboard1) — connecting architecture decisions to cost, risk, and investment consequence
 - [Energy / Commodities](https://public.tableau.com/app/profile/tagm/viz/DataDrop14EnergyIntelligenceIndex-TwoRegions_30GW_OneFuture/Dashboard1) — decision intelligence across operational and market systems
 
