@@ -87,6 +87,7 @@ I write about technology, cybersecurity, risk, and AI at [Cyber Essentials](http
 I also build analytical dashboards that turn complex technical and business systems into decision-ready information.
 
 **Selected Tableau work:**
+- [Where Capital Learns to Think](https://public.tableau.com/app/profile/tagm/viz/DataDrop18WhereCapitalLearnsToThink/DataDrop18) — A forward-looking model of the shift from capital funding intelligence to capital being allocated through intelligence—mapping how AI capability, infrastructure, energy, and orbital systems converge.
 - [RAG Attack Surface](https://public.tableau.com/app/profile/tagm/viz/RAGAttackSurface2025-2026/Dashboard2) — where vulnerabilities propagate across retrieval-augmented AI systems
 - [Infrastructure / FinOps](https://public.tableau.com/app/profile/tagm/viz/FinOpsforMAInfrastructureDueDiligenceDashboardCaseStudy/Dashboard1) — connecting architecture decisions to cost, risk, and investment consequence
 - [Energy / Commodities](https://public.tableau.com/app/profile/tagm/viz/DataDrop14EnergyIntelligenceIndex-TwoRegions_30GW_OneFuture/Dashboard1) — decision intelligence across operational and market systems
