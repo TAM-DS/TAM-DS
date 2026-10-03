@@ -1,71 +1,59 @@
 # Tracy Anne Griffin Manning
 
-**AI Platform Architect · Enterprise AI · Systems Architecture**
+**AI Architect · Governed Agentic AI · Enterprise Systems Architecture**
 
-Texas Triangle · [Email](mailto:tmanning@post.harvard.edu) · [LinkedIn](https://www.linkedin.com/in/tracymanning) · [X](https://x.com/TAGM2025)
-
----
+Austin, Texas · [Website](https://tam-ds.github.io/) · [Email](mailto:tmanning@post.harvard.edu) · [LinkedIn](https://www.linkedin.com/in/tracymanning) · [X](https://x.com/TAGM2025)
 
 ## What I Build
 
-I design production AI systems where model capability, human authority, infrastructure, and business risk meet.
+I build AI systems where model capability, human authority, infrastructure, and business consequence meet.
 
-My work focuses on governed agentic systems, AI-ready data platforms, cloud infrastructure, and architectures that make decisions observable, verifiable, and operationally safe.
+My work spans governed agents, AI-ready data platforms, cloud architecture, and decision systems. I make the boundaries explicit: what the AI may propose, who can authorize action, what evidence must hold, and how the system recovers when something fails.
 
 **Clarity over cleverness. Correctness over speed. Evidence over hype.**
 
-**Current:** Founder, Apex AI|ML Engineering <br>
+**Current:** Founder, Apex AI|ML Engineering LLC  
 **Prior:** Minotaur Consulting · Investment Analysis / Office of the CIO · Wall Street
 
----
+## Selected Engineering Evidence
 
-## Featured Systems
+Six systems, each built around a business constraint and an inspectable control boundary. The repositories contain the implementation, validation, and stated limits; the [website](https://tam-ds.github.io/evidence.html) connects them through concise architecture briefs.
 
-I build around real operating constraints: authority, evidence, failure paths, infrastructure, and business consequence.
+### [Agent Foundry](https://github.com/TAM-DS/agent-foundry) · Governed agents on AWS
 
-### [agent-foundry](https://github.com/TAM-DS/agent-foundry)
+Separates agent capability, cloud identity, deployment approval, and runtime permissions. Bounded IAM, short-lived GitHub OIDC identity, and independent S3 verification keep deployment from silently becoming authority. **The documented live AWS DEV workflow passed 399 tests.**
 
-Governed AI agents on AWS — proving that capability, identity, and authority are not the same thing.
+### [Monster Heavy](https://github.com/TAM-DS/monster-heavy) · Durable execution controls
 
-Agent Foundry is a production-oriented governance system for autonomous AI agents, built in Python and validated against real AWS infrastructure.
+A PostgreSQL-backed paper-execution boundary that checks current policy and fresh evidence before acting. Release validation covers concurrency, retries, worker failure, replay, and compensation—preserving the original decision history through recovery.
 
-### [monster-heavy](https://github.com/TAM-DS/monster-heavy)
-A governed AI trust boundary for systems where agents may recommend actions but cannot independently authorize high-risk execution.
+### [Monster Desk](https://github.com/TAM-DS/monster-desk) · Visible separation of duties
 
-### [monster-desk](https://github.com/TAM-DS/monster-desk)
-The research seat can propose a trade. It cannot send one.
+**The research seat can propose a trade. It cannot send one.** A standalone paper-trading console makes Research, Risk, Execution, and Surveillance distinct. Session-scoped controls reject changes to approved terms, duplicate submissions, and operations after a halt.
 
-I was a trader. I did not build agents that trade. I built the desk that will not let them.
+### [AEGIS Evidence](https://github.com/TAM-DS/aegis-evidence) · Inspectable AI assurance
 
-`AI proposes → human authorizes → system verifies current evidence → execution`
+A reproducible governance workpaper with indicative framework mappings, human acceptance, and separately verifiable evidence archives. Accepted declarations and unresolved control gaps remain visible together; the workpaper supports review without claiming certification.
 
-### [aegis-evidence](https://github.com/TAM-DS/aegis-evidence)
-A SOC evidence architecture mapped to the NIST AI RMF, designed so agent actions remain traceable, reviewable, and governable.
+### [BALLAST](https://github.com/TAM-DS/ballast) · Governed operations decisions
 
-### [ballast](https://github.com/TAM-DS/ballast)
-A supply-chain risk and scenario-planning platform built for operational decision support under uncertainty.
+A synthetic supply-chain prototype for comparing disruptions and mitigation options through explainable scoring. An approval gate blocks unapproved disruptive actions; execution remains explicitly simulated.
 
-### [enterprise-AI-workstation](https://github.com/TAM-DS/enterprise-AI-workstation)
-A workstation is infrastructure.
+### [AI-Ready Data Platform](https://github.com/TAM-DS/ai-ready-data-platform) · Governed parallel collaboration
 
-This project treats the AI engineering environment as a governed, reproducible operational system rather than a developer laptop.
+Protects financial claims from changes in grain, time, meaning, or authority. Three parallel OpenAI Agents SDK specialists propose claims from scoped synthetic warehouse facts; deterministic controls assess and reconcile them. **35 tests passed, one clean live SDK run completed, and its saved decisions were replayed locally.**
 
----
-## Technical Depth 
+## Technical Depth
 
-**Languages:** Python · SQL · Bash<br>
-**Systems:** Linux · Rocky Linux · Ubuntu · RHEL<br>
-**Cloud & Infrastructure:** AWS · GCP · Terraform · Docker · Kubernetes · PostgreSQL<br>
-**AI:** LLMs · RAG · Agents · Structured Outputs · Tool Calling · Evaluation · Human-in-the-Loop Controls<br>
-**Domains:** Energy & Commodities · Supply Chain · Financial Services · Data Platforms · AI Infrastructure
+**Languages:** Python · SQL · Bash  
+**AI & Controls:** OpenAI Agents SDK · RAG · Structured outputs · Tool calling · Evaluation · Bounded authority · Human authorization  
+**Cloud & Infrastructure:** AWS · GCP · Terraform · Docker · Kubernetes · IAM / OIDC · CI/CD  
+**Data & Systems:** PostgreSQL · DuckDB · Linux · Ubuntu · Rocky Linux · RHEL  
+**Domains:** Financial Services · Energy & Commodities · Supply Chain · Data Platforms · AI Infrastructure
 
 **Engineering principle:** Standard library first. Add a dependency when the cost of building exceeds the cost of owning it.
 
----
-
 ## How I Think
-
-Technical capability matters. Judgment matters more.
 
 I look for the decision underneath the technology:
 
@@ -76,87 +64,32 @@ I look for the decision underneath the technology:
 - How will we observe, verify, and recover?
 - What business consequence does the architecture create?
 
-AI transformation is not only a technology problem. It changes workflows, decisions, accountability, and operating models.
+AI transformation changes workflows, decisions, accountability, and operating models. Those choices belong in the architecture from the beginning.
 
----
 ## Writing & Visual Intelligence
 
-I write about technology, cybersecurity, risk, and AI at [Cyber Essentials](https://cyberessentialsdotblog.wordpress.com/).
+I write about AI, cybersecurity, risk, and technology at [Cyber Essentials](https://cyberessentialsdotblog.wordpress.com/) and build analytical models that connect technical systems to business decisions.
 
-I also build analytical models and dashboards that turn complex technical, economic, and business systems into decision-ready information.
-
-### 🧠 [The Cognitive Convergence — Where Capital Learns to Think](https://public.tableau.com/app/profile/tagm/viz/DataDrop18WhereCapitalLearnsToThink/DataDrop18)
-
-**An interactive analytical model exploring what happens when capital allocation begins to behave like an intelligent system.**
-
-The model maps the convergence of **AI capability, infrastructure, energy demand, investment, and orbital systems** across major technology, cloud, aerospace, and energy organizations.
-
-The visualization is only the presentation layer.
-
-An embedded **information layer** exposes the methodology behind each classification—including **AI integration level, cognitive value layer, investment, energy footprint, and the decision logic used to derive the result**.
-
-A viewer can move from the conclusion directly into the reasoning behind it:
-
-`Company → Cognitive Value Layer → Orbit Tier → Destination Node`
-
-The underlying model distinguishes between organizations generating **High Cognitive ROI**—where AI, cloud, and compute increasingly convert infrastructure into intelligence—and organizations creating **Operational Value**, where energy, aerospace, and physical systems provide the capacity that intelligence depends on.
-
-Both are essential.
-
-**One builds. One thinks.**
-
-### Design principle
+**[The Cognitive Convergence — Where Capital Learns to Think](https://public.tableau.com/app/profile/tagm/viz/DataDrop18WhereCapitalLearnsToThink/DataDrop18)** explores how AI capability, infrastructure, energy, investment, and orbital systems may reshape capital allocation. Its embedded information layer exposes classification rules, metrics, assumptions, and decision logic.
 
 **The conclusion should never stand alone. The evidence and methodology required to evaluate it should travel with it.**
 
-That means the viewer is not simply asked to trust a classification. The analytical logic, thresholds, metrics, and assumptions remain available for inspection inside the experience.
+Additional visual intelligence:
 
-### Thesis
-
-Energy once powered infrastructure.
-
-Increasingly, intelligence determines how infrastructure—and ultimately capital—is deployed.
-
-As AI capability becomes embedded deeper into physical infrastructure, the question shifts from:
-
-**Where is capital being spent?**
-
-to:
-
-**Where is capital learning to think?**
-
-**Not by power. Not by orbit. But by cognition.**
-
----
-
-### Additional Visual Intelligence
-
-- [RAG Attack Surface](https://public.tableau.com/app/profile/tagm/viz/RAGAttackSurface2025-2026/Dashboard2) — mapping how vulnerabilities propagate across retrieval-augmented AI systems
-- [Infrastructure / FinOps](https://public.tableau.com/app/profile/tagm/viz/FinOpsforMAInfrastructureDueDiligenceDashboardCaseStudy/Dashboard1) — connecting architecture decisions to cost, risk, and investment consequence
+- [RAG Attack Surface](https://public.tableau.com/app/profile/tagm/viz/RAGAttackSurface2025-2026/Dashboard2) — how vulnerabilities propagate across retrieval-augmented AI systems
+- [Infrastructure / FinOps](https://public.tableau.com/app/profile/tagm/viz/FinOpsforMAInfrastructureDueDiligenceDashboardCaseStudy/Dashboard1) — architecture, cost, risk, and investment consequence
 - [Energy / Commodities](https://public.tableau.com/app/profile/tagm/viz/DataDrop14EnergyIntelligenceIndex-TwoRegions_30GW_OneFuture/Dashboard1) — decision intelligence across operational and market systems
 
-[Explore the full Tableau portfolio →](https://public.tableau.com/app/profile/tagm/vizzes)
-
----
+[Explore the Tableau portfolio](https://public.tableau.com/app/profile/tagm/vizzes)
 
 ## Open To
 
-Senior roles across:
+Senior opportunities across **AI Architecture · Enterprise AI · AI Platforms · Cloud / AI Architecture · AI Transformation Consulting · Technical Chief of Staff**.
 
-**AI Architecture · Enterprise AI · AI Platforms · Cloud / AI Architecture · AI Transformation Consulting · Technical Chief of Staff**
-
-**Geographic focus:** Austin, TX; open to Texas Triangle
-
-**Work style:** In-office or hybrid
-
-**Domain interest:** Agentic AI architecture for regulated, data-heavy industries.
-
-**Open to meaningful travel.**
+Based in Austin and willing to relocate within Texas, including the Texas Triangle. Open to in-office or hybrid work and meaningful business travel.
 
 **Senior. Technical. Strategic. Evidence-driven.**
 
 Close enough to the work to build and reason. Senior enough to shape the direction.
 
----
-
-<sup>Updated September 2026</sup>
+<sup>Updated October 2026</sup>
