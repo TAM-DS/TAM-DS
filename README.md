@@ -12,7 +12,7 @@ My work spans governed agents, AI-ready data platforms, cloud architecture, and 
 
 **Clarity over cleverness. Correctness over speed. Evidence over hype.**
 
-**Current:** Founder, Apex AI|ML Engineering LLC  
+**Current:** Founder, Apex AI|ML 
 **Prior:** Minotaur Consulting · Investment Analysis / Office of the CIO · Wall Street
 
 ## Selected Engineering Evidence
