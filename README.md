@@ -43,6 +43,25 @@ A synthetic supply-chain prototype for comparing disruptions and mitigation opti
 
 Protects financial claims from changes in grain, time, meaning, or authority. Three parallel OpenAI Agents SDK specialists propose claims from scoped synthetic warehouse facts; deterministic controls assess and reconcile them. **35 tests passed, one clean live SDK run completed, and its saved decisions were replayed locally.**
 
+
+## How to read this profile
+
+Start with [Agent Foundry](https://github.com/TAM-DS/agent-foundry), [Monster Heavy](https://github.com/TAM-DS/monster-heavy), and [paper-trading-floor](https://github.com/TAM-DS/paper-trading-floor). Monster Light, Monster Heavy, and Monster Desk are one paper boundary at three depths, not three trading systems. FinOps repositories are modeled scenarios with embedded formulas, not delivered client savings. Paid client work stays private for the required retention period.
+
+## Market desks
+
+### [Capital-markets research desk](https://github.com/TAM-DS/capital-markets-research-desk)
+
+Equities and energy agents draft. A citation clerk rejects an unsourced headline and a stale curve. The memo cannot become an order.
+
+### [Investment gems](https://github.com/TAM-DS/investment-gems)
+
+Automate the search for investment gems across equities, LNG, midstream, and power. Suggestion only. Every idea has an invalidation.
+
+### [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor)
+
+Market, risk, and OMS MCP tools. An in-limit ERCOT intent can paper-fill. `place_venue_order` is denied. A paper fill is not a street fill.
+
 ## Technical Depth
 
 **Languages:** Python · SQL · Bash  
