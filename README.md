@@ -14,8 +14,8 @@ I design agentic systems where a model can propose and cannot grant itself permi
 | 02 | [Monster Heavy](https://github.com/TAM-DS/monster-heavy) | Durable paper execution survives retry, concurrency, and worker death. | No broker. No real-money path. |
 | 03 | [AI-Ready Data Platform](https://github.com/TAM-DS/ai-ready-data-platform) | Three specialists. Claims checked against bounded facts. | Fixture timing is not a live-model speedup. |
 | 04 | [Research desk](https://github.com/TAM-DS/capital-markets-research-desk) | Equities and energy agents draft. A clerk accepts. | A memo is not an order. |
-| 05 | [Investment gems](https://github.com/TAM-DS/investment-gems) | Suggestion screen across equities, LNG, midstream, and power. | A watchlist is not a ticket. |
-| 06 | [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor) | Market, risk, and OMS tools. ERCOT intent can paper-fill. | Venue tool is denied. |
+| 05 | [Investment gems](https://github.com/TAM-DS/investment-gems) | Local six-name synthetic screen across equities and energy exposure. | A watchlist is not a ticket. |
+| 06 | [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor) | Three stdio MCP servers expose fixture, risk, and paper OMS tools. | Venue tool is denied. |
 
 Monster Light, Monster Heavy, and Monster Desk are one paper boundary at three depths. AEGIS Evidence and BALLAST stay public for assurance and scenario questions. They are not the front door.
 
@@ -23,9 +23,9 @@ Monster Light, Monster Heavy, and Monster Desk are one paper boundary at three d
 
 A recommendation is not permission. Approval is bound to the exact action. Current evidence is checked again at execution. If the control cannot be shown, the claim is not made.
 
-## Market desks
+## Fixture dashboards
 
-Three desks, one limit. Research can write a memo. The screen can write a watchlist. Only the paper floor can write a fill, and that fill has no venue.
+Three static HTML fixture views, not live feeds or observed market data. Three desks, one limit. Research can write a memo. The screen can write a watchlist. Only the paper floor can write a fill, and that fill has no venue. Its three MCP servers are verified over stdio; the research and screening examples are deterministic.
 
 - [Research desk dashboard](https://github.com/TAM-DS/capital-markets-research-desk/blob/main/docs/index.html) rejects a stale curve and an unsourced headline.
 - [Investment gems dashboard](https://github.com/TAM-DS/investment-gems/blob/main/docs/index.html) shows the hurdle and the invalidation.
