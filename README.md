@@ -6,7 +6,7 @@ I design agentic systems where a model can propose and cannot grant itself permi
 
 **Current:** Founder, Apex AI|ML. **Prior:** Minotaur Consulting · Office of the CIO · Wall Street.
 
-## Start here
+## Eight featured projects
 
 | Order | Repository | What it proves | Where it stops |
 | --- | --- | --- | --- |
@@ -16,8 +16,12 @@ I design agentic systems where a model can propose and cannot grant itself permi
 | 04 | [Research desk](https://github.com/TAM-DS/capital-markets-research-desk) | Equities and energy agents draft. A clerk accepts. | A memo is not an order. |
 | 05 | [Investment gems](https://github.com/TAM-DS/investment-gems) | Local six-name synthetic screen across equities and energy exposure. | A watchlist is not a ticket. |
 | 06 | [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor) | Three stdio MCP servers expose fixture, risk, and paper OMS tools. | Venue tool is denied. |
+| 07 | [BALLAST](https://github.com/TAM-DS/ballast) | Explainable supply-chain risk, what-if shocks, and a disruptive-action approval gate. | Synthetic energy and semiconductor scenarios; simulated execution. |
+| 08 | [AEGIS Evidence](https://github.com/TAM-DS/aegis-evidence) | Replayable SOC assurance workpaper, human acceptance, open gaps, and SHA-256-verifiable archives. | Indicative framework mappings; not certification or a legal compliance determination. |
 
-Monster Light, Monster Heavy, and Monster Desk are one paper boundary at three depths. AEGIS Evidence and BALLAST stay public for assurance and scenario questions. They are not the front door.
+These eight projects show depth in governed AI and breadth across capital markets, energy, supply chain, and cybersecurity assurance. BALLAST makes operational trade-offs visible; AEGIS Evidence makes governance claims and unresolved control gaps inspectable.
+
+Monster Light and Monster Desk remain supporting paper-boundary examples alongside Monster Heavy.
 
 ## The rule
 
