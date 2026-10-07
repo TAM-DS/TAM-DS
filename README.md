@@ -33,7 +33,9 @@ Three static HTML fixture views, not live feeds or observed market data. Three d
 
 ## What is not public
 
-Paid client material stays private for the required retention period. FinOps repositories are modeled scenarios with the formulas embedded. The dollar figures there are not delivered client savings. Employment outcomes live on the resume, not in a repository claim.
+**Evidence scope and confidentiality**
+
+Confidential client material is not published. Public FinOps repositories contain modeled scenarios with documented formulas and assumptions; their dollar figures are not delivered client savings. Employment outcomes are reported separately on my resume and should not be inferred from these demonstrations.
 
 ## Open to
 
