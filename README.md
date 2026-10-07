@@ -1,114 +1,42 @@
-# Tracy Anne Griffin Manning
+<img src="banner.svg" alt="Capability is not authority. Tracy Anne Griffin Manning, AI Architect, Austin." width="100%">
 
-**AI Architect · Governed Agentic AI · Enterprise Systems Architecture**
+AI Architect · Austin, Texas · [Website](https://tam-ds.github.io/) · [Email](mailto:tmanning@post.harvard.edu) · [LinkedIn](https://www.linkedin.com/in/tracymanning) · [X](https://x.com/TAGM2025)
 
-Austin, Texas · [Website](https://tam-ds.github.io/) · [Email](mailto:tmanning@post.harvard.edu) · [LinkedIn](https://www.linkedin.com/in/tracymanning) · [X](https://x.com/TAGM2025)
+I design agentic systems where a model can propose and cannot grant itself permission. Financial services trained the consequence. Founding trained the ownership. The public repos are the parts a reviewer can inspect.
 
-## What I Build
+**Current:** Founder, Apex AI|ML. **Prior:** Minotaur Consulting · Office of the CIO · Wall Street.
 
-I build AI systems where model capability, human authority, infrastructure, and business consequence meet.
+## Start here
 
-My work spans governed agents, AI-ready data platforms, cloud architecture, and decision systems. I make the boundaries explicit: what the AI may propose, who can authorize action, what evidence must hold, and how the system recovers when something fails.
+| Order | Repository | What it proves | Where it stops |
+| --- | --- | --- | --- |
+| 01 | [Agent Foundry](https://github.com/TAM-DS/agent-foundry) | Capability, identity, and runtime grants are separate. 399 tests. AWS DEV. | Not a customer-production system. |
+| 02 | [Monster Heavy](https://github.com/TAM-DS/monster-heavy) | Durable paper execution survives retry, concurrency, and worker death. | No broker. No real-money path. |
+| 03 | [AI-Ready Data Platform](https://github.com/TAM-DS/ai-ready-data-platform) | Three specialists. Claims checked against bounded facts. | Fixture timing is not a live-model speedup. |
+| 04 | [Research desk](https://github.com/TAM-DS/capital-markets-research-desk) | Equities and energy agents draft. A clerk accepts. | A memo is not an order. |
+| 05 | [Investment gems](https://github.com/TAM-DS/investment-gems) | Suggestion screen across equities, LNG, midstream, and power. | A watchlist is not a ticket. |
+| 06 | [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor) | Market, risk, and OMS tools. ERCOT intent can paper-fill. | Venue tool is denied. |
 
-**Clarity over cleverness. Correctness over speed. Evidence over hype.**
+Monster Light, Monster Heavy, and Monster Desk are one paper boundary at three depths. AEGIS Evidence and BALLAST stay public for assurance and scenario questions. They are not the front door.
 
-**Current:** Founder, Apex AI|ML <br>
-**Prior:** Minotaur Consulting · Investment Analysis / Office of the CIO · Wall Street
+## The rule
 
-## Selected Engineering Evidence
-
-Six systems, each built around a business constraint and an inspectable control boundary. The repositories contain the implementation, validation, and stated limits; the [website](https://tam-ds.github.io/evidence.html) connects them through concise architecture briefs.
-
-### [Agent Foundry](https://github.com/TAM-DS/agent-foundry) · Governed agents on AWS
-
-Separates agent capability, cloud identity, deployment approval, and runtime permissions. Bounded IAM, short-lived GitHub OIDC identity, and independent S3 verification keep deployment from silently becoming authority. **The documented live AWS DEV workflow passed 399 tests.**
-
-### [Monster Heavy](https://github.com/TAM-DS/monster-heavy) · Durable execution controls
-
-A PostgreSQL-backed paper-execution boundary that checks current policy and fresh evidence before acting. Release validation covers concurrency, retries, worker failure, replay, and compensation—preserving the original decision history through recovery.
-
-### [Monster Desk](https://github.com/TAM-DS/monster-desk) · Visible separation of duties
-
-**The research seat can propose a trade. It cannot send one.** A standalone paper-trading console makes Research, Risk, Execution, and Surveillance distinct. Session-scoped controls reject changes to approved terms, duplicate submissions, and operations after a halt.
-
-### [AEGIS Evidence](https://github.com/TAM-DS/aegis-evidence) · Inspectable AI assurance
-
-A reproducible governance workpaper with indicative framework mappings, human acceptance, and separately verifiable evidence archives. Accepted declarations and unresolved control gaps remain visible together; the workpaper supports review without claiming certification.
-
-### [BALLAST](https://github.com/TAM-DS/ballast) · Governed operations decisions
-
-A synthetic supply-chain prototype for comparing disruptions and mitigation options through explainable scoring. An approval gate blocks unapproved disruptive actions; execution remains explicitly simulated.
-
-### [AI-Ready Data Platform](https://github.com/TAM-DS/ai-ready-data-platform) · Governed parallel collaboration
-
-Protects financial claims from changes in grain, time, meaning, or authority. Three parallel OpenAI Agents SDK specialists propose claims from scoped synthetic warehouse facts; deterministic controls assess and reconcile them. **35 tests passed, one clean live SDK run completed, and its saved decisions were replayed locally.**
-
-
-## How to read this profile
-
-Start with [Agent Foundry](https://github.com/TAM-DS/agent-foundry), [Monster Heavy](https://github.com/TAM-DS/monster-heavy), and [paper-trading-floor](https://github.com/TAM-DS/paper-trading-floor). Monster Light, Monster Heavy, and Monster Desk are one paper boundary at three depths, not three trading systems. FinOps repositories are modeled scenarios with embedded formulas, not delivered client savings. Paid client work stays private for the required retention period.
+A recommendation is not permission. Approval is bound to the exact action. Current evidence is checked again at execution. If the control cannot be shown, the claim is not made.
 
 ## Market desks
 
-### [Capital-markets research desk](https://github.com/TAM-DS/capital-markets-research-desk)
+Three desks, one limit. Research can write a memo. The screen can write a watchlist. Only the paper floor can write a fill, and that fill has no venue.
 
-Equities and energy agents draft. A citation clerk rejects an unsourced headline and a stale curve. The memo cannot become an order.
+- [Research desk dashboard](https://github.com/TAM-DS/capital-markets-research-desk/blob/main/docs/index.html) rejects a stale curve and an unsourced headline.
+- [Investment gems dashboard](https://github.com/TAM-DS/investment-gems/blob/main/docs/index.html) shows the hurdle and the invalidation.
+- [Paper floor dashboard](https://github.com/TAM-DS/paper-trading-floor/blob/main/docs/index.html) shows the ERCOT paper fill and the denied venue tool.
 
-### [Investment gems](https://github.com/TAM-DS/investment-gems)
+## What is not public
 
-Automate the search for investment gems across equities, LNG, midstream, and power. Suggestion only. Every idea has an invalidation.
+Paid client material stays private for the required retention period. FinOps repositories are modeled scenarios with the formulas embedded. The dollar figures there are not delivered client savings. Employment outcomes live on the resume, not in a repository claim.
 
-### [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor)
+## Open to
 
-Market, risk, and OMS MCP tools. An in-limit ERCOT intent can paper-fill. `place_venue_order` is denied. A paper fill is not a street fill.
+Senior seats in AI architecture, enterprise AI, cloud and AI platforms, technical consulting, and technical chief of staff. Austin, Dallas, Houston, or San Antonio. In office or hybrid.
 
-## Technical Depth
-
-**Languages:** Python · SQL · Bash  
-**AI & Controls:** OpenAI Agents SDK · RAG · Structured outputs · Tool calling · Evaluation · Bounded authority · Human authorization  
-**Cloud & Infrastructure:** AWS · GCP · Terraform · Docker · Kubernetes · IAM / OIDC · CI/CD  
-**Data & Systems:** PostgreSQL · DuckDB · Linux · Ubuntu · Rocky Linux · RHEL  
-**Domains:** Financial Services · Energy & Commodities · Supply Chain · Data Platforms · AI Infrastructure
-
-**Engineering principle:** Standard library first. Add a dependency when the cost of building exceeds the cost of owning it.
-
-## How I Think
-
-I look for the decision underneath the technology:
-
-- What problem are we actually solving?
-- What authority should the AI have?
-- What evidence must be true before action?
-- What happens when the model is wrong?
-- How will we observe, verify, and recover?
-- What business consequence does the architecture create?
-
-AI transformation changes workflows, decisions, accountability, and operating models. Those choices belong in the architecture from the beginning.
-
-## Writing & Visual Intelligence
-
-I write about AI, cybersecurity, risk, and technology at [Cyber Essentials](https://cyberessentialsdotblog.wordpress.com/) and build analytical models that connect technical systems to business decisions.
-
-**[The Cognitive Convergence — Where Capital Learns to Think](https://public.tableau.com/app/profile/tagm/viz/DataDrop18WhereCapitalLearnsToThink/DataDrop18)** explores how AI capability, infrastructure, energy, investment, and orbital systems may reshape capital allocation. Its embedded information layer exposes classification rules, metrics, assumptions, and decision logic.
-
-**The conclusion should never stand alone. The evidence and methodology required to evaluate it should travel with it.**
-
-Additional visual intelligence:
-
-- [RAG Attack Surface](https://public.tableau.com/app/profile/tagm/viz/RAGAttackSurface2025-2026/Dashboard2) — how vulnerabilities propagate across retrieval-augmented AI systems
-- [Infrastructure / FinOps](https://public.tableau.com/app/profile/tagm/viz/FinOpsforMAInfrastructureDueDiligenceDashboardCaseStudy/Dashboard1) — architecture, cost, risk, and investment consequence
-- [Energy / Commodities](https://public.tableau.com/app/profile/tagm/viz/DataDrop14EnergyIntelligenceIndex-TwoRegions_30GW_OneFuture/Dashboard1) — decision intelligence across operational and market systems
-
-[Explore the Tableau portfolio](https://public.tableau.com/app/profile/tagm/vizzes)
-
-## Open To
-
-Senior opportunities across **AI Architecture · Enterprise AI · AI Platforms · Cloud / AI Architecture · AI Transformation Consulting · Technical Chief of Staff**.
-
-Based in Austin and willing to relocate within Texas, including the Texas Triangle. Open to in-office or hybrid work and meaningful business travel.
-
-**Senior. Technical. Strategic. Evidence-driven.**
-
-Close enough to the work to build and reason. Senior enough to shape the direction.
-
-<sup>Updated October 2026</sup>
+Close enough to build. Senior enough to say no.
