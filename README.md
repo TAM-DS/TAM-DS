@@ -39,7 +39,7 @@ Three static HTML fixture views, not live feeds or observed market data. Three d
 
 **Evidence scope and confidentiality**
 
-Confidential client material is not published. Public FinOps repositories contain modeled scenarios with documented formulas and assumptions; their dollar figures are not delivered client savings. Employment outcomes are reported separately on my resume and should not be inferred from these demonstrations.
+Confidential client material is not published. Public FinOps repositories contain modeled scenarios with documented formulas and assumptions; their dollar figures are not delivered client savings. 
 
 ## Open to
 
