@@ -13,7 +13,7 @@ I design agentic systems where a model can propose and cannot grant itself permi
 | 01 | [Agent Foundry](https://github.com/TAM-DS/agent-foundry) | Capability, identity, and runtime grants are separate. 399 tests. AWS DEV. | Not a customer-production system. |
 | 02 | [Monster Heavy](https://github.com/TAM-DS/monster-heavy) | Durable paper execution survives retry, concurrency, and worker death. | No broker. No real-money path. |
 | 03 | [AI-Ready Data Platform](https://github.com/TAM-DS/ai-ready-data-platform) | Three specialists. Claims checked against bounded facts. | Fixture timing is not a live-model speedup. |
-| 04 | [Research desk](https://github.com/TAM-DS/capital-markets-research-desk) | Equities and energy agents draft. A clerk accepts. | A memo is not an order. |
+| 04 | [Capital Markets Research desk](https://github.com/TAM-DS/capital-markets-research-desk) | Equities and energy agents draft. A clerk accepts. | A memo is not an order. |
 | 05 | [Investment gems](https://github.com/TAM-DS/investment-gems) | Local six-name synthetic screen across equities and energy exposure. | A watchlist is not a ticket. |
 | 06 | [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor) | Three stdio MCP servers expose fixture, risk, and paper OMS tools. | Venue tool is denied. |
 | 07 | [BALLAST](https://github.com/TAM-DS/ballast) | Explainable supply-chain risk, what-if shocks, and a disruptive-action approval gate. | Synthetic energy and semiconductor scenarios; simulated execution. |
