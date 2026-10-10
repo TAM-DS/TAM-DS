@@ -13,9 +13,9 @@ I design agentic systems where a model can propose and cannot grant itself permi
 | 01 | [Agent Foundry](https://github.com/TAM-DS/agent-foundry) | Capability, identity, and runtime grants are separate. 399 tests. AWS DEV. | Not a customer-production system. |
 | 02 | [Monster Heavy](https://github.com/TAM-DS/monster-heavy) | Durable paper execution survives retry, concurrency, and worker death. | No broker. No real-money path. |
 | 03 | [AI-Ready Data Platform](https://github.com/TAM-DS/ai-ready-data-platform) | Three specialists. Claims checked against bounded facts. | Fixture timing is not a live-model speedup. |
-| 04 | [Capital Markets Research desk](https://github.com/TAM-DS/capital-markets-research-desk) | Equities and energy agents draft. A clerk accepts. | A memo is not an order. |
-| 05 | [Investment gems](https://github.com/TAM-DS/investment-gems) | Local six-name synthetic screen across equities and energy exposure. | A watchlist is not a ticket. |
-| 06 | [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor) | Three stdio MCP servers expose fixture, risk, and paper OMS tools. | Venue tool is denied. |
+| 04 | [Capital Markets Research desk](https://github.com/TAM-DS/capital-markets-research-desk) | Massive historical evidence, fixed-rule holdout, and checked CrewAI research. | No forecast or proven trading edge. |
+| 05 | [Investment gems](https://github.com/TAM-DS/investment-gems) | Explicit momentum, volatility, and liquidity hurdles; bounded CrewAI challenge. | A shortlist does not establish suitability. |
+| 06 | [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor) | Local human confirmation, independent account checks, and persistent simulated fills. | Historical paper simulation; no broker. |
 | 07 | [BALLAST](https://github.com/TAM-DS/ballast) | Explainable supply-chain risk, what-if shocks, and a disruptive-action approval gate. | Synthetic energy and semiconductor scenarios; simulated execution. |
 | 08 | [AEGIS Evidence](https://github.com/TAM-DS/aegis-evidence) | Replayable SOC assurance workpaper, human acceptance, open gaps, and SHA-256-verifiable archives. | Indicative framework mappings; not certification or a legal compliance determination. |
 
@@ -27,13 +27,15 @@ Monster Light and Monster Desk remain supporting paper-boundary examples alongsi
 
 A recommendation is not permission. Approval is bound to the exact action. Current evidence is checked again at execution. If the control cannot be shown, the claim is not made.
 
-## Fixture dashboards
+## Streamlit trading dashboards
 
-Three static HTML fixture views, not live feeds or observed market data. Three desks, one limit. Research can write a memo. The screen can write a watchlist. Only the paper floor can write a fill, and that fill has no venue. Its three MCP servers are verified over stdio; the research and screening examples are deterministic.
+Three interactive local applications combine Massive historical daily market evidence, Python-calculated metrics, and bounded CrewAI research. Structured claims are checked against the supplied evidence; interpretation still requires human review. Agents have no order tools. Only the paper floor records simulated fills, after explicit local confirmation and account checks.
 
-- [Research desk dashboard](https://github.com/TAM-DS/capital-markets-research-desk/blob/main/docs/index.html) rejects a stale curve and an unsourced headline.
-- [Investment gems dashboard](https://github.com/TAM-DS/investment-gems/blob/main/docs/index.html) shows the hurdle and the invalidation.
-- [Paper floor dashboard](https://github.com/TAM-DS/paper-trading-floor/blob/main/docs/index.html) shows the ERCOT paper fill and the denied venue tool.
+- [Capital Markets Research Desk](https://github.com/TAM-DS/capital-markets-research-desk#application-screenshots) pairs a research brief with a fixed-rule chronological holdout, benchmark comparison, and visible cost assumptions.
+- [Investment Gems](https://github.com/TAM-DS/investment-gems#application-screenshots) applies transparent momentum, volatility, and liquidity hurdles to a selected equity/ETF universe.
+- [Paper Trading Floor](https://github.com/TAM-DS/paper-trading-floor#application-screenshots) retains simulated cash, positions, and an evidence-linked SQLite fill ledger across restarts.
+
+Each repository includes screenshots, setup instructions, tests, and explicit limitations. Data are end-of-day historical observations; price returns exclude dividends. Energy equities and ETFs are proxies, not ERCOT power or Henry Hub spot feeds. There is no broker connection or real-money execution path. The original static fixture views remain documented as legacy examples.
 
 ## What is not public
 
