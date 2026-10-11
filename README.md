@@ -41,10 +41,6 @@ Each repository includes screenshots, setup instructions, tests, and explicit li
 
 **Evidence scope and confidentiality**
 
-Confidential client material is not published. Public FinOps repositories contain modeled scenarios with documented formulas and assumptions; their dollar figures are not delivered client savings. 
+Confidential client material is not published. Public FinOps repositories contain modeled scenarios with documented formulas and assumptions.
 
-## Open to
 
-Senior seats in AI architecture, enterprise AI, cloud and AI platforms, technical consulting, and technical chief of staff. Austin, Dallas, Houston, or San Antonio. In office or hybrid.
-
-Close enough to build. Senior enough to say no.
