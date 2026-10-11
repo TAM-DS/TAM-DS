@@ -33,6 +33,16 @@ A recommendation is not permission. Approval is bound to the exact action. Curre
 
 I use [Gradio](https://www.gradio.app/) to turn Python workflows into interactive interfaces that business reviewers can explore. Gradio's team [reported more than one million monthly developers in April 2025](https://huggingface.co/blog/gradio-1m), and its integration with Hugging Face Spaces supports rapid demonstration and sharing.
 
+**Three lines create the interface. The engineering behind it makes the workflow worth using.**
+
+```python
+import gradio as gr
+demo = gr.Interface(fn=analyze_risk, inputs="text", outputs="text")
+demo.launch()
+```
+
+*Illustrative interface example: `analyze_risk` is an existing Python function. BALLAST and AEGIS Analyst use richer layouts and explicit workflow controls.*
+
 [![Gradio GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio?style=flat&label=Gradio%20GitHub%20stars)](https://github.com/gradio-app/gradio)
 
 - **[BALLAST — Gradio supply-chain control tower](https://github.com/TAM-DS/ballast#see-the-two-scenarios):** energy shipping routes and Taiwan semiconductor dependencies make concentration, single-source exposure, and disruption visible. Operators compare baseline and what-if scenarios, inspect risk drivers, and explicitly approve disruptive mitigation simulations.
