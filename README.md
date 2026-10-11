@@ -8,16 +8,16 @@ I design agentic systems where a model can propose and cannot grant itself permi
 
 ## Eight featured projects
 
-| Order | Repository | What it proves | Where it stops |
+| Order | Repository | Sector | What it Proves |
 | --- | --- | --- | --- |
-| 01 | [Agent Foundry](https://github.com/TAM-DS/agent-foundry) | Capability, identity, and runtime grants are separate. 399 tests. AWS DEV. | Not a customer-production system. |
-| 02 | [Monster Heavy](https://github.com/TAM-DS/monster-heavy) | Durable paper execution survives retry, concurrency, and worker death. | No broker. No real-money path. |
-| 03 | [AI-Ready Data Platform](https://github.com/TAM-DS/ai-ready-data-platform) | Three specialists. Claims checked against bounded facts. | Fixture timing is not a live-model speedup. |
-| 04 | [Capital Markets Research desk](https://github.com/TAM-DS/capital-markets-research-desk) | Massive historical evidence, fixed-rule holdout, and checked CrewAI research. | No forecast or proven trading edge. |
-| 05 | [Investment gems](https://github.com/TAM-DS/investment-gems) | Explicit momentum, volatility, and liquidity hurdles; bounded CrewAI challenge. | A shortlist does not establish suitability. |
-| 06 | [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor) | Local human confirmation, independent account checks, and persistent simulated fills. | Historical paper simulation; no broker. |
-| 07 | [BALLAST](https://github.com/TAM-DS/ballast) | Explainable supply-chain risk, what-if shocks, and a disruptive-action approval gate. | Synthetic energy and semiconductor scenarios; simulated execution. |
-| 08 | [AEGIS Evidence](https://github.com/TAM-DS/aegis-evidence) | Replayable SOC assurance workpaper, human acceptance, open gaps, and SHA-256-verifiable archives. | Indicative framework mappings; not certification or a legal compliance determination. |
+| 01 | [Agent Foundry](https://github.com/TAM-DS/agent-foundry) |Enterprise AI |Capability, identity, and runtime grants are separate. 399 tests. AWS DEV. |
+| 02 | [Monster Heavy](https://github.com/TAM-DS/monster-heavy) | Capital Markets| Durable paper execution survives retry, concurrency, and worker death. | 
+| 03 | [AI-Ready Data Platform](https://github.com/TAM-DS/ai-ready-data-platform) | Retail Analytics | Three specialists. Claims checked against bounded facts. | 
+| 04 | [Capital Markets Research desk](https://github.com/TAM-DS/capital-markets-research-desk) | Energy Trading | Massive historical evidence, fixed-rule holdout, and checked CrewAI research. | 
+| 05 | [Investment gems](https://github.com/TAM-DS/investment-gems) | Suggestion Engine | Explicit momentum, volatility, and liquidity hurdles; bounded CrewAI challenge. |
+| 06 | [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor) | Multi-Agent MCP| Local human confirmation, independent account checks, and persistent simulated fills.|
+| 07 | [BALLAST](https://github.com/TAM-DS/ballast) | Supply-Chain | Explainable supply-chain risk, what-if shocks, and a disruptive-action approval gate. | 
+| 08 | [AEGIS Evidence](https://github.com/TAM-DS/aegis-evidence) | Cyber-Security | Replayable SOC assurance workpaper, human acceptance, open gaps, and SHA-256-verifiable archives. | 
 
 These eight projects show depth in governed AI and breadth across capital markets, energy, supply chain, and cybersecurity assurance. BALLAST makes operational trade-offs visible; AEGIS Evidence makes governance claims and unresolved control gaps inspectable.
 
@@ -29,7 +29,7 @@ A recommendation is not permission. Approval is bound to the exact action. Curre
 
 ## Streamlit trading dashboards
 
-Three interactive local applications combine Massive historical daily market evidence, Python-calculated metrics, and bounded CrewAI research. Structured claims are checked against the supplied evidence; interpretation still requires human review. Agents have no order tools. Only the paper floor records simulated fills, after explicit local confirmation and account checks.
+Three interactive local applications combine [Massive](https://massive.com/) historical daily market evidence, Python-calculated metrics, and bounded [CrewAI](https://crewai.com/) research. Structured claims are checked against the supplied evidence; interpretation still requires human review. Agents have no order tools. Only the paper floor records simulated fills, after explicit local confirmation and account checks.
 
 - [Capital Markets Research Desk](https://github.com/TAM-DS/capital-markets-research-desk#application-screenshots) pairs a research brief with a fixed-rule chronological holdout, benchmark comparison, and visible cost assumptions.
 - [Investment Gems](https://github.com/TAM-DS/investment-gems#application-screenshots) applies transparent momentum, volatility, and liquidity hurdles to a selected equity/ETF universe.
