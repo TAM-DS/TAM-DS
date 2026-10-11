@@ -27,6 +27,19 @@ Monster Light and Monster Desk remain supporting paper-boundary examples alongsi
 
 A recommendation is not permission. Approval is bound to the exact action. Current evidence is checked again at execution. If the control cannot be shown, the claim is not made.
 
+## Gradio dashboards: supply-chain and cybersecurity risk
+
+**Business risk crosses departments. The workflow should connect the pieces.**
+
+I use [Gradio](https://www.gradio.app/) to turn Python workflows into interactive interfaces that business reviewers can explore. Gradio's team [reported more than one million monthly developers in April 2025](https://huggingface.co/blog/gradio-1m), and its integration with Hugging Face Spaces supports rapid demonstration and sharing.
+
+[![Gradio GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio?style=flat&label=Gradio%20GitHub%20stars)](https://github.com/gradio-app/gradio)
+
+- **[BALLAST — Gradio supply-chain control tower](https://github.com/TAM-DS/ballast#see-the-two-scenarios):** energy shipping routes and Taiwan semiconductor dependencies make concentration, single-source exposure, and disruption visible. Operators compare baseline and what-if scenarios, inspect risk drivers, and explicitly approve disruptive mitigation simulations.
+- **[AEGIS Analyst — Gradio cybersecurity console](https://github.com/TAM-DS/aegis-analyst):** seeded security alerts become analyst briefs, ATT&CK mappings, and containment proposals. Host isolation requires explicit approval before the sandbox returns a simulated result. Its **[AEGIS Evidence companion](https://github.com/TAM-DS/aegis-evidence#see-the-workpaper)** uses Streamlit to expose control declarations, human acceptance, unresolved gaps, and verifiable evidence archives.
+
+Together, these workflows connect supplier resilience, energy exposure, semiconductor dependencies, security operations, and accountable decisions. The demonstrations use seeded or synthetic scenarios; mitigation and containment are simulated. The business value is making the risks, trade-offs, and authority boundaries inspectable before operational changes.
+
 ## Streamlit trading dashboards
 
 Three interactive local applications combine [Massive](https://massive.com/) historical daily market evidence, Python-calculated metrics, and bounded [CrewAI](https://crewai.com/) research. Structured claims are checked against the supplied evidence; interpretation still requires human review. Agents have no order tools. Only the paper floor records simulated fills, after explicit local confirmation and account checks.
