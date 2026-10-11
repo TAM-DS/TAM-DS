@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Capability is not authority. Tracy Anne Griffin Manning, AI Architect, Austin." width="100%">
+<img src="banner.svg" alt="Understand the workflow. Then build the AI. Tracy Anne Griffin Manning, AI Architect, Austin." width="100%">
 
 AI Architect · Austin, Texas · [Website](https://tam-ds.github.io/) · [Email](mailto:tmanning@post.harvard.edu) · [LinkedIn](https://www.linkedin.com/in/tracymanning) · [X](https://x.com/TAGM2025)
 
