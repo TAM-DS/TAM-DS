@@ -10,12 +10,12 @@ I design agentic systems where a model can propose and cannot grant itself permi
 
 | Order | Repository | Sector | What it Proves |
 | --- | --- | --- | --- |
-| 01 | [Agent Foundry](https://github.com/TAM-DS/agent-foundry) |Enterprise AI |Capability, identity, and runtime grants are separate. 399 tests. AWS DEV. |
+| 01 | [Agent Foundry](https://github.com/TAM-DS/agent-foundry) |Enterprise AI | Capability, identity, and runtime grants are separate. 399 tests. AWS DEV. |
 | 02 | [Monster Heavy](https://github.com/TAM-DS/monster-heavy) | Capital Markets| Durable paper execution survives retry, concurrency, and worker death. | 
 | 03 | [AI-Ready Data Platform](https://github.com/TAM-DS/ai-ready-data-platform) | Retail Analytics | Three specialists. Claims checked against bounded facts. | 
 | 04 | [Capital Markets Research desk](https://github.com/TAM-DS/capital-markets-research-desk) | Energy Trading | Massive historical evidence, fixed-rule holdout, and checked CrewAI research. | 
 | 05 | [Investment gems](https://github.com/TAM-DS/investment-gems) | Suggestion Engine | Explicit momentum, volatility, and liquidity hurdles; bounded CrewAI challenge. |
-| 06 | [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor) | Multi-Agent MCP| Local human confirmation, independent account checks, and persistent simulated fills.|
+| 06 | [Paper trading floor](https://github.com/TAM-DS/paper-trading-floor) | Multi-Agent MCP | Local human confirmation, independent account checks, and persistent simulated fills.|
 | 07 | [BALLAST](https://github.com/TAM-DS/ballast) | Supply-Chain | Explainable supply-chain risk, what-if shocks, and a disruptive-action approval gate. | 
 | 08 | [AEGIS Evidence](https://github.com/TAM-DS/aegis-evidence) | Cyber-Security | Replayable SOC assurance workpaper, human acceptance, open gaps, and SHA-256-verifiable archives. | 
 
