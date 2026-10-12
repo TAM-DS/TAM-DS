@@ -4,7 +4,7 @@ AI Architect · Austin, Texas · [Website](https://tam-ds.github.io/) · [Email]
 
 I design agentic systems where a model can propose and cannot grant itself permission. Financial services trained the consequence. Founding trained the ownership. The public repos are the parts a reviewer can inspect.
 
-**Current:** Founder, Apex AI|ML. **Prior:** Minotaur Consulting · Office of the CIO · Wall Street.
+**Current:** Founder, Apex AI|ML. **Prior:** Minotaur Consulting · Office of the CIO 
 
 ## Eight featured projects
 
