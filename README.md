@@ -1,10 +1,35 @@
 <img src="banner.svg" alt="Understand the workflow. Then build the AI. Tracy Anne Griffin Manning, AI Architect, Austin." width="100%">
 
-AI Architect · Austin, Texas · [Website](https://tam-ds.github.io/) · [Email](mailto:tmanning@post.harvard.edu) · [LinkedIn](https://www.linkedin.com/in/tracymanning) · [X](https://x.com/TAGM2025)
+AI Architect · Texas Triangle (San Antonio / Austin / Dallas–Fort Worth) · [Website](https://tam-ds.github.io/) · [Email](mailto:tmanning@post.harvard.edu) · [LinkedIn](https://www.linkedin.com/in/tracymanning) · [X](https://x.com/TAGM2025)
 
 I design agentic systems where a model can propose and cannot grant itself permission. Financial services trained the consequence. Founding trained the ownership. The public repos are the parts a reviewer can inspect.
 
 **Current:** Founder, Apex AI|ML. **Prior:** Minotaur Consulting · Office of the CIO 
+
+## Products built — intelligence is useful; accountable execution is the product
+
+**Three practical products. Three different business problems. One architectural rule: the model can propose; the system determines what is authorized.**
+
+| Product | The hook | What reviewers can verify |
+| --- | --- | --- |
+| **01 · [SignalDesk](https://github.com/TAM-DS/signaldesk)** | **What if AI could find the opportunity—but couldn't approve its own outreach?** | OpenAI-powered candidate discovery, source-linked findings, explicit human-review-to-SDR handoff, evidence holds, five live acquisition attempts per UTC day, simulated-only delivery. MIT-licensed v0.4 foundation with **108 local tests** and passing CI. *Commercially oriented architecture; not commercially validated or production SaaS.* |
+| **02 · [AI Governance Helper for HR](https://github.com/TAM-DS/ai-governance-app)** | **Your organization has an AI strategy. Who owns the AI already in use?** | Local Streamlit app for tool inventory, risk assessment, accountable ownership and summary views. v1.1 persists SQLite records; seven documented tests. Illustrative HR/governance workflow, not certified compliance or a production HR system. |
+| **03 · [GuardRails-MCP](https://github.com/TAM-DS/guardrails-mcp)** | **A prompt changed. What broke—and who has the evidence to decide?** | MIT-licensed local prompt-regression harness, bounded opt-in live comparison, evidence snapshots, four read-only/review-oriented local MCP tools, and human release authority. **[PyPI v0.1.1](https://pypi.org/project/guardrails-mcp/0.1.1/)** and [official MCP Registry listing](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.TAM-DS%2Fguardrails-mcp/versions/0.1.1) are published; registration is not certification. |
+
+**The operating pattern:** understand the workflow → bound the intelligence → require human authorization → verify current evidence → preserve the outcome. These are reference implementations, not claims of paying customers or enterprise production deployment.
+
+## The next technical frontier — planned, not shipped
+
+*Engineering explorations targeted at enterprise AI architecture and forward-deployed delivery; none are claimed as completed portfolio evidence.*
+
+- **Azure OpenAI / Azure AI model workflows:** multi-turn history, system/developer instructions, image understanding and OCR; compare model families and enforce data-handling, cost, and evaluation boundaries.
+- **Production SaaS architecture:** Next.js on Vercel, AWS App Runner, and Clerk authentication/user management; subscriptions, tenancy, and operational readiness would need independent implementation and security validation.
+- **Cross-cloud cybersecurity analyst:** prototype an MCP-connected analyst workflow on Azure and GCP with approval-gated actions and auditable evidence.
+- **Multi-agent orchestration:** compare coordination patterns, failure modes, tool permissions, context budgets, and human escalation before choosing a framework.
+- **Claude Code / agentic development lifecycle:** evaluate AI-assisted development with tests, source control, human review, and accountable delivery; also compare Codex and other coding harnesses.
+- **Linux system hardening:** reproducible baseline, least privilege, service lockdown, audit checks, rollback, and validation on a disposable test environment.
+
+**What I bring to client-facing AI delivery:** verifiable shipped code; Python, cloud architecture and MCP integration; bounded tool authority and model evaluation; founder-level ownership; and translation from an executive business problem to a reviewed technical decision. **No cloud production claims are implied for the planned items above.**
 
 ## Eight featured projects
 
