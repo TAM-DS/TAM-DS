@@ -75,6 +75,24 @@ demo.launch()
 
 Together, these workflows connect supplier resilience, energy exposure, semiconductor dependencies, security operations, and accountable decisions. The demonstrations use seeded or synthetic scenarios; mitigation and containment are simulated. The business value is making the risks, trade-offs, and authority boundaries inspectable before operational changes.
 
+## Run the visual demos locally
+
+**No hosted production systems are implied.** Install each repository's documented dependencies in its own virtual environment, then use the relevant local entry point.
+
+**Streamlit applications** (from a repository containing `app.py`, such as the AI Governance Helper or compatible dashboard):
+
+```bash
+python -m streamlit run app.py
+```
+
+If your Python environment is activated and `streamlit` is on PATH, the shorter command also works:
+
+```bash
+streamlit run app.py
+```
+
+**Gradio applications:** follow the relevant repository's documented startup command; BALLAST and AEGIS Analyst have their own entry points and workflow settings. See the READMEs for fixtures, optional API requirements, and safety limitations.
+
 ## Streamlit trading dashboards
 
 Three interactive local applications combine [Massive](https://massive.com/) historical daily market evidence, Python-calculated metrics, and bounded [CrewAI](https://crewai.com/) research. Structured claims are checked against the supplied evidence; interpretation still requires human review. Agents have no order tools. Only the paper floor records simulated fills, after explicit local confirmation and account checks.
