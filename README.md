@@ -103,10 +103,6 @@ Three interactive local applications combine [Massive](https://massive.com/) his
 
 Each repository includes screenshots, setup instructions, tests, and explicit limitations. Data are end-of-day historical observations; price returns exclude dividends. Energy equities and ETFs are proxies, not ERCOT power or Henry Hub spot feeds. There is no broker connection or real-money execution path. The original static fixture views remain documented as legacy examples.
 
-## What is not public
 
-**Evidence scope and confidentiality**
-
-Confidential client material is not published. Public FinOps repositories contain modeled scenarios with documented formulas and assumptions.
 
 
