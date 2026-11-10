@@ -21,17 +21,29 @@ If the control cannot be shown, the claim is not made.
 
 ---
 
-## Products — intelligence is useful; accountable execution is the product
+## Three flagship systems — business problems, governed execution, inspectable evidence
 
-Three practical systems. Three different business problems. One architectural constraint: **the model can propose; the system determines what is authorized.**
+Three different enterprise decisions. One architectural principle: **the model can propose; the system determines what is authorized.**
 
-| | Product | Hook | What a reviewer can verify |
+| | Flagship | Business problem | What a reviewer can verify |
 |---|---|---|---|
-| **01** | **[SignalDesk](https://github.com/TAM-DS/SignalDesk-Acquisition-Intelligence)** | What if AI could find the opportunity—but could not approve its own outreach? | OpenAI-powered candidate discovery, source-linked findings, explicit human-review → SDR handoff, evidence holds, rate-limited live attempts, simulated-only delivery. MIT v0.4 · **135 tests and 46 subtests** · passing CI. *Commercially oriented architecture; not a production SaaS.* |
-| **02** | **[VANGUARD-Guard](https://github.com/TAM-DS/VANGUARD-Guard)** | Your organization has an AI strategy. Who owns the AI already in use? | Local Streamlit app for tool inventory, risk assessment, accountable ownership, and summary views. SQLite persistence · documented tests. *Illustrative HR/governance workflow — not certified compliance.* |
-| **03** | **[GuardRails-MCP](https://github.com/TAM-DS/guardrails-mcp)** | A prompt changed. What broke—and who has the evidence to decide? | Local prompt-regression harness, bounded live comparison, evidence snapshots, four read-only MCP tools, human release authority. **[PyPI v0.1.1](https://pypi.org/project/guardrails-mcp/)** · [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.TAM-DS%2Fguardrails-mcp/versions/0.1.1). *Registration is not certification.* |
+| **01** | **[SignalDesk — AI-assisted lead intelligence](https://github.com/TAM-DS/SignalDesk-Acquisition-Intelligence)** | How can sales teams investigate opportunities without letting AI authorize outreach or bypass CRM opt-outs? | Bounded OpenAI research, source-linked findings, per-lead review, Salesforce **GET-only** preview with opt-out/deletion checks, fail-closed restrictions, no automated CRM writes or outreach. **135 tests and 46 subtests passed; lint passed.** *Developer-org and simulated-HTTP evidence; not a production CRM rollout or proven revenue uplift.* |
+| **02** | **[AEGIS-NHI — cyber risk and AI infrastructure economics](https://github.com/TAM-DS/AEGIS-NHI)** | How can risk and finance leaders see what warrants investigation, what was blocked, and what remains uncertain? | Deterministic investigation logic, evidence-linked findings, modeled financial exposure, executive dashboard, and human-reviewed recommendations. Scenarios distinguish **one executed unregistered-tool request** from **two blocked attempts**; authenticity, evidence gaps, and actual harm remain uncertain. *Synthetic reference scenarios, not live bank monitoring, autonomous remediation, or verified prevented losses.* |
+| **03** | **[VANGUARD-Guard — AI governance workbench](https://github.com/TAM-DS/VANGUARD-Guard)** | Who owns the AI in use, how is risk assessed, and what evidence supports accountable decisions? | Local-first Streamlit/SQLite workbench for inventory, risk assessment, ownership, and review workflows with documented checks. *Illustrative governance tooling; not certified compliance, automated bias certification, or enterprise-enforced authorization.* |
 
-**Operating pattern:** understand the workflow → bound the intelligence → require human authorization → verify current evidence → preserve the outcome.
+**Shared architecture:** understand the workflow → define the business decision → bound model and tool authority → verify evidence → require accountable human approval.
+
+**Additional engineering proof:** [GuardRails-MCP](https://github.com/TAM-DS/guardrails-mcp) demonstrates prompt-regression testing, evidence snapshots, read-only MCP tools, and human release authority. [PyPI package](https://pypi.org/project/guardrails-mcp/) · [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.TAM-DS%2Fguardrails-mcp/versions/0.1.1). *Publishing and registration are not certification.*
+
+---
+
+## Multi-model engineering & runtime architecture
+
+**The model is a component. The architecture is the product.**
+
+I assess OpenAI GPT/Codex, Anthropic Claude, Google Gemini, and xAI Grok according to workload fit: reasoning and structured output, code and tool-use workflows, context requirements, retrieval, latency, cost, and failure behavior. **Model evaluation is not the same as a deployed four-provider orchestration layer.**
+
+The governing design principle remains independent of provider: **explicit tool grants, deterministic policy checks, source-linked evidence, bounded execution, and human accountability.** See [SignalDesk](https://github.com/TAM-DS/SignalDesk-Acquisition-Intelligence), [AEGIS-NHI](https://github.com/TAM-DS/AEGIS-NHI), and [Agent Foundry](https://github.com/TAM-DS/agent-foundry) for inspectable examples of these boundaries.
 
 ---
 
