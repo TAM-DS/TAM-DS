@@ -27,11 +27,23 @@ Three practical systems. Three different business problems. One architectural co
 
 | | Product | Hook | What a reviewer can verify |
 |---|---|---|---|
-| **01** | **[SignalDesk](https://github.com/TAM-DS/SignalDesk-Acquisition-Intelligence)** | What if AI could find the opportunity—but could not approve its own outreach? | OpenAI-powered candidate discovery, source-linked findings, explicit human-review → SDR handoff, evidence holds, rate-limited live attempts, simulated-only delivery. MIT v0.4 · **108 local tests** · passing CI. *Commercially oriented architecture; not a production SaaS.* |
-| **02** | **[AI Governance Helper for HR](https://github.com/TAM-DS/ai-governance-app)** | Your organization has an AI strategy. Who owns the AI already in use? | Local Streamlit app for tool inventory, risk assessment, accountable ownership, and summary views. SQLite persistence · documented tests. *Illustrative HR/governance workflow — not certified compliance.* |
+| **01** | **[SignalDesk](https://github.com/TAM-DS/SignalDesk-Acquisition-Intelligence)** | What if AI could find the opportunity—but could not approve its own outreach? | OpenAI-powered candidate discovery, source-linked findings, explicit human-review → SDR handoff, evidence holds, rate-limited live attempts, simulated-only delivery. MIT v0.4 · **135 tests and 46 subtests** · passing CI. *Commercially oriented architecture; not a production SaaS.* |
+| **02** | **[VANGUARD-Guard](https://github.com/TAM-DS/VANGUARD-Guard)** | Your organization has an AI strategy. Who owns the AI already in use? | Local Streamlit app for tool inventory, risk assessment, accountable ownership, and summary views. SQLite persistence · documented tests. *Illustrative HR/governance workflow — not certified compliance.* |
 | **03** | **[GuardRails-MCP](https://github.com/TAM-DS/guardrails-mcp)** | A prompt changed. What broke—and who has the evidence to decide? | Local prompt-regression harness, bounded live comparison, evidence snapshots, four read-only MCP tools, human release authority. **[PyPI v0.1.1](https://pypi.org/project/guardrails-mcp/)** · [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.TAM-DS%2Fguardrails-mcp/versions/0.1.1). *Registration is not certification.* |
 
 **Operating pattern:** understand the workflow → bound the intelligence → require human authorization → verify current evidence → preserve the outcome.
+
+---
+
+## Open-source reference engineering
+
+**XERJ Corpus Hub selection (2026) — SignalDesk Salesforce GET-only integration**
+
+The XERJ team selected a bounded Salesforce GET-only preview implementation from [SignalDesk](https://github.com/TAM-DS/SignalDesk-Acquisition-Intelligence) for inclusion in its public code-reference corpus. The selected work focuses on validation, fail-closed behavior, opt-out checks, and deterministic restrictions around enterprise API access.
+
+**Engineering lesson:** The model may propose; the system determines what is authorized.
+
+*Selection for indexing is external recognition of an implementation—not certification, formal peer review, a universal reference standard, proof of agent adoption, or measured token savings. A direct corpus citation can be added when publicly verified.*
 
 ---
 
@@ -86,6 +98,8 @@ python -m streamlit run app.py
 ---
 
 ## What I bring
+
+**Enterprise AI implementation & delivery · C-suite advisory · agentic AI architecture & governance · technical pre-sales.**
 
 Verifiable shipped code. Python, cloud architecture, and MCP integration. Bounded tool authority and model evaluation. Founder-level ownership. Translation from an executive business problem to a reviewed technical decision.
 
