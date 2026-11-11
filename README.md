@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Understand the workflow. Then build the AI. Tracy Anne Griffin Manning, AI Architect, Austin." width="100%">
+<img src="banner.svg" alt="Understand the workflow. Then build the AI. Tracy Anne Griffin Manning, AI Architect | Enterprise AI Implementation & Delivery | C-Suite Advisory | Multi-Agent Architecture & Governance, Austin." width="100%">
 
 **AI Architect** · Texas Triangle (San Antonio / Austin / Dallas–Fort Worth)  
 [Website](https://tam-ds.github.io/) · [Email](mailto:tmanning@post.harvard.edu) · [LinkedIn](https://www.linkedin.com/in/tracymanning) · [X](https://x.com/TAGM2025)
