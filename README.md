@@ -3,37 +3,60 @@
 **AI Architect** · Texas Triangle (San Antonio / Austin / Dallas–Fort Worth)  
 [Website](https://tam-ds.github.io/) · [Email](mailto:tmanning@post.harvard.edu) · [LinkedIn](https://www.linkedin.com/in/tracymanning) · [X](https://x.com/TAGM2025)
 
-I design agentic systems where a model can propose and cannot grant itself permission.  
-Financial services trained the consequence. Founding trained the ownership.  
-The public repositories are the parts a reviewer can inspect.
+I build enterprise AI for decisions where money, risk, and accountability matter—connecting financial-services experience with AI architecture, infrastructure economics, and controlled execution.
 
 **Current:** Founder, Apex AI|ML  
 **Prior:** Minotaur Consulting · Office of the CIO · Wall Street
 
 ---
 
-## The rule
+## What I bring — three areas of impact
 
-A recommendation is not permission.  
-Approval is bound to the exact action.  
-Current evidence is checked again at execution.  
-If the control cannot be shown, the claim is not made.
+Business value first. Inspectable engineering behind every claim.
 
----
+### 01 / AI Strategy & Infrastructure Economics
 
-## Three flagship systems — business problems, governed execution, inspectable evidence
+**Make the economics inspectable.** Translate AI architecture into cost, performance, and risk trade-offs that executives can evaluate before committing capital.
 
-Three different enterprise decisions. One architectural principle: **the model can propose; the system determines what is authorized.**
+- **[AI-Ready Data Platform](https://github.com/TAM-DS/ai-ready-data-platform)** — Bounded business claims and deterministic reconciliation.
+- **[FinOps for M&A Infrastructure DD](https://github.com/TAM-DS/Infrastructure_Deal_Room-FinOps-M_and_A)** — Infrastructure diligence, remediation costs, and financial sensitivity.
+- **[AI Infrastructure Intelligence](https://github.com/TAM-DS/AI_Infra_Command_Tower-FinOps)** — Multi-cloud spend, GPU costs, and optimization scenarios.
 
-| | Flagship | Business problem | What a reviewer can verify |
-|---|---|---|---|
-| **01** | **[SignalDesk — AI-assisted lead intelligence](https://github.com/TAM-DS/SignalDesk-Acquisition-Intelligence)** | How can sales teams investigate opportunities without letting AI authorize outreach or bypass CRM opt-outs? | Bounded OpenAI research, source-linked findings, per-lead review, Salesforce **GET-only** preview with opt-out/deletion checks, fail-closed restrictions, no automated CRM writes or outreach. **135 tests and 46 subtests passed; lint passed.** *Developer-org and simulated-HTTP evidence; not a production CRM rollout or proven revenue uplift.* |
-| **02** | **[AEGIS-NHI — cyber risk and AI infrastructure economics](https://github.com/TAM-DS/AEGIS-NHI)** | How can risk and finance leaders see what warrants investigation, what was blocked, and what remains uncertain? | Deterministic investigation logic, evidence-linked findings, modeled financial exposure, executive dashboard, and human-reviewed recommendations. Scenarios distinguish **one executed unregistered-tool request** from **two blocked attempts**; authenticity, evidence gaps, and actual harm remain uncertain. *Synthetic reference scenarios, not live bank monitoring, autonomous remediation, or verified prevented losses.* |
-| **03** | **[VANGUARD-Guard — AI governance workbench](https://github.com/TAM-DS/VANGUARD-Guard)** | Who owns the AI in use, how is risk assessed, and what evidence supports accountable decisions? | Local-first Streamlit/SQLite workbench for inventory, risk assessment, ownership, and review workflows with documented checks. *Illustrative governance tooling; not certified compliance, automated bias certification, or enterprise-enforced authorization.* |
+**Evidence:** [Review the financial assumptions](https://github.com/TAM-DS/Infrastructure_Deal_Room-FinOps-M_and_A/blob/main/docs/ASSUMPTIONS.md).  
+*Published FinOps figures are synthetic and modeled; career outcomes are separate.*
 
-**Shared architecture:** understand the workflow → define the business decision → bound model and tool authority → verify evidence → require accountable human approval.
+### 02 / AI Governance, Cyber Risk & Audit Evidence
 
-**Additional engineering proof:** [GuardRails-MCP](https://github.com/TAM-DS/guardrails-mcp) demonstrates prompt-regression testing, evidence snapshots, read-only MCP tools, and human release authority. [PyPI package](https://pypi.org/project/guardrails-mcp/) · [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.TAM-DS%2Fguardrails-mcp/versions/0.1.1). *Publishing and registration are not certification.*
+**Make accountability visible.** Build explicit authorization boundaries, accountable ownership, and traceable evidence for human review.
+
+- **[VANGUARD-Guard](https://github.com/TAM-DS/VANGUARD-Guard)** — AI inventory, risk assessment, and ownership workflows.
+- **[AEGIS-NHI](https://github.com/TAM-DS/AEGIS-NHI)** — Connected investigations and modeled financial exposure.
+- **[AEGIS Evidence](https://github.com/TAM-DS/aegis-evidence)** — Replayable workpapers and SHA-256-verifiable archives.
+- **[GuardRails-MCP](https://github.com/TAM-DS/guardrails-mcp)** — Prompt-regression checks and human release-review evidence.
+
+**Evidence:** [Inspect an evidence-linked decision brief](https://github.com/TAM-DS/AEGIS-NHI/blob/main/docs/CONNECTED_INVESTIGATION.md#evidence-linked-decision-brief).  
+*Reference workflows and synthetic cases; framework mappings are not certification.*
+
+### 03 / Capital Markets, Energy & Reliable Execution
+
+**Keep research and execution accountable.** Connect financial and operational context with research tools, supply-chain decision support, and controlled execution.
+
+- **[Capital Markets Research Desk](https://github.com/TAM-DS/capital-markets-research-desk)** — Historical research and fixed-rule holdout evaluation.
+- **[Energy Equity Investment Gems](https://github.com/TAM-DS/energy-equity-investment-gems)** — Explicit momentum, volatility, and liquidity screening.
+- **[BALLAST](https://github.com/TAM-DS/ballast)** — Energy-route and semiconductor supply-chain scenarios.
+- **[Monster Heavy](https://github.com/TAM-DS/monster-heavy)** — Governed paper execution, retries, concurrency, and recovery.
+- **[Paper Trading Floor](https://github.com/TAM-DS/paper-trading-floor)** — Persistent paper ledger with cash checks and replay protection.
+
+**Evidence:** [Inspect worker-recovery and retry tests](https://github.com/TAM-DS/monster-heavy/blob/main/tests/integration/test_recovery_release.py).  
+*Historical research and simulated execution; no live trading or investment-return claims.*
+
+### Enterprise integration in practice
+
+**[SignalDesk](https://github.com/TAM-DS/SignalDesk-Acquisition-Intelligence)** connects evidence-linked sales research with bounded, read-only Salesforce access, opt-out checks, and human-authorized outreach decisions. Its Salesforce GET-only implementation was selected by the XERJ team for its public code-reference corpus. Developer-org and simulated-HTTP evidence; no automated CRM writes or outreach.
+
+**Prior career outcomes:** $1.2M+ annual cloud savings · 70% less manual reporting · platforms supporting 10,000+ daily users. These are professional-history outcomes, separate from portfolio simulations.
+
+**Operating principle:** The model can propose. The system determines what is authorized.
 
 ---
 
@@ -59,22 +82,9 @@ The XERJ team selected a bounded Salesforce GET-only preview implementation from
 
 ---
 
-## Featured technical work
+## Supporting engineering depth
 
-Depth in governed AI and breadth across capital markets, energy, supply chain, and cybersecurity assurance.
-
-| | Repository | Sector | What it proves |
-|---|---|---|---|
-| **01** | **[Agent Foundry](https://github.com/TAM-DS/agent-foundry)** | Enterprise AI | Capability, identity, and runtime grants are separate. 399 tests. AWS DEV. |
-| **02** | **[Monster Heavy](https://github.com/TAM-DS/monster-heavy)** | Capital Markets | Durable paper execution survives retry, concurrency, and worker death. |
-| **03** | **[AI-Ready Data Platform](https://github.com/TAM-DS/ai-ready-data-platform)** | Retail / Analytics | Multi-agent chain where claims are checked against bounded facts before they become enterprise truth. |
-| **04** | **[Capital Markets Research Desk](https://github.com/TAM-DS/capital-markets-research-desk)** | Energy Trading | Historical evidence + fixed-rule holdout + skeptical CrewAI research brief. |
-| **05** | **[Energy Equity Investment Gems](https://github.com/TAM-DS/energy-equity-investment-gems)** | Screening | Explicit momentum, volatility, and liquidity hurdles; bounded agent challenge. |
-| **06** | **[Paper Trading Floor](https://github.com/TAM-DS/paper-trading-floor)** | Multi-Agent + MCP | Agents only propose; local ledger validates cash, risk limits, and replay protection. |
-| **07** | **[BALLAST](https://github.com/TAM-DS/ballast)** | Supply Chain | Explainable risk, what-if shocks, and a disruptive-action approval gate (Gradio). |
-| **08** | **[AEGIS Evidence](https://github.com/TAM-DS/aegis-evidence)** | Cybersecurity | Replayable assurance workpaper, human acceptance, open gaps, SHA-256-verifiable archives. |
-
-Supporting boundary examples: [Monster Desk](https://github.com/TAM-DS/monster-desk), [Monster Light](https://github.com/TAM-DS/monster-light-v0.1-v0.2), [AEGIS Analyst](https://github.com/TAM-DS/aegis-analyst).
+[Agent Foundry](https://github.com/TAM-DS/agent-foundry) separates capability, identity, and runtime grants, with a documented AWS DEV proof. Supporting boundary examples include [Monster Desk](https://github.com/TAM-DS/monster-desk), [Monster Light](https://github.com/TAM-DS/monster-light-v0.1-v0.2), and [AEGIS Analyst](https://github.com/TAM-DS/aegis-analyst).
 
 ---
 
@@ -84,8 +94,8 @@ Supporting boundary examples: [Monster Desk](https://github.com/TAM-DS/monster-d
 |---|---|
 | **[Databricks AI-Ready Lakehouse](https://github.com/TAM-DS/databricks-ai-ready-lakehouse)** | Governed Spark / PySpark pipelines, Unity Catalog, Delta Lake, read-only MCP boundaries |
 | **[Idempotent Data Engineering Foundation](https://github.com/TAM-DS/Idempotent-Data-Engineering-Foundation-System)** | One-command path from raw CSV to market intelligence with true idempotency |
-| **[FinOps for M&A Infrastructure DD](https://github.com/TAM-DS/FinOps-for-M-A-Infrastructure-Due-Diligence-Dashboard)** | Modeled multi-cloud infrastructure risk scenarios (illustrative savings, not a client result) |
-| **[AI Infrastructure Intelligence](https://github.com/TAM-DS/AI-Infrastructure-Intelligence-Platform)** | Modeled multi-cloud GPU cost scenarios |
+| **[FinOps for M&A Infrastructure DD](https://github.com/TAM-DS/Infrastructure_Deal_Room-FinOps-M_and_A)** | Modeled multi-cloud infrastructure risk scenarios (illustrative savings, not a client result) |
+| **[AI Infrastructure Intelligence](https://github.com/TAM-DS/AI_Infra_Command_Tower-FinOps)** | Modeled multi-cloud GPU cost scenarios |
 
 ---
 
@@ -116,3 +126,4 @@ python -m streamlit run app.py
 Verifiable shipped code. Python, cloud architecture, and MCP integration. Bounded tool authority and model evaluation. Founder-level ownership. Translation from an executive business problem to a reviewed technical decision.
 
 These are reference implementations. They demonstrate architecture and controls a reviewer can inspect—not claims of paying customers or enterprise production deployment.
+
