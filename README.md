@@ -1,6 +1,7 @@
 <img src="banner.svg" alt="Understand the workflow. Then build the AI. Tracy Anne Griffin Manning, AI Architect | Enterprise AI Implementation & Delivery | C-Suite Advisory | Multi-Agent Architecture & Governance, Austin." width="100%">
 
-**AI Architect** · Texas Triangle (San Antonio / Austin / Dallas–Fort Worth)  
+**AI Architect**  
+Based in Austin; open to San Antonio, Dallas–Fort Worth, and Houston; in-office or hybrid; open to meaningful business travel.  
 [Website](https://tam-ds.github.io/) · [Email](mailto:tmanning@post.harvard.edu) · [LinkedIn](https://www.linkedin.com/in/tracymanning) · [X](https://x.com/TAGM2025)
 
 I build enterprise AI for decisions where money, risk, and accountability matter—connecting financial-services experience with AI architecture, infrastructure economics, and controlled execution.
