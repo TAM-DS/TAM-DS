@@ -100,9 +100,15 @@ The XERJ team selected a bounded Salesforce GET-only preview implementation from
 
 ---
 
-## Interactive demos (local only)
+## Try a demo
 
-No hosted production systems are implied. Each repository documents its own dependencies and entry points.
+**[Open the interactive BALLAST walkthrough](https://tam-ds.github.io/demo.html)** — no login, installation, or API key. Compare synthetic energy and semiconductor scenarios and replay denied versus approved mitigation outcomes.
+
+This hosted browser walkthrough uses precomputed results from the Python engine. It is not a hosted Python backend, authenticated approval service, or live trading system. [Inspect the exporter](https://github.com/TAM-DS/ballast/blob/main/scripts/export_demo.py) and [CI results](https://github.com/TAM-DS/ballast/actions/workflows/ci.yml).
+
+### Run the full applications locally
+
+Each repository documents its dependencies and entry points.
 
 **Gradio**
 - [BALLAST](https://github.com/TAM-DS/ballast) — supply-chain control tower (energy routes, semiconductor concentration, approval-gated mitigation)
@@ -127,4 +133,5 @@ python -m streamlit run app.py
 Verifiable shipped code. Python, cloud architecture, and MCP integration. Bounded tool authority and model evaluation. Founder-level ownership. Translation from an executive business problem to a reviewed technical decision.
 
 These are reference implementations. They demonstrate architecture and controls a reviewer can inspect—not claims of paying customers or enterprise production deployment.
+
 
