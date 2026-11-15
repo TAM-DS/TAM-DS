@@ -11,6 +11,18 @@ I build enterprise AI for decisions where money, risk, and accountability matter
 
 ---
 
+## Featured — FirstSync: governed customer onboarding, deployed
+
+**[FirstSync](https://github.com/TAM-DS/firstsync)** · **[live demo](https://firstsync-demo.fly.dev)** — no login or API key
+
+An AI agent that onboards a new customer's Salesforce data into a B2B product. Claude inspects the org and proposes every field mapping; a deterministic dry-run shows exactly what would load before anything is written; a person approves — and approval binds to a hash of the proposal, so a later change invalidates it.
+
+The clearest expression of the operating principle this profile is built on, applied to a problem I first met in 2014 leading a third-party risk onboarding delivery — where the technology was never the hard part; coordination was. On a held-out org the prompt was never tuned against, the mapping scored 29/29 with perfectly calibrated questions.
+
+*Reference implementation with no customers; the demo runs on precomputed model proposals, so it needs no API key.*
+
+---
+
 ## What I bring — three areas of impact
 
 Business value first. Inspectable engineering behind every claim.
@@ -61,6 +73,19 @@ Business value first. Inspectable engineering behind every claim.
 
 ---
 
+## Data & platform foundations
+
+**Multi-cloud (AWS, GCP) and Databricks lakehouse engineering** — governed data pipelines, Unity Catalog, and infrastructure economics an executive can inspect.
+
+| Repository | Focus |
+|---|---|
+| **[Databricks AI-Ready Lakehouse](https://github.com/TAM-DS/databricks-ai-ready-lakehouse)** | Governed Spark / PySpark pipelines, Unity Catalog, Delta Lake, read-only MCP boundaries |
+| **[Idempotent Data Engineering Foundation](https://github.com/TAM-DS/Idempotent-Data-Engineering-Foundation-System)** | One-command path from raw CSV to market intelligence with true idempotency |
+| **[FinOps for M&A Infrastructure DD](https://github.com/TAM-DS/Infrastructure_Deal_Room-FinOps-M_and_A)** | Modeled multi-cloud infrastructure risk scenarios (illustrative savings, not a client result) |
+| **[AI Infrastructure Intelligence](https://github.com/TAM-DS/AI_Infra_Command_Tower-FinOps)** | Modeled multi-cloud GPU cost scenarios |
+
+---
+
 ## Multi-model engineering & runtime architecture
 
 **The model is a component. The architecture is the product.**
@@ -86,17 +111,6 @@ The XERJ team selected a bounded Salesforce GET-only preview implementation from
 ## Supporting engineering depth
 
 [Agent Foundry](https://github.com/TAM-DS/agent-foundry) separates capability, identity, and runtime grants, with a documented AWS DEV proof. Supporting boundary examples include [Monster Desk](https://github.com/TAM-DS/monster-desk), [Monster Light](https://github.com/TAM-DS/monster-light-v0.1-v0.2), and [AEGIS Analyst](https://github.com/TAM-DS/aegis-analyst).
-
----
-
-## Data & platform foundations
-
-| Repository | Focus |
-|---|---|
-| **[Databricks AI-Ready Lakehouse](https://github.com/TAM-DS/databricks-ai-ready-lakehouse)** | Governed Spark / PySpark pipelines, Unity Catalog, Delta Lake, read-only MCP boundaries |
-| **[Idempotent Data Engineering Foundation](https://github.com/TAM-DS/Idempotent-Data-Engineering-Foundation-System)** | One-command path from raw CSV to market intelligence with true idempotency |
-| **[FinOps for M&A Infrastructure DD](https://github.com/TAM-DS/Infrastructure_Deal_Room-FinOps-M_and_A)** | Modeled multi-cloud infrastructure risk scenarios (illustrative savings, not a client result) |
-| **[AI Infrastructure Intelligence](https://github.com/TAM-DS/AI_Infra_Command_Tower-FinOps)** | Modeled multi-cloud GPU cost scenarios |
 
 ---
 
