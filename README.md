@@ -67,7 +67,7 @@ Business value first. Inspectable engineering behind every claim.
 
 **[SignalDesk](https://github.com/TAM-DS/signaldesk-acquisition-intelligence)** connects evidence-linked sales research with bounded, read-only Salesforce access, opt-out checks, and human-authorized outreach decisions. Its Salesforce GET-only implementation was selected by the XERJ team for its public code-reference corpus. Developer-org and simulated-HTTP evidence; no automated CRM writes or outreach.
 
-**Prior career outcomes:** $1.2M+ annual cloud savings · 70% less manual reporting · platforms supporting 10,000+ daily users. These are professional-history outcomes, separate from portfolio simulations.
+**Prior career outcomes:** $1.2M+ annual cloud savings · 30% less manual reporting · platforms supporting 10,000+ daily users. These are professional-history outcomes, separate from portfolio simulations.
 
 **Operating principle:** The model can propose. The system determines what is authorized.
 
