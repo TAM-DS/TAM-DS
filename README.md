@@ -32,22 +32,22 @@ Business value first. Inspectable engineering behind every claim.
 **Make the economics inspectable.** Translate AI architecture into cost, performance, and risk trade-offs that executives can evaluate before committing capital.
 
 - **[AI-Ready Data Platform](https://github.com/TAM-DS/ai-ready-data-platform)** — Bounded business claims and deterministic reconciliation.
-- **[FinOps for M&A Infrastructure DD](https://github.com/TAM-DS/Infrastructure_Deal_Room-FinOps-M_and_A)** — Infrastructure diligence, remediation costs, and financial sensitivity.
-- **[AI Infrastructure Intelligence](https://github.com/TAM-DS/AI_Infra_Command_Tower-FinOps)** — Multi-cloud spend, GPU costs, and optimization scenarios.
+- **[FinOps for M&A Infrastructure DD](https://github.com/TAM-DS/infra-deal-room-finops)** — Infrastructure diligence, remediation costs, and financial sensitivity.
+- **[AI Infrastructure Intelligence](https://github.com/TAM-DS/ai-infra-command-tower-finops)** — Multi-cloud spend, GPU costs, and optimization scenarios.
 
-**Evidence:** [Review the financial assumptions](https://github.com/TAM-DS/Infrastructure_Deal_Room-FinOps-M_and_A/blob/main/docs/ASSUMPTIONS.md).  
+**Evidence:** [Review the financial assumptions](https://github.com/TAM-DS/infra-deal-room-finops/blob/main/docs/ASSUMPTIONS.md).  
 *Published FinOps figures are synthetic and modeled; career outcomes are separate.*
 
 ### 02 / AI Governance, Cyber Risk & Audit Evidence
 
 **Make accountability visible.** Build explicit authorization boundaries, accountable ownership, and traceable evidence for human review.
 
-- **[VANGUARD-Guard](https://github.com/TAM-DS/VANGUARD-Guard)** — AI inventory, risk assessment, and ownership workflows.
-- **[AEGIS-NHI](https://github.com/TAM-DS/AEGIS-NHI)** — Connected investigations and modeled financial exposure.
+- **[VANGUARD-Guard](https://github.com/TAM-DS/vanguard-guard)** — AI inventory, risk assessment, and ownership workflows.
+- **[AEGIS-NHI](https://github.com/TAM-DS/aegis-nhi)** — Connected investigations and modeled financial exposure.
 - **[AEGIS Evidence](https://github.com/TAM-DS/aegis-evidence)** — Replayable workpapers and SHA-256-verifiable archives.
 - **[GuardRails-MCP](https://github.com/TAM-DS/guardrails-mcp)** — Prompt-regression checks and human release-review evidence.
 
-**Evidence:** [Inspect an evidence-linked decision brief](https://github.com/TAM-DS/AEGIS-NHI/blob/main/docs/CONNECTED_INVESTIGATION.md#evidence-linked-decision-brief).  
+**Evidence:** [Inspect an evidence-linked decision brief](https://github.com/TAM-DS/aegis-nhi/blob/main/docs/CONNECTED_INVESTIGATION.md#evidence-linked-decision-brief).  
 *Reference workflows and synthetic cases; framework mappings are not certification.*
 
 ### 03 / Capital Markets, Energy & Reliable Execution
@@ -65,7 +65,7 @@ Business value first. Inspectable engineering behind every claim.
 
 ### Enterprise integration in practice
 
-**[SignalDesk](https://github.com/TAM-DS/SignalDesk-Acquisition-Intelligence)** connects evidence-linked sales research with bounded, read-only Salesforce access, opt-out checks, and human-authorized outreach decisions. Its Salesforce GET-only implementation was selected by the XERJ team for its public code-reference corpus. Developer-org and simulated-HTTP evidence; no automated CRM writes or outreach.
+**[SignalDesk](https://github.com/TAM-DS/signaldesk-acquisition-intelligence)** connects evidence-linked sales research with bounded, read-only Salesforce access, opt-out checks, and human-authorized outreach decisions. Its Salesforce GET-only implementation was selected by the XERJ team for its public code-reference corpus. Developer-org and simulated-HTTP evidence; no automated CRM writes or outreach.
 
 **Prior career outcomes:** $1.2M+ annual cloud savings · 70% less manual reporting · platforms supporting 10,000+ daily users. These are professional-history outcomes, separate from portfolio simulations.
 
@@ -80,9 +80,9 @@ Business value first. Inspectable engineering behind every claim.
 | Repository | Focus |
 |---|---|
 | **[Databricks AI-Ready Lakehouse](https://github.com/TAM-DS/databricks-ai-ready-lakehouse)** | Governed Spark / PySpark pipelines, Unity Catalog, Delta Lake, read-only MCP boundaries |
-| **[Idempotent Data Engineering Foundation](https://github.com/TAM-DS/Idempotent-Data-Engineering-Foundation-System)** | One-command path from raw CSV to market intelligence with true idempotency |
-| **[FinOps for M&A Infrastructure DD](https://github.com/TAM-DS/Infrastructure_Deal_Room-FinOps-M_and_A)** | Modeled multi-cloud infrastructure risk scenarios (illustrative savings, not a client result) |
-| **[AI Infrastructure Intelligence](https://github.com/TAM-DS/AI_Infra_Command_Tower-FinOps)** | Modeled multi-cloud GPU cost scenarios |
+| **[Idempotent Data Engineering Foundation](https://github.com/TAM-DS/idempotent-data-engineering)** | One-command path from raw CSV to market intelligence with true idempotency |
+| **[FinOps for M&A Infrastructure DD](https://github.com/TAM-DS/infra-deal-room-finops)** | Modeled multi-cloud infrastructure risk scenarios (illustrative savings, not a client result) |
+| **[AI Infrastructure Intelligence](https://github.com/TAM-DS/ai-infra-command-tower-finops)** | Modeled multi-cloud GPU cost scenarios |
 
 ---
 
@@ -92,7 +92,7 @@ Business value first. Inspectable engineering behind every claim.
 
 I assess OpenAI GPT/Codex, Anthropic Claude, Google Gemini, and xAI Grok according to workload fit: reasoning and structured output, code and tool-use workflows, context requirements, retrieval, latency, cost, and failure behavior. **Model evaluation is not the same as a deployed four-provider orchestration layer.**
 
-The governing design principle remains independent of provider: **explicit tool grants, deterministic policy checks, source-linked evidence, bounded execution, and human accountability.** See [SignalDesk](https://github.com/TAM-DS/SignalDesk-Acquisition-Intelligence), [AEGIS-NHI](https://github.com/TAM-DS/AEGIS-NHI), and [Agent Foundry](https://github.com/TAM-DS/agent-foundry) for inspectable examples of these boundaries.
+The governing design principle remains independent of provider: **explicit tool grants, deterministic policy checks, source-linked evidence, bounded execution, and human accountability.** See [SignalDesk](https://github.com/TAM-DS/signaldesk-acquisition-intelligence), [AEGIS-NHI](https://github.com/TAM-DS/aegis-nhi), and [Agent Foundry](https://github.com/TAM-DS/agent-foundry) for inspectable examples of these boundaries.
 
 ---
 
@@ -100,7 +100,7 @@ The governing design principle remains independent of provider: **explicit tool 
 
 **XERJ Corpus Hub selection (2026) — SignalDesk Salesforce GET-only integration**
 
-The XERJ team selected a bounded Salesforce GET-only preview implementation from [SignalDesk](https://github.com/TAM-DS/SignalDesk-Acquisition-Intelligence) for inclusion in its public code-reference corpus. The selected work focuses on validation, fail-closed behavior, opt-out checks, and deterministic restrictions around enterprise API access.
+The XERJ team selected a bounded Salesforce GET-only preview implementation from [SignalDesk](https://github.com/TAM-DS/signaldesk-acquisition-intelligence) for inclusion in its public code-reference corpus. The selected work focuses on validation, fail-closed behavior, opt-out checks, and deterministic restrictions around enterprise API access.
 
 **Engineering lesson:** The model may propose; the system determines what is authorized.
 
@@ -110,7 +110,7 @@ The XERJ team selected a bounded Salesforce GET-only preview implementation from
 
 ## Supporting engineering depth
 
-[Agent Foundry](https://github.com/TAM-DS/agent-foundry) separates capability, identity, and runtime grants, with a documented AWS DEV proof. Supporting boundary examples include [Monster Desk](https://github.com/TAM-DS/monster-desk), [Monster Light](https://github.com/TAM-DS/monster-light-v0.1-v0.2), and [AEGIS Analyst](https://github.com/TAM-DS/aegis-analyst).
+[Agent Foundry](https://github.com/TAM-DS/agent-foundry) separates capability, identity, and runtime grants, with a documented AWS DEV proof. Supporting boundary examples include [Monster Desk](https://github.com/TAM-DS/monster-desk), [Monster Light](https://github.com/TAM-DS/monster-light), and [AEGIS Analyst](https://github.com/TAM-DS/aegis-analyst).
 
 ---
 
