@@ -1,6 +1,6 @@
-<img src="banner.svg" alt="Understand the workflow. Then build the AI. Tracy Anne Griffin Manning, AI Architect | Enterprise AI Implementation & Delivery | C-Suite Advisory | Multi-Agent Architecture & Governance, Austin." width="100%">
+<img src="banner.svg" alt="Tracy Anne Griffin Manning. AI Solutions Engineering &amp; Technical Sales | Enterprise Discovery to Deployment | Advisory &amp; Governance | Business Value First. Understand the workflow. Then build the AI." width="100%">
 
-**AI Architect**  
+**AI Solutions Engineering & Technical Sales | Enterprise Discovery to Deployment | Advisory & Governance | Business Value First**  
 Based in Austin; open to San Antonio, Dallas–Fort Worth, and Houston; in-office or hybrid; open to meaningful business travel.  
 [Website](https://tam-ds.github.io/) · [Email](mailto:tmanning@post.harvard.edu) · [LinkedIn](https://www.linkedin.com/in/tracymanning) · [X](https://x.com/TAGM2025)
 
@@ -142,7 +142,7 @@ python -m streamlit run app.py
 
 ## What I bring
 
-**Enterprise AI implementation & delivery · C-suite advisory · agentic AI architecture & governance · technical pre-sales.**
+**AI Solutions Engineering & Technical Sales | Enterprise Discovery to Deployment | Advisory & Governance | Business Value First**
 
 Verifiable shipped code. Python, cloud architecture, and MCP integration. Bounded tool authority and model evaluation. Founder-level ownership. Translation from an executive business problem to a reviewed technical decision.
 
