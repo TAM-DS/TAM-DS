@@ -11,6 +11,30 @@ I build enterprise AI for decisions where money, risk, and accountability matter
 
 ---
 
+## Featured — Penumbra: investigate threats, govern the defender
+
+**[Penumbra](https://github.com/TAM-DS/penumbra)** — agentic AI counterintelligence with human-reviewed containment.
+
+A five-layer reference architecture connects synthetic telemetry, temporal evidence, specialist investigators, deterministic guardrails and an operator workspace. Operation Low Tide brings insider risk, synthetic personas and prompt injection into one evidence-linked investigation.
+
+**The distinguishing question: what happens when the defending agent is compromised?** Red-team mode simulates a hijacked agent; scoped tools and policy checks block attempts to allowlist attacker infrastructure or close the investigation. Containment proposals expose their simulated blast radius, require human review, and leave an Ed25519-signed, hash-chained audit trail.
+
+[Inspect the architecture](https://github.com/TAM-DS/penumbra/blob/main/docs/ARCHITECTURE.md) · [Review the threat model](https://github.com/TAM-DS/penumbra/blob/main/docs/THREAT_MODEL.md) · [Run the keyless demo](https://github.com/TAM-DS/penumbra#quickstart)
+
+*Synthetic reference implementation with deterministic agents and an optional Claude backend. Containment and OSINT are simulated; live telemetry connectors and SSO-bound approver identity remain roadmap work. The demo is not a production security service.*
+
+### The connection: Kepler, people and security
+
+Penumbra takes its name from the partial shadow: the space between full light and darkness. My fascination with Kepler led me, at Harvard, to write about the music of the spheres. The idea I carry into architecture is to look at the whole system: **no single signal tells the whole story; the pattern matters.**
+
+The moon has two sides, and so do I: the extrovert who works across executives, engineers, Legal and HR, and the focused builder who turns those conversations into working systems. Penumbra needed both.
+
+In 2017, I was writing [*Hacking The Human*](https://cyberessentialsdotblog.wordpress.com/) about insider threats, social engineering and cybercrime-as-a-service. Today I build agentic AI. Penumbra closes that loop: **agents that help defend an organization must themselves be defensible.**
+
+[Read the full builder story](https://github.com/TAM-DS/penumbra#why-penumbra-a-note-from-the-builder).
+
+---
+
 ## Featured — FirstSync: governed customer onboarding, deployed
 
 **[FirstSync](https://github.com/TAM-DS/firstsync)** · **[live demo](https://firstsync-demo.fly.dev)** — no login or API key
@@ -42,6 +66,7 @@ Business value first. Inspectable engineering behind every claim.
 
 **Make accountability visible.** Build explicit authorization boundaries, accountable ownership, and traceable evidence for human review.
 
+- **[Penumbra](https://github.com/TAM-DS/penumbra)** — Evidence-linked counterintelligence, scoped tools, reviewed containment and signed audit records.
 - **[VANGUARD-Guard](https://github.com/TAM-DS/vanguard-guard)** — AI inventory, risk assessment, and ownership workflows.
 - **[AEGIS-NHI](https://github.com/TAM-DS/aegis-nhi)** — Connected investigations and modeled financial exposure.
 - **[AEGIS Evidence](https://github.com/TAM-DS/aegis-evidence)** — Replayable workpapers and SHA-256-verifiable archives.
