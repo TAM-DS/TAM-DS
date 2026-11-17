@@ -47,6 +47,24 @@ The clearest expression of the operating principle this profile is built on, app
 
 ---
 
+## Featured — SignalDesk: evidence before outreach
+
+**[SignalDesk — Acquisition Intelligence](https://github.com/TAM-DS/signaldesk-acquisition-intelligence)** — OpenAI-powered company research, human-reviewed decisions and bounded Salesforce access.
+
+A commercial workflow built around a practical question: **what evidence is strong enough to act on?** SignalDesk turns company research into source-linked candidates, routes them through human review, and keeps unsupported claims on hold. Approval binds to the exact draft; edits and new research revoke it. Do Not Contact suppression persists, and live research has explicit request limits.
+
+**Salesforce proof:** the documented developer-org run assessed two synthetic Leads: **one blocked, one requiring review**. Lead permission metadata reported query access allowed and create/update/delete denied. The GET-only preview makes no CRM writes and grants no outreach authority.
+
+**The revealing result:** after a human-authorized acquisition handoff, separately triggered research could not verify the contact. SignalDesk kept the lead on **Needs evidence** instead of producing an approvable message. A useful AI workflow must know when to stop.
+
+[Review the Salesforce validation](https://github.com/TAM-DS/signaldesk-acquisition-intelligence/blob/main/docs/SALESFORCE_DEV_ORG_VALIDATION.md) · [Inspect the workflow evidence](https://github.com/TAM-DS/signaldesk-acquisition-intelligence/blob/main/docs/VALIDATION.md) · [Explore the client-to-value case](https://github.com/TAM-DS/signaldesk-acquisition-intelligence/blob/main/docs/TAGM_CLIENT_TO_VALUE_STUDIO.md)
+
+**External recognition:** the XERJ team selected the Salesforce GET-only implementation for its public code-reference corpus.
+
+*Local, single-user reference application. Live observations are developer-operated; automated provider tests are mocked. Delivery is simulated. Corpus selection is not certification or proof of customer outcomes.*
+
+---
+
 ## What I bring — three areas of impact
 
 Business value first. Inspectable engineering behind every claim.
