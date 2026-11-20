@@ -11,6 +11,22 @@ I build enterprise AI for decisions where money, risk, and accountability matter
 
 ---
 
+## Featured — DeadBolt: find leaked keys, review agent authority
+
+**[DeadBolt](https://github.com/TAM-DS/deadbolt)** · **[GitHub Marketplace Action](https://github.com/marketplace/actions/deadbolt-secret-agent-authority-scan)** · **[v0.1.0 release](https://github.com/TAM-DS/deadbolt/releases/tag/v0.1.0)**
+
+A leaked key is only part of the problem. DeadBolt scans local files, staged changes, git history and container layers for credentials and risky MCP or agent configurations, then estimates potential authority to help a human prioritize remediation.
+
+**Built to fit the engineering workflow:** 21 credential rules, nine MCP and agent checks, text/JSON/SARIF reports, a pre-commit hook and a published GitHub Action. The offline core needs no API key or AI model; the CLI runs from a Mac or Linux terminal. A synthetic demo produces 30 findings, with 60 automated tests and a Linux CI matrix covering Python 3.10–3.13.
+
+**The boundary:** DeadBolt writes content-hashed proposals and records human decisions. It never uses discovered credentials or executes remediation. Authority scores are estimates; actual access remains unknown. A trusted, separately retained ledger head is required to detect a completely rewritten approval chain.
+
+[Run the Mac/Linux demo](https://github.com/TAM-DS/deadbolt#quick-start--macos-and-linux) · [Inspect the checks](https://github.com/TAM-DS/deadbolt/actions/workflows/ci.yml) · [Review the security scope](https://github.com/TAM-DS/deadbolt/blob/main/SECURITY.md)
+
+DeadBolt adds a **before-commit/build** check to the portfolio: GuardRails-MCP evaluates prompts before release, Agent Foundry governs validation and deployment, and Penumbra investigates threats at runtime.
+
+---
+
 ## Featured — Penumbra: investigate threats, govern the defender
 
 **[Penumbra](https://github.com/TAM-DS/penumbra)** — agentic AI counterintelligence with human-reviewed containment.
@@ -84,6 +100,7 @@ Business value first. Inspectable engineering behind every claim.
 
 **Make accountability visible.** Build explicit authorization boundaries, accountable ownership, and traceable evidence for human review.
 
+- **[DeadBolt](https://github.com/TAM-DS/deadbolt)** — Offline secret and agent-config scanning, SARIF reports and a published GitHub Action; human-reviewed remediation.
 - **[Penumbra](https://github.com/TAM-DS/penumbra)** — Evidence-linked counterintelligence, scoped tools, reviewed containment and signed audit records.
 - **[VANGUARD-Guard](https://github.com/TAM-DS/vanguard-guard)** — AI inventory, risk assessment, and ownership workflows.
 - **[AEGIS-NHI](https://github.com/TAM-DS/aegis-nhi)** — Connected investigations and modeled financial exposure.
